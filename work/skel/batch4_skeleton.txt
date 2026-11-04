@@ -1,0 +1,1752 @@
+
+=== PDF p189 ===
+  [img] p189_r1 fig 109x135pt @(421,403) lignes=0
+  [printed] 3   [lines] 17   [regions] 1
+      66.5   83.1 12.0B     | Ou bien le rendement = 100 – perte
+      97.0   65.1 14.0B     | CORRECTION DES EXERCICES CHAPITRE 1 (section 03) :
+     125.6  113.4 14.0B     | EXERCICE : 01
+     155.6   73.8 12.0B     | Reliez chaque phrase avec la réponse qui convient :
+     183.8   76.2 12.0      | Matelassage à sens vers
+     188.3  303.2 12.0      | Superposer de plusieurs plis de tissu.
+     215.6   76.2 12.0      | le haut Matelassage en
+     215.9  303.2 12.0      | Endroit contre endroit, envers contre
+     229.7  303.2 12.0      | Envers à chaque pli le sens de tissu est
+     231.5   76.2 12.0      | accordéon
+     243.5  303.2 12.0      | respecté.
+     261.0   65.1 12.0      | Matelassage à sens à
+     271.6  303.2 12.0      | Envers contre envers, endroit contre endroit,
+     285.4  303.2 12.0      | à chaque pli le sens de tissu est inversé.
+     303.2   76.2 12.0      | paire Le matelassage
+     313.0  303.2 12.0      | Endroit contre envers.
+     786.2  291.2 10.0      | III
+
+=== PDF p190 ===
+  [img] p190_r1 mixed 455x403pt @(70,142) lignes=21
+  [printed] 4   [lines] 24   [regions] 1
+      84.0  114.9 14.0B     | EXERCICE : 02
+     115.7   88.7 10.0      | 1) Complétez le tableau suivant :
+     150.6  143.8 10.0B p190_r1 | Nom de la table
+     150.6  370.8 10.0B p190_r1 | Rôle de la table
+     186.3  289.0 10.0  p190_r1 | Des tables destinées au matelassage à la baguette,
+     198.4   76.3 10.0B p190_r1 | Table à taquet
+     197.8  289.0 10.0  p190_r1 | correspondant au matelassage en zigzag (ou en
+     209.3  289.0 10.0  p190_r1 | accordéon)
+     253.0  289.0 10.0  p190_r1 | Convient pour les tissus légers, difficiles à matelasser sur
+     264.4  289.0 10.0  p190_r1 | des tables classiques.
+     264.9   76.3 10.0B p190_r1 | Table recto mètre basculante
+     318.2   76.3 10.0B p190_r1 | Table de transfert
+     317.9  289.0 10.0  p190_r1 | Le transfert du matelas vers la table de découpe
+     362.1  289.0 10.0  p190_r1 | Utilisée pour le matelassage (puis découpe) de matières
+     368.0   76.3 10.0B p190_r1 | Table aspirante
+     373.5  289.0 10.0  p190_r1 | gonflantes et compressibles
+     421.2   76.3 10.0B p190_r1 | Table de stockage
+     420.9  289.0 10.0  p190_r1 | Stocker les tronçons de matelas avant le découpage
+     464.7  289.0 10.0  p190_r1 | Permettent d’obtenir une superposition parfaite des plis
+     470.8   76.3 10.0B p190_r1 | Table à aiguille
+     476.2  289.0 10.0  p190_r1 | selon les carreaux, le dessin ou le motif du tissu.
+     517.4   76.3 10.0B p190_r1 | Table à coussin d’air
+     517.0  289.0 10.0  p190_r1 | Assure un déplacement des matelas sans frottement
+     786.2  291.2 10.0      | IV
+
+=== PDF p191 ===
+  [img] p191_r1 fig 95x74pt @(406,502) lignes=0
+  [printed] 5   [lines] 48   [regions] 1
+      78.2   65.1 14.0B     | CORRECTION DES EXERCICES CHAPITRE 1 (section 04) :
+     114.8  115.8 12.0B     | EXERCICE :01
+     144.2   70.8 12.0      | Répondez aux questions suivantes :
+     170.1   70.8 12.0B     | 1- Le but de contrôle est :
+     195.9   88.8 11.9      | -
+     195.9  106.8 12.0      | De corriger les variations non acceptables
+     211.9   88.8 11.9      | -
+     211.9  106.8 12.0      | D’éliminer les causes de variation dans la mesure de possible
+     237.6   70.8 12.0B     | 2- Les différentes étapes de contrôle de qualité sont :
+     263.5   88.8 11.9      | -
+     263.5  106.8 12.0      | Contrôle des matières premières
+     279.3   88.8 11.9      | -
+     279.3  106.8 12.0      | Contrôle du placement
+     295.4   88.8 11.9      | -
+     295.4  106.8 12.0      | Contrôle de traçage
+     311.3   88.8 11.9      | -
+     311.3  106.8 12.0      | Contrôle de matelassage
+     327.1   88.8 11.9      | -
+     327.1  106.8 12.0      | Contrôle de coupe et mise en paquets
+     343.1   88.8 11.9      | -
+     343.1  106.8 12.0      | Contrôle au lancement en piquage
+     359.0   88.8 11.9      | -
+     359.0  106.8 12.0      | Contrôle en cours de fabrication
+     375.0   88.8 11.9      | -
+     375.0  106.8 12.0      | Contrôle final de produit
+     400.8   70.8 12.0B     | 3- Le contrôle se fait sur plusieurs niveaux qui sont :
+     426.7   88.8 11.9      | -
+     426.7  106.8 12.0      | Sur le procédé de fabrication
+     442.4   88.8 11.9      | -
+     442.4  106.8 12.0      | Sur l’ouvrier
+     458.5   88.8 11.9      | -
+     458.5  106.8 12.0      | Sur la conformité des produits finis
+     484.2   70.8 12.0B     | 4- Pour assurer la qualité il faut :
+     510.3   70.8 12.0      | Choisir les procédés technologiques de :
+     535.9   88.8 11.9      | -
+     535.9  106.8 12.0      | La matière d’œuvre
+     551.9   88.8 11.9      | -
+     551.9  106.8 12.0      | Les moyens matériels
+     567.8   88.8 11.9      | -
+     567.8  106.8 12.0      | Les méthodes de travail
+     593.6   70.8 12.0      | Respecter les critères de conformité en établissant le contrôle de produit :
+     619.5   88.8 11.9      | -
+     619.5  106.8 12.0      | En cours de préparation
+     635.3   88.8 11.9      | -
+     635.3  106.8 12.0      | En cours de fabrication
+     651.3  106.8 12.0      | En fin de fabrication
+     653.0   88.8  9.8      | -
+     786.2  291.2 10.0      | V
+
+=== PDF p192 ===
+  [img] p192_r1 fig 54x50pt @(449,71) lignes=0
+  [img] p192_r2 fig 148x185pt @(372,188) lignes=0
+  [img] p192_r3 fig 298x217pt @(226,438) lignes=0
+  [printed] 6   [lines] 26   [regions] 3
+      70.1  115.8 12.0B     | EXERCICE :02
+     102.4   70.8 12.0B     | Marche à suivre :
+     129.1   88.8 12.0      |  Les stagiaires, partagés par équipes, vont contrôler les différents   rouleaux de tissus.
+     150.4   88.8 12.0      |  Ils doivent classer les défauts identifiés.
+     181.0   70.8 12.0B     | Méthode d’exécution :
+     201.1   85.0 12.0B     | 1- Gros fil ou fil fin : fil de chaîne dont le diamètre diffère
+     221.9  103.0 12.0      | de celui normalement utilisé pour les fils composant le
+     242.6  103.0 12.0      | tissu.
+     276.1   88.8  7.7      | ■
+     276.3  106.8 12.0B     | Méthode de contrôle : Evaluation visuelle des
+     296.2  106.8 12.0      | imperfections du tissu qui seraient inacceptables sur
+     316.2  106.8 12.0      | un vêtement et mesure de leur longueur.
+     357.7   88.8  7.7      | ■
+     357.9  106.8 12.0B     | Tolérance : Un défaut est toléré si la laize résiduelle
+     377.3  106.8 12.0      | est conforme à celle convenue dans le contrat.
+     406.1   85.0 12.0B     | 2- Rayures partielles ou totales dans le sens de la chaîne, dont l’aspect diffère de l’ensemble
+     427.1  103.0 12.0      | de la pièce.
+     454.7   88.8  7.7      | ■
+     454.9  106.8 12.0B     | Méthode de contrôle : Evaluation visuelle des
+     474.9  106.8 12.0      | imperfections qui seraient inacceptables sur un
+     494.8  106.8 12.0      | vêtement, et mesure de leur longueur.
+     516.6   88.8  7.7      | ■
+     516.8  106.8 12.0B     | Tolérance :
+     539.7   70.8 12.0      | Le défaut est toléré si la laize résiduelle utilisable est celle
+     560.5   70.8 12.0      | prévue dans le contrat.
+     786.2  291.2 10.0      | VI
+
+=== PDF p193 ===
+  [img] p193_r1 fig 172x135pt @(352,70) lignes=0
+  [img] p193_r2 fig 160x107pt @(355,261) lignes=0
+  [img] p193_r3 fig 433x203pt @(88,419) lignes=0
+  [printed] 7   [lines] 19   [regions] 3
+      69.7   85.0 12.0B     | 3- Rayures partielles ou totales dans le sens de la
+      90.5  103.0 12.0      | trame d’aspect différent de l’ensemble de la
+     111.2  103.0 12.0      | pièce.
+     138.9   88.8  7.7      | ■
+     139.1  106.8 12.0B     | Méthode de contrôle : Evaluation visuelle des
+     159.1  106.8 12.0      | imperfections qui seraient inacceptables sur un
+     179.0  106.8 12.0      | vêtement et mesure de leur longueur.
+     200.6   88.8  7.7      | ■
+     200.8  106.8 12.0B     | Tolérance : Aucune tolérance n’est retenue.
+     243.3   85.0 12.0B     | 4- Nœuds ou petites grosseurs de certains fils de chaîne ou de trame visibles.
+     271.0   88.8  7.7      | ■
+     271.1  106.8 12.0B     | Méthode de contrôle : Evaluation visuelle des
+     291.2  106.8 12.0      | défauts qui seraient inacceptables sur un
+     311.1  106.8 12.0      | vêtement.
+     332.6   88.8  7.7      | ■
+     332.8  106.8 12.0B     | Tolérance : Aucune tolérance n’est retenue.
+     375.4   85.0 12.0B     | 5- Rentrayage défectueux reprise de mauvaise apparence sur l'endroit du tissu.
+     390.3   70.8 12.0      | Déchirures, entailles, trous : rupture du tissu ayant des formes diverses.
+     786.2  291.2 10.0      | VII
+
+=== PDF p194 ===
+  [img] p194_r1 fig 161x131pt @(364,81) lignes=0
+  [img] p194_r2 fig 141x109pt @(214,94) lignes=0
+  [img] p194_r3 fig 182x119pt @(357,260) lignes=0
+  [img] p194_r4 fig 235x118pt @(310,453) lignes=0
+  [img] p194_r5 fig 237x142pt @(312,601) lignes=0
+  [printed] 8   [lines] 37   [regions] 5
+      68.5   88.8  7.7      | ■
+      68.6  106.8 12.0B     | Taches : surface de tissu imprégnée de souillure.
+     104.7   88.8  7.7      | ■
+     104.9  106.8 12.0B     | Méthode de
+     125.0  106.8 12.0B     | contrôle :
+     145.1  106.8 12.0      | Evaluation visuelle
+     165.2  106.8 12.0      | des imperfections
+     185.5  106.8 12.0      | qui seraient
+     206.4  106.8 12.0      | Inacceptables sur un vêtement.
+     225.8   88.8  7.7      | ■
+     226.0  106.8 12.0B     | Tolérance : Aucune tolérance n'est retenue.
+     262.7   85.0 12.0B     | 6- La pièce est coupée sur toute la laize en deux ou
+     283.5  103.0 12.0      | plusieurs tronçons, dont l’ensemble constitue le
+     304.2  103.0 12.0      | métrage convenu.
+     332.3   88.8  7.7      | ■
+     332.4  106.8 12.0B     | Méthode de contrôle :
+     354.9   70.8 12.0      | Constatation du nombre de tronçons constituant ensemble
+     375.6   70.8 12.0      | la longueur de la pièce commandée.
+     397.1   88.8  7.7      | ■
+     397.3  106.8 12.0      | Tolérance : Aucune tolérance n'est retenue.
+     425.9   70.8 12.0B     | 7- Le métrage livré dans un type et coloris donnés qui est supérieur ou inférieur au métrage
+     439.7   70.8 12.0      | commandé. Il s’agit de la longueur brute,
+     453.2   70.8 12.0      | Défauts éventuels compris.
+     468.1   88.8  7.7      | ■
+     468.3  106.8 12.0B     | Méthode de contrôle :
+     491.1   70.8 12.0      | Mesurer la longueur de chaque pièce faisant
+     504.9   70.8 12.0      | partie de la commande. Totaliser les résultats
+     518.7   70.8 12.0      | obtenus.
+     545.2   88.8  7.7      | ■
+     545.3  106.8 12.0B     | Tolérance : Jusqu’à 1.M : -5% à +5%,
+     560.3  106.8 12.0      | mais au maximum l’équivalent d'une
+     575.2  106.8 12.0      | demi-
+     590.1   70.8 12.0      | Pièce.
+     603.9   70.8 12.0      | De 1. M à 5. M : + 45 m
+     624.6   70.8 12.0      | De 5.m à 10.000 m : + 85 m
+     645.2   70.8 12.0      | Plus de 10.m : + 115 m.
+     786.2  291.2 10.0      | VIII
+
+=== PDF p195 ===
+  [img] p195_r1 fig 328x540pt @(131,175) lignes=0
+  [printed] 9   [lines] 4   [regions] 1
+      88.8   65.1 14.0B     | CORRECTION DES EXERCICES CHAPITRE 01 (exercice synthèse)
+     121.2   70.8 12.0      | Recherche de métrage pour veston taille 44 sur une laize 0,90 m
+     147.0   88.8 14.0B     |  Pour le tissu
+     786.2  291.2 10.0      | IX
+
+=== PDF p196 ===
+  [img] p196_r1 fig 346x626pt @(123,98) lignes=0
+  [printed] 9   [lines] 2   [regions] 1
+      70.0   88.8 14.0B     |  Pour la doublure
+     786.2  293.8 10.0      | IX
+
+=== PDF p197 ===
+  [img] p197_r1 fig 425x325pt @(84,127) lignes=0
+  [rec] p197_d1 22x16pt @(85,98)
+  [printed] 10   [lines] 18   [regions] 1
+      98.1   95.9 14.0      | Pour la triplure
+     494.0   73.8 12.0B     | Calcul de perte et rendement de la matière (taille 44) sur une laize 0,90 m suivant la
+     509.8   70.8 12.0B     | méthode de pesage :
+     534.7   88.8 12.0      |  Poids tracé = 23,8 g
+     551.4   88.8 12.0      |  Poids patrons = 20,3 g
+     578.9  165.0 10.0      | Petr -Pp
+     578.9  321.3 10.0      | 23,8 -20,3
+     584.3   94.1 10.0      | Perte =
+     584.3  221.6 10.0      | X 100
+     584.3  258.8 10.0      | =
+     584.3  389.1 10.0      | X100 =  14,70
+     590.4  173.1 10.0      | Petr
+     590.4  333.0 10.0      | 20,2
+     615.7  195.9 10.0      | Perte = 14,70%
+     653.7   88.8 12.0B     |    Le rendement
+     679.0   70.8 12.0      | Rendement = 100 - 14,70 = 85,30
+     704.9  208.5 10.0      | R = 85,30%
+     786.2  288.5 10.0      | X
+
+=== PDF p198 ===
+  [img] p198_r1 fig 169x169pt @(351,427) lignes=0
+  [rec] p198_d1 19x13pt @(85,70)
+  [rec] p198_d2 19x13pt @(85,320)
+  [printed] 11   [lines] 33   [regions] 1
+      70.0   94.3 12.0B     | Calcul de perte pour doublure (T44)
+      85.2   88.8 12.0      |  Poids tracé = 21 g
+     101.7   88.8 12.0      |  Poids patrons = 18,2 g
+     145.1  169.3 10.0      | Petr-Pp
+     145.1  316.7 10.0      | 21 – 18,2
+     150.5   91.7 10.0      | Perte  =
+     150.5  240.9 10.0      | X 100   =
+     150.5  392.1 10.0      | X 100   =
+     150.5  454.2 10.0      | 13,33
+     156.5  176.3 10.0      | Petr
+     156.5  330.5 10.0      | 21
+     193.5  199.5 10.0      | Perte = 13,33 %
+     231.5   88.8 12.0B     |    Le rendement
+     256.8   70.8 12.0      | Rendement = 100 – 13,33 = 86,67
+     282.7  198.8 10.0      | R = 86,67 %
+     320.3   94.3 12.0B     | Calcul de perte pour triplure (T44)
+     335.6  124.8 11.9      | -
+     335.8  142.8 12.0      | Poids tracé = 11,9 g
+     351.6  124.8 11.9      | -
+     351.8  142.8 12.0      | Poids patrons = 10,5 g
+     377.8  168.0 10.0      | Petr -Pp
+     377.8  314.9 10.0      | 11,9 -10,5
+     383.2   94.2 10.0      | Perte =
+     383.2  242.0 10.0      | X100   =
+     383.2  393.3 10.0      | X100   =
+     383.2  454.3 10.0      | 11,76
+     389.3  176.1 10.0      | Petr
+     389.3  326.6 10.0      | 11,9
+     416.7  193.7 10.0      | Perte = 11,76%
+     452.7   88.8 12.0B     |    Le rendement
+     478.1   70.8 12.0      | Rendement = 100 -11,76 = 88,24
+     503.8  200.9 10.0      | R = 88,24%
+     786.2  288.5 10.0      | XI
+
+=== PDF p199 ===
+  [printed] 12   [lines] 26   [regions] 0
+      71.0   70.8 14.0B     | CHAPITRE II : DEROULEMENT DES ETAPES DE FABRICATION
+     111.0   70.8 14.0B     | CORRECTION DES EXERCICES CHAPITRE 2 (section 01
+     150.1   65.1 12.0B     | EXERCICE : 01
+     171.0   74.8 10.0      | :
+     184.4   70.8 12.0      | Complétez le vide par les mots qui convient :
+     220.9   70.8 12.0      | Chaleur, support, composé, adhésif, fixer, tissu, appliqué, pression
+     241.7   70.8 12.0B     | Un thermocollant composé d’un support   textile, sur laquelle est appliqué un Adhésif
+     262.5   70.8 12.0B     | Thermo fusible, qu’être fixer sur un autre tissu à l’aide de la pression et de la chaleur.
+     304.2   65.1 12.0B     | EXERCICE : 02
+     331.2   70.8 12.0      | Répondrez aux questions suivantes :
+     358.8   70.8 12.0      | 1- L’entoilage sa nécessite pas la vapeur.
+     384.7   70.8 12.0      | 2- L’envers d’un thermocollant est reconnu par des petits graines de colle (qui seront collés
+     400.9   70.8 12.0      | sur l’envers de vêtement) l’endroit est tissé.
+     426.5   70.8 12.0      | 3- Le dut d’entoilage c’est de renforcer ou consolider une partie d’un vêtement.
+     452.4   70.8 12.0      | 4- Pour le thermocollant tissé, il faut respecter le droit fil et pour le thermocollant non tissé
+     468.4   70.8 12.0      | on peut le couper sans condition de droit fil.
+     514.0   60.8 14.0B     | CORRECTION DES EXERCICES CHAPITRE II : (section 02)
+     546.2   70.8 12.0B     | EXERCICE : 01
+     575.6   70.8 12.0      | Complétez les définitions suivantes :
+     603.4   70.8 12.0B     | 1-La gamme de montage c’est une suite d’opérations aboutissant à l’élaboration produit.
+     624.1   70.8 12.0B     | 2-La gamme de montage concerne l’atelier de fabrication.
+     644.9   70.8 12.0B     | 3- La gamme de pressage concerne l’atelier d’presse finale (notamment en confection
+     665.7   70.8 12.0      | masculine.
+     686.3   70.8 12.0B     | 4- La gamme d’empaquetage qui concerne l’atelier de pré-expédition (étiquetage, pliage,
+     707.2   70.8 12.0      | emballage).
+     786.2  288.5 10.0      | XII
+
+=== PDF p200 ===
+  [img] p200_r1 fig 183x121pt @(71,97) lignes=0
+  [img] p200_r2 fig 217x115pt @(307,259) lignes=0
+  [img] p200_r3 fig 385x130pt @(105,385) lignes=0
+  [img] p200_r4 fig 452x20pt @(71,568) lignes=0
+  [img] p200_r5 fig 423x122pt @(101,600) lignes=0
+  [printed] 13   [lines] 13   [regions] 5
+      70.1  143.3 12.0B     | EXERCICE : 02
+     129.5  287.2  9.9      | 
+     132.0  305.2 10.0      | La longueur de la manche tailleur le plus
+     145.1  305.2 10.0      | juste cette de la veste bleue parce qu’il est
+     158.0  305.2 10.0      | plus court que la manche de la chemise 2
+     171.1  305.2 10.0      | cm
+     257.8  108.7 12.0      |  L’ouverture de revers de la
+     275.1  126.7 12.0      | veste a sa voir la position de
+     290.9  126.7 12.0      | premier bouton
+     527.4   88.8 12.0      |  La dernière veste est la plus fomente.
+     732.2   88.8 12.0      |  La veste la plus élégante c’est la troisième parce que à la mode de cette période et
+     749.3  106.8 12.0      | aussi leur revers est très fin avec d’autre tissu brille.
+     786.2  288.5 10.0      | XIII
+
+=== PDF p201 ===
+  [img] p201_r1 fig 98x60pt @(399,70) lignes=0
+  [img] p201_r2 mixed 178x226pt @(71,156) lignes=1
+  [img] p201_r3 fig 193x216pt @(331,368) lignes=0
+  [img] p201_r4 fig 140x91pt @(226,639) lignes=0
+  [rec] p201_d1 19x13pt @(319,158)
+  [printed] 14   [lines] 18   [regions] 4
+      66.5   65.1 14.0B     | CORRECTION DES EXERCICES
+      84.7   65.1 14.0B     | CHAPITRE II : (section 03)
+     130.8   65.1 14.0B     | EXERCICE : 01
+     158.2  336.8 12.0      | Plis inclinés dans la tête de la
+     178.9  336.8 12.0      | manche :
+     209.8  300.8 12.0      | La cause :
+     230.4  336.8 12.0      | Largeur débridée dans la tête de la
+     251.2  336.8 12.0      | manche dans le sens de dos
+     372.3  138.0 12.0  p201_r2 | Plis inclinés dans le revers :
+     402.8  102.0 12.0      | La cause :
+     423.4  129.9 12.0      | La ponte d’épaule est petite.
+     454.1  129.9 12.0      | La position d’épaule n’est pas
+     474.8  138.0 12.0      | correcte.
+     506.8  128.1 10.0      | Les revers mal positionnés à la
+     521.3  138.0 10.0      | couture
+     533.6  128.1 10.0      | Le cran n’était pas à sa place.
+     546.8  128.1 10.0      | Le sens de tissu.
+     786.2  288.5 10.0      | XIV
+
+=== PDF p202 ===
+  [img] p202_r1 fig 82x41pt @(429,70) lignes=0
+  [printed] 15   [lines] 4   [regions] 1
+      94.4   65.1 14.0B     | CORRECTION DES EXERCICES CHAPITRE 01 :
+     131.4   70.8 14.0B     | EXCERCICEDE SYNTHESE
+     159.0   70.8 12.0B     | Fiche de l’exercice de synthèse fin chapitre II
+     786.2  288.5 10.0      | XV
+
+=== PDF p203 ===
+  [img] p203_r1 fig 444x603pt @(71,87) lignes=0
+  [printed] 16   [lines] 1   [regions] 1
+     786.2  288.5 10.0      | XVI
+
+=== PDF p204 ===
+  [printed] 17   [lines] 136   [regions] 0
+      74.4   77.8 14.0B     | CHAPITRE III : APPLICATION DE LA GAMME DE MONTAGE
+     106.4   72.0 14.0B     | CORRECTION DES EXERCICES CHAPITRE III : (section 01)
+     148.4   72.0 14.0B     | EXERCICE : 01
+     179.9   80.8 12.0      | Présentation de la fiche de vêtement, pour le tissu de la veste classique
+     198.6  454.4 10.0      | Ordre dans le
+     203.9   94.1 10.0      | N° Pièce
+     203.9  212.0 10.0      | Désignation
+     203.9  350.4 10.0      | Multiplicateur
+     210.1  460.9 10.0      | placement
+     232.8  151.3 10.0      | Devant.
+     232.8  452.3 10.0      | 01/18
+     244.3  151.3 10.0      | Dos.
+     244.3  452.3 10.0      | 02/18
+     246.5  106.9 10.0      | 01
+     246.5  374.0 10.0      | 02
+     255.8  151.3 10.0      | Petit côté.
+     255.9  452.3 10.0      | 03/18
+     258.1  106.9 10.0      | 02
+     258.1  374.0 10.0      | 02
+     267.3  151.3 10.0      | Garniture.
+     267.3  452.3 10.0      | 04/18
+     269.6  106.9 10.0      | 03
+     269.6  374.0 10.0      | 02
+     278.7  151.3 10.0      | Dessus manche.
+     278.7  452.3 10.0      | 05/18
+     281.1  106.9 10.0      | 04
+     281.1  374.0 10.0      | 02
+     290.2  151.3 10.0      | Dessous manche.
+     290.1  452.3 10.0      | 06/18
+     292.6  106.9 10.0      | 05
+     292.6  374.0 10.0      | 02
+     301.7  151.3 10.0      | Feutre col.
+     301.6  452.3 10.0      | 07/18
+     304.1  106.9 10.0      | 06
+     304.1  374.0 10.0      | 02
+     313.3  151.3 10.0      | Dessus col.
+     313.1  452.3 10.0      | 08/18
+     315.4  106.9 10.0      | 07
+     315.4  374.0 10.0      | 01
+     324.8  151.3 10.0      | Banane.
+     324.8  452.3 10.0      | 09/18
+     326.9  106.9 10.0      | 08
+     326.9  374.0 10.0      | 01
+     336.2  151.3 10.0      | Rabat poche côté.
+     336.3  452.3 10.0      | 10/18
+     338.5  106.9 10.0      | 09
+     338.5  374.0 10.0      | 01
+     347.7  151.3 10.0      | Parementure poche côté.
+     347.6  452.3 10.0      | 11/18
+     350.1  106.9 10.0      | 10
+     350.1  374.0 10.0      | 02
+     359.2  151.3 10.0      | Passe - poiles des poches.
+     359.1  452.3 10.0      | 12/18
+     361.5  106.9 10.0      | 11
+     361.5  374.0 10.0      | 02
+     370.7  151.3 10.0      | Patte poche poitrine.
+     370.6  452.3 10.0      | 13/18
+     372.9  106.9 10.0      | 12
+     372.9  374.0 10.0      | 05
+     382.5  151.3 10.0      | Parementure poche poitrine.
+     382.3  452.3 10.0      | 14/18
+     384.4  106.9 10.0      | 13
+     384.4  374.0 10.0      | 01
+     393.9  151.3 10.0      | Parementure poche cigarette.
+     393.7  452.3 10.0      | 15/18
+     395.9  106.9 10.0      | 14
+     395.9  374.0 10.0      | 01
+     405.4  151.3 10.0      | Parementure poche stylo.
+     405.0  452.3 10.0      | 16/18
+     407.4  106.9 10.0      | 15
+     407.4  374.0 10.0      | 01
+     416.5  452.3 10.0      | 17/18
+     417.0  151.3 10.0      | Parementure poche portefeuille
+     419.0  106.9 10.0      | 16
+     419.0  374.0 10.0      | 01
+     428.4  151.3 10.0      | Tirette.
+     428.0  452.3 10.0      | 18/18
+     430.5  106.9 10.0      | 17
+     430.5  374.0 10.0      | 01
+     441.8  106.9 10.0      | 18
+     441.8  374.0 10.0      | 01
+     506.9   95.8 12.0      |  Pour la doublure de la veste classique :
+     532.9  454.8 10.0      | Ordre dans le
+     538.2   94.1 10.0      | N° Pièce
+     538.2  212.3 10.0      | Désignation
+     538.2  350.8 10.0      | Multiplicateur
+     544.4  461.3 10.0      | placement
+     567.0  106.9 10.0      | 01
+     567.0  151.5 10.0      | Devant supérieur.
+     567.0  354.9 10.0      | 02
+     567.0  455.1 10.0      | 01/11
+     578.4  106.5 10.0      | 01’
+     578.4  151.5 10.0      | Devant inférieur.
+     578.4  354.9 10.0      | 02
+     578.4  455.1 10.0      | 01’/11
+     589.9  106.9 10.0      | 02
+     589.9  151.5 10.0      | Dos.
+     589.9  354.9 10.0      | 01
+     589.9  455.1 10.0      | 02/11
+     601.3  106.9 10.0      | 03
+     601.3  151.5 10.0      | Petit côté.
+     601.3  354.9 10.0      | 02
+     601.3  455.1 10.0      | 03/11
+     612.9  106.9 10.0      | 04
+     612.8  151.5 10.0      | Dessus manche.
+     612.9  354.9 10.0      | 02
+     612.9  455.1 10.0      | 04/11
+     624.5  106.9 10.0      | 05
+     624.3  151.5 10.0      | Dessous manche.
+     624.5  354.9 10.0      | 02
+     624.5  455.1 10.0      | 05/11
+     635.9  106.9 10.0      | 06
+     635.9  151.5 10.0      | Fond poche côté.
+     635.9  354.9 10.0      | 02
+     635.9  455.1 10.0      | 06/11
+     647.3  106.9 10.0      | 07
+     647.4  151.5 10.0      | Fond poche poitrine.
+     647.3  354.9 10.0      | 02
+     647.3  455.1 10.0      | 07/11
+     658.8  106.9 10.0      | 08
+     658.9  151.5 10.0      | Fond poche portefeuille.
+     658.8  354.9 10.0      | 01
+     658.8  455.1 10.0      | 08/11
+     670.4  106.9 10.0      | 09
+     670.3  151.5 10.0      | Fond poche cigarette.
+     670.4  354.9 10.0      | 01
+     670.4  455.1 10.0      | 09/11
+     681.9  106.9 10.0      | 10
+     681.8  151.5 10.0      | Fond poche stylo.
+     681.9  354.9 10.0      | 01
+     681.9  455.1 10.0      | 10/11
+     693.2  106.9 10.0      | 11
+     693.3  151.5 10.0      | Rabat poche côté.
+     693.2  354.9 10.0      | 02
+     693.2  455.1 10.0      | 11/11
+     786.2  288.5 10.0      | XVII
+
+=== PDF p205 ===
+  [printed] 18   [lines] 87   [regions] 0
+      70.3   95.8 12.0      |  Pour la triplure de la veste classique
+      97.7  447.8 10.0      | Ordre dans le
+     103.0   87.1 10.0      | N° Pièce
+     103.0  205.2 10.0      | Désignation
+     103.0  343.9 10.0      | Multiplicateur
+     109.2  454.3 10.0      | placement
+     131.9  144.4 10.0      | Devant.
+     131.9  445.6 10.0      | 01/20
+     139.8  100.0 10.0      | 01
+     139.8  367.5 10.0      | 02
+     143.3  144.4 10.0      | Garniture.
+     143.3  445.6 10.0      | 02/20
+     151.3  100.0 10.0      | 02
+     151.3  367.5 10.0      | 02
+     154.8  144.4 10.0      | Dessus col.
+     154.9  445.6 10.0      | 03/20
+     162.9  100.0 10.0      | 03
+     162.9  367.5 10.0      | 01
+     166.3  144.4 10.0      | Banane.
+     166.5  445.6 10.0      | 04/20
+     174.4  100.0 10.0      | 04
+     174.4  367.5 10.0      | 01
+     177.9  144.4 10.0      | Rabat poche côté.
+     177.7  445.6 10.0      | 05/20
+     186.0  100.0 10.0      | 05
+     186.0  367.5 10.0      | 02
+     189.4  144.4 10.0      | Encolure dos.
+     189.3  445.6 10.0      | 06/20
+     197.4  100.0 10.0      | 06
+     197.4  367.5 10.0      | 02
+     200.8  144.4 10.0      | Emmanchure dos.
+     200.8  445.6 10.0      | 07/20
+     208.7  100.0 10.0      | 07
+     208.7  367.5 10.0      | 02
+     212.3  144.4 10.0      | Bas de dos.
+     212.3  445.6 10.0      | 08/20
+     220.2  100.0 10.0      | 08
+     220.2  367.5 10.0      | 02
+     223.8  144.4 10.0      | Emmanchure petit côté.
+     223.8  445.6 10.0      | 09/20
+     231.7  100.0 10.0      | 09
+     231.7  367.5 10.0      | 02
+     235.3  144.4 10.0      | Bas petit côté.
+     235.1  445.6 10.0      | 10/20
+     243.3  100.0 10.0      | 10
+     243.3  367.5 10.0      | 02
+     247.0  144.4 10.0      | Tête de manche.
+     246.7  445.6 10.0      | 11/20
+     254.9  100.0 10.0      | 11
+     254.9  367.5 10.0      | 02
+     258.4  144.4 10.0      | Bas dessus manche.
+     258.2  445.6 10.0      | 12/20
+     266.3  100.0 10.0      | 12
+     266.3  367.5 10.0      | 02
+     269.9  144.4 10.0      | Bas dessous manche.
+     269.7  445.6 10.0      | 13/20
+     277.9  100.0 10.0      | 13
+     277.9  367.5 10.0      | 02
+     281.3  445.6 10.0      | 14/20
+     281.5  144.4 10.0      | Passes - poiles.
+     289.3  100.0 10.0      | 14
+     289.3  367.5 10.0      | 05
+     293.0  144.4 10.0      | Pate poche poitrine.
+     292.7  445.6 10.0      | 15/20
+     300.8  100.0 10.0      | 15
+     300.8  367.5 10.0      | 01
+     304.5  144.4 10.0      | Parementure poche poitrine.
+     304.1  445.6 10.0      | 16/20
+     312.4  100.0 10.0      | 16
+     312.4  367.5 10.0      | 01
+     316.0  144.4 10.0      | Parementure poche porte feuille
+     315.7  445.6 10.0      | 17/20
+     323.8  100.0 10.0      | 17
+     323.8  367.5 10.0      | 01
+     327.4  144.4 10.0      | Parementure poche cigarette.
+     327.1  445.6 10.0      | 18/20
+     335.1  100.0 10.0      | 18
+     335.1  367.5 10.0      | 01
+     339.1  144.4 10.0      | Parementure poche stylo.
+     338.6  445.6 10.0      | 19/20
+     346.6  100.0 10.0      | 19
+     346.6  367.5 10.0      | 01
+     350.1  445.6 10.0      | 20/20
+     350.6  144.4 10.0      | Parementure poche
+     358.1  100.0 10.0      | 20
+     358.1  367.5 10.0      | 02
+     786.2  288.5 10.0      | XVIII
+
+=== PDF p206 ===
+  [img] p206_r1 tab 498x473pt @(71,98) lignes=14
+  [printed] 19   [lines] 16   [regions] 1
+      68.4   70.8 14.0B     | EXERCICE : 02
+      98.3   76.6 10.0  p206_r1 | N
+      98.3  104.9 10.0  p206_r1 | DESIGNATION
+      98.3  218.3 10.0  p206_r1 | SCHEMAS OU SECTIONS
+      98.3  386.8 10.0  p206_r1 | REPRESENTATION A PLAT
+     111.5  104.9 10.0  p206_r1 | D’OPERATION
+     160.8  104.9 10.0  p206_r1 | Préparer le rentré de la
+     174.0  104.9 10.0  p206_r1 | poche en le repassant.
+     204.5   76.6 10.0  p206_r1 | 01
+     260.2  104.9 10.0  p206_r1 | Exécuter ourlet de la
+     273.4  104.9 10.0  p206_r1 | poche.
+     311.8   76.6 10.0  p206_r1 | 02
+     439.2  104.9 10.0  p206_r1 | Plaquer la poche sur
+     452.5  104.9 10.0  p206_r1 | vêtement.
+     482.8   76.6 10.0  p206_r1 | 03
+     786.2  288.5 10.0      | XIX
+
+=== PDF p207 ===
+  [img] p207_r1 fig 453x599pt @(71,112) lignes=0
+  [printed] 19   [lines] 3   [regions] 1
+      66.2   65.1 14.0B     | CORRECTION DES EXERCICES CHAPITRE III : (section 02)
+      98.6   70.8 12.0B     | EXERCICE : 01
+     786.2  291.2 10.0      | XIX
+
+=== PDF p208 ===
+  [img] p208_r1 fig 465x625pt @(71,84) lignes=0
+  [printed] 20   [lines] 2   [regions] 1
+      68.3   70.8 14.0B     | EXERCICE :02
+     786.2  285.9 10.0      | XX
+
+=== PDF p209 ===
+  [printed] 21   [lines] 48   [regions] 0
+      66.2   65.1 14.0B     | CORRECTION DES EXERCICES CHAPITRE III : (section 03)
+     127.2  113.9 12.0B     | EXERCICE : 01
+     152.7   92.9 12.0B     |  Calcul de perte pour tissu (T48)
+     168.2   96.3 12.0      |  Poids tracé = 21 g
+     184.2   96.3 12.0      |  Poids patrons = 19,6 g
+     210.5  172.0 10.0      | Petr -Pp
+     210.5  324.0 10.0      | 21-19,6
+     216.1   80.2 10.0      | Perte =
+     216.1  231.6 10.0      | X 100
+     216.1  268.9 10.0      | =
+     216.1  382.6 10.0      | X 100
+     216.1  434.8 10.0      | = 6,66
+     222.0  180.3 10.0      | Petr
+     222.0  334.4 10.0      | 21
+     260.5  226.0 10.0B     | Perte = 6,66 %
+     297.0   92.9 12.0B     |  Le rendement :
+     322.4   74.9 12.0      | Rendement = 100 – 6,66 = 93,34
+     349.0  223.0 10.0B     | R = 93,34 %
+     386.1   92.9 12.0B     |  Calcul de perte doublure (T48) :
+     401.5   92.9 12.0      |  Poids tracé = 19,46 g
+     417.2   92.9 12.0      |  Poids patrons =18,2 g
+     443.6  171.9 10.0      | Petr -Pp
+     443.6  316.6 10.0      | 19,46 -18,2
+     449.2   98.2 10.0      | Perte =
+     449.2  244.7 10.0      | X100 =
+     449.2  394.9 10.0      | X100
+     449.2  429.7 10.0      | =
+     449.2  458.4 10.0      | 6,47
+     455.2  180.0 10.0      | Petr
+     455.2  328.3 10.0      | 19,46
+     493.4  216.2 10.0B     | Perte = 6,47 %
+     530.7   92.9 12.0B     |  Le rendement :
+     556.1   74.9 12.0      | Rendement = 100 – 6,47 = 93,53
+     579.2  215.8 10.0B     | R = 93,53 %
+     607.4   92.9 12.0B     |  Calcul de perte pour triplure (T48) :
+     622.8   92.9 12.0      |  Poids tracé = 11,9 g
+     638.6   92.9 12.0      |  Poids patrons = 10,99 g
+     664.8  172.0 10.0      | Petr -Pp
+     664.8  316.6 10.0      | 11,9 -10,99
+     670.4   98.2 10.0      | Perte =
+     670.4  231.4 10.0      | X 100
+     670.4  268.6 10.0      | =
+     670.4  394.9 10.0      | X 100   =
+     670.4  458.4 10.0      | 7,94
+     676.4  180.3 10.0      | Petr
+     676.4  330.8 10.0      | 11,9
+     714.7  212.6 10.0B     | Perte = 7,94 %
+     786.2  285.9 10.0      | XXI
+
+=== PDF p210 ===
+  [img] p210_r1 fig 429x491pt @(72,214) lignes=0
+  [printed] 22   [lines] 6   [regions] 1
+      66.2   92.9 12.0B     |  Le rendement :
+      96.1   70.8 12.0B     | Rendement = 100 – 7,94 = 92,36
+     122.9  206.6 10.0B     | R = 92,36 %
+     160.7  119.7 14.0B     | EXERCICE : 02
+     188.5   88.8 12.0B     |  Pour tissu
+     786.2  285.9 10.0      | XXII
+
+=== PDF p211 ===
+  [img] p211_r1 fig 420x334pt @(71,96) lignes=0
+  [img] p211_r2 fig 403x269pt @(108,470) lignes=0
+  [printed] 23   [lines] 3   [regions] 2
+      70.0   88.8 12.0B     |  Pour la doublure
+     438.0   88.8 12.0B     |  Pour triplure
+     786.2  285.9 10.0      | XXIII
+
+=== PDF p212 ===
+  [printed] 24   [lines] 19   [regions] 0
+      66.2   65.1 14.0B     | CORRECTION DES EXERCICES CHAPITRE III : (section 04)
+     111.0  149.8 12.0B     | Exercice : 01
+     138.1   70.8 12.0B     | 1- Le contrôle en cours de fabrication est la vérification du respect des consignes de qualité et
+     159.0   70.8 12.0      | fabrication des éléments et articles, à différents stades de la fabrication.
+     179.7   70.8 12.0B     | 2- Trois mots dans des phrases qui résume l’objectif de contrôle sont :
+     200.2   91.8 12.0      |  Détecter les anomalies dès leurs apparitions,
+     221.0   91.8 12.0      |  Saisir les informations exploitables pour le suivi et l'amélioration de la qualité,
+     241.7   91.8 12.0      |  Éviter les catastrophes.
+     276.6   70.8 12.0B     | Exercice : 02
+     303.7   91.8 12.0      |  Température de repassage,
+     324.4   91.8 12.0      |  Propreté des postes
+     345.0   91.8 12.0      |  Qualité de repassage :
+     365.8   91.8 12.0      |  Netteté des surfaces
+     386.5   91.8 12.0      |  Absence des plis ou des brûlures, des taches ou autre défaut provoqué par le poste ou
+     407.5  109.8 12.0      | par l’ouvrière à ce poste
+     428.2   91.8 12.0      |  Oublis,
+     448.8   91.8 12.0      |  Sens de repassage des réserves, ouverture des coutures ;
+     469.3   91.8 12.0      |  Lustrage
+     786.2  285.9 10.0      | XXIV
+
+=== PDF p213 ===
+  [img] p213_r1 fig 425x593pt @(71,155) lignes=0
+  [printed] 25   [lines] 4   [regions] 1
+      70.0   70.8 14.0B     | CORRECTION DES EXERCICES CHAPITRE 03 : EXERCICE DE
+      86.3   70.8 14.0B     | SYNTHESE
+     125.8  109.8 14.0B     | Pour tissu
+     786.2  285.9 10.0      | XXV
+
+=== PDF p214 ===
+  [img] p214_r1 fig 412x290pt @(89,96) lignes=0
+  [img] p214_r2 fig 403x269pt @(94,426) lignes=0
+  [printed] 26   [lines] 3   [regions] 2
+      70.0   70.8 12.0B     | Pour la doublure
+     400.6   70.8 12.0B     | Pour la triplure
+     786.2  285.9 10.0      | XXVI
+
+=== PDF p215 ===
+  [rec] p215_d1 18x13pt @(85,70)
+  [rec] p215_d2 18x13pt @(89,203)
+  [rec] p215_d3 18x13pt @(89,292)
+  [rec] p215_d4 18x13pt @(89,438)
+  [rec] p215_d5 18x13pt @(89,527)
+  [rec] p215_d6 18x13pt @(89,660)
+  [printed] 27   [lines] 49   [regions] 0
+      70.0   94.2 12.0B     | Calcul de perte pour tissu (T44, T48) :
+      85.2   88.8 12.0      |  Poids tracé = 44,8 g
+     101.7   88.8 12.0      |  Poids patrons 42 g
+     129.3  166.8 10.0      | Petr - Pp
+     129.3  317.5 10.0      | 44,8 - 42
+     134.9   94.3 10.0      | Perte =
+     134.9  227.4 10.0      | X 100
+     134.9  264.8 10.0      | =
+     134.9  378.7 10.0      | X 100   =
+     134.9  454.3 10.0      | 6,25
+     140.8  176.4 10.0      | Petr
+     140.8  326.7 10.0      | 44,8
+     173.8  198.4 10.0      | Perte = 6,25 %
+     203.1   98.1 12.0B     | Le rendement :
+     228.6   70.8 12.0      | Rendement = 100 – 6,25 = 93,75
+     255.4  204.2 10.0      | R = 93,75 %
+     292.4   98.1 12.0B     | Calcul de perte doublure (T44, T48) :
+     307.4   88.8 12.0      |  Poids tracé =42 g
+     324.0   88.8 12.0      |  Poids patrons = 38,5 g
+     351.5  168.0 10.0      | Petr -Pp
+     351.5  316.6 10.0      | 42 – 38,5
+     357.2   94.2 10.0      | Perte =
+     357.2  227.4 10.0      | X 100   =
+     357.2  378.7 10.0      | X 100   =
+     357.2  454.3 10.0      | 8,33
+     363.2  176.3 10.0      | Petr
+     363.2  326.7 10.0      | 38,5
+     401.8  198.2 10.0B     | Perte = 8,33 %
+     438.1   98.1 12.0B     | Le rendement :
+     463.6   70.8 12.0      | Rendement = 100 – 8,33 = 91,67
+     490.0  199.0 10.0      | R = 91,67 %
+     527.0   98.1 12.0B     | Calcul de perte pour triplure (T 44, T48) :
+     542.0   88.8 12.0      |  Poids tracé = 23,24 g
+     558.8   88.8 12.0      |  Poids patrons = 21,7 g
+     586.2  169.3 10.0      | Petr-Pp
+     586.2  312.5 10.0      | 23,24 -21,7
+     591.9   94.3 10.0      | Perte =
+     591.9  227.6 10.0      | X 100
+     591.9  264.8 10.0      | =
+     591.9  378.8 10.0      | X 100
+     591.9  418.5 10.0      | =
+     591.9  454.3 10.0      | 6,62
+     597.8  176.3 10.0      | Petr
+     597.8  324.2 10.0      | 23,24
+     627.3  201.4 10.0B     | Perte = 6,62 %
+     660.4   98.1 12.0B     | Le rendement :
+     685.9   70.8 12.0      | Rendement = 100 – 6,62 = 93,38
+     712.5  188.5 10.0      | R = 93,38 %
+     786.2  285.9 10.0      | XXVII
+
+=== PDF p216 ===
+  [printed] 28   [lines] 6   [regions] 0
+      70.2   70.8 12.0B     | Remarque :
+      95.5   70.8 12.0      | L’imbrication des tailles est plus avantageuse pour le rendement de la matière.
+     125.8   70.8 14.0B     | CORRECTION DES EXERCICES CHAPITRE 03 : EXERCICE DE
+     161.6   70.8 14.0B     | SYNTHESE FIN DU MODULE
+     190.2   70.8 12.0B     | Pour tissu
+     786.2  285.9 10.0      | XXVIII
+
+=== PDF p217 ===
+  [img] p217_r1 fig 343x575pt @(126,78) lignes=0
+  [printed] 29   [lines] 1   [regions] 1
+     786.2  285.9 10.0      | XXIX
+
+=== PDF p218 ===
+  [img] p218_r1 fig 396x579pt @(97,96) lignes=0
+  [printed] 29   [lines] 2   [regions] 1
+      70.2   70.8 12.0B     | Pour la doublure
+     786.2  288.5 10.0      | XXIX
+
+=== PDF p219 ===
+  [img] p219_r1 fig 439x597pt @(89,96) lignes=0
+  [printed] 30   [lines] 2   [regions] 1
+      70.2   70.8 12.0B     | Pour triplure
+     786.2  283.4 10.0      | XXX
+
+=== PDF p220 ===
+  [printed] 31   [lines] 51   [regions] 0
+      70.0   88.8 12.0B     |  2-Calcul de perte pour tissu (T44, T48) :
+      85.5   88.8 12.0      |  Poids tracé = 44,8 g
+     101.2   88.8 12.0      |  Poids patrons 42 g
+     127.5  167.1 10.0      | Petr - Pp
+     127.5  317.6 10.0      | 44,8 - 42
+     133.1   97.8 10.0      | Perte =
+     133.1  227.6 10.0      | X 100
+     133.1  264.9 10.0      | =
+     133.1  378.8 10.0      | X 100   =
+     133.1  454.3 10.0      | 6,25
+     139.1  176.5 10.0      | Petr
+     139.1  326.8 10.0      | 44,8
+     152.2  199.7 10.0B     | Perte = 6,25 %
+     174.8   88.8 12.0B     |  Le rendement :
+     200.3   70.8 12.0      | Rendement = 100 – 6,25 = 93,75
+     227.3  205.7 10.0B     | R = 93,75 %
+     263.8   88.8 12.0B     |  Calcul de perte doublure (T44, T48) :
+     279.1  124.8 12.0      |  Poids tracé =42 g
+     295.1  124.8 12.0      |  Poids patrons = 38,5 g
+     321.3  170.2 10.0      | Ptr -Pp
+     321.3  316.6 10.0      | 42 – 38,5
+     326.9   94.3 10.0      | Perte =
+     326.9  227.3 10.0      | X 100   =
+     326.9  378.7 10.0      | X 100   =
+     326.9  454.3 10.0      | 8,33
+     332.8  178.5 10.0      | Ptr
+     332.8  326.7 10.0      | 38,5
+     371.2  207.2 10.0B     | Perte = 8,33 %
+     407.9   88.8 12.0B     |  Le rendement :
+     433.5   70.8 12.0      | Rendement = 100 – 8,33 = 91,67
+     460.5  202.7 10.0B     | R = 91,67 %
+     497.3   88.8 12.0B     |  Calcul de perte pour triplure (T 44, T48) :
+     512.7   88.8 12.0      |  Poids tracé = 23,24 g
+     528.6   88.8 12.0      |  Poids patrons = 21,7 g
+     554.8  169.3 10.0      | Petr-Pp
+     554.8  312.5 10.0      | 23,24 -21,7
+     560.5   94.2 10.0      | Perte =
+     560.5  227.7 10.0      | X 100
+     560.5  264.9 10.0      | =
+     560.5  378.9 10.0      | X 100
+     560.5  418.6 10.0      | =
+     560.5  454.3 10.0      | 6,62
+     566.5  176.3 10.0      | Petr
+     566.5  324.2 10.0      | 23,24
+     604.8  208.7 10.0B     | Perte = 6,62 %
+     641.9   88.8 12.0B     |  Le rendement :
+     667.4   70.8 12.0      | Rendement = 100 – 6,62 = 93,38
+     694.1  202.7 10.0B     | R = 93,38 %
+     706.0   70.8 12.0B     | Remarque :
+     731.3   70.8 12.0B     | L’imbrication des tailles est plus avantageuse pour le rendement de la matière.
+     786.2  283.4 10.0      | XXXI
+
+=== PDF p221 ===
+  [img] p221_r1 mixed 454x67pt @(72,71) lignes=1
+  [img] p221_r2 tab 477x498pt @(59,153) lignes=91
+  [printed] 32   [lines] 93   [regions] 2
+      90.6  227.7 36.0B p221_r1 | Annexe B
+     156.4   96.9 10.0B p221_r2 | Objectifs
+     156.4  213.3 10.0B p221_r2 | Critères particuliers
+     162.1  392.8 10.0B p221_r2 | Eléments de contenu
+     167.9   85.3 10.0B p221_r2 | intermédiaires
+     167.9  223.0 10.0B p221_r2 | de performance
+     194.3  345.9  9.0  p221_r2 | 
+     194.4  363.8 10.0  p221_r2 | Rappels
+     196.4  179.7  9.0  p221_r2 | 
+     196.6  197.7 10.0  p221_r2 | Les aplombs, la forme,
+     205.8  345.9  9.0  p221_r2 | 
+     205.9  363.8 10.0  p221_r2 | Caractéristiques des étoffes (tissus)
+     209.8  197.7 10.0  p221_r2 | Les proportions,
+     215.3  116.5 10.0B p221_r2 | LES
+     217.3  345.9  9.0  p221_r2 | 
+     217.5  363.8 10.0  p221_r2 | Calcul du métrage
+     223.1  197.7 10.0  p221_r2 | L’aisance, les mesures
+     226.8   86.3 10.0B p221_r2 | SPECIFICATION
+     228.7  345.9  9.0  p221_r2 | 
+     228.9  363.8 10.0  p221_r2 | Recherche de rendement
+     236.3  197.7 10.0  p221_r2 | Sont respectés
+     238.4  110.9 10.0B p221_r2 | DE LA
+     240.2  345.9  9.0  p221_r2 | 
+     240.4  363.8 10.0  p221_r2 | Etude de placement
+     249.1  179.7 10.0  p221_r2 | 
+     249.9   89.4 10.0B p221_r2 | PREPARATION
+     250.3  197.7 10.0  p221_r2 | Application correcte des
+     251.8  345.9  9.0  p221_r2 | 
+     251.9  363.8 10.0  p221_r2 | Le traçage
+     261.4   97.0 10.0B p221_r2 | DU VESTON
+     263.3  345.9  9.0  p221_r2 | 
+     263.5  197.7 10.0  p221_r2 | techniques de découpage
+     263.5  363.8 10.0  p221_r2 | Le matelassage
+     273.2  363.8 12.0  p221_r2 | Le découpage
+     274.8  345.9  9.0  p221_r2 | 
+     276.2  179.7 10.0  p221_r2 | 
+     277.4  197.7 10.0  p221_r2 | Respect les normes de qualité
+     284.8  363.9 12.0  p221_r2 | Contrôle de qualité dans la construction
+     286.4  345.9  9.0  p221_r2 | 
+     308.4  345.9 10.0  p221_r2 | 
+     309.5  363.9 10.0  p221_r2 | Les techniques de thermocollage
+     322.6  345.9  9.0  p221_r2 | 
+     322.7  363.9 10.0  p221_r2 | Montage du vêtement provisoire en vue
+     324.2  179.7 10.0  p221_r2 | 
+     325.4  197.7 10.0  p221_r2 | Exécution des corrections
+     335.9  363.9 10.0  p221_r2 | de l’essayage
+     338.6  197.7 10.0  p221_r2 | appropriées en fonction des
+     343.4   66.4 10.0B p221_r2 | DEROULEMENT DES
+     349.0  345.9  9.0  p221_r2 | 
+     349.1  363.9 10.0  p221_r2 | Vérification de l’apparence générale du
+     351.8  197.7 10.0  p221_r2 | aplombs, des ampleurs, de
+     354.9   89.4 10.0B p221_r2 | ETAPES DE
+     362.3  363.9 10.0  p221_r2 | veston et la conformité de construction
+     365.0  197.7 10.0  p221_r2 | l’aisance, des formes, des
+     366.4   81.4 10.0B p221_r2 | FABRICATION
+     375.7  363.9 10.0  p221_r2 | du patron
+     378.3  197.7 10.0  p221_r2 | longueurs et des volumes du
+     388.7  345.9  9.0  p221_r2 | 
+     388.9  363.9 10.0  p221_r2 | Détermination des corrections à apporter
+     391.5  197.7 10.0  p221_r2 | vêtement.
+     402.1  363.9 10.0  p221_r2 | à la confection du veston et à la
+     404.3  179.7 10.0  p221_r2 | 
+     405.4  197.7 10.0  p221_r2 | Conformité du prototype du
+     415.3  363.9 10.0  p221_r2 | construction du patron
+     418.6  197.7 10.0  p221_r2 | produit avec le patron de base;
+     426.7  363.9 12.0  p221_r2 | Procédure de la correction
+     428.3  345.9  9.0  p221_r2 | 
+     489.5  179.7  9.0  p221_r2 | 
+     489.7  197.7 10.0  p221_r2 | Respect des aplombs, des formes
+     497.4  345.9  9.0  p221_r2 | 
+     497.6  363.9 10.0  p221_r2 | Application de la gamme de montage du
+     502.9  197.7 10.0  p221_r2 | et des valeurs de couture
+     510.8  363.9 10.0  p221_r2 | pantalon
+     515.9  197.7  9.0  p221_r2 | 
+     516.1  215.7 10.0  p221_r2 | Exécution correcte et dans un
+     523.8  345.9  9.0  p221_r2 | 
+     524.0  363.9 10.0  p221_r2 | Confection des modèles de la veste pour
+     529.4  215.7 10.0  p221_r2 | ordre logique des étapes
+     530.6   65.7 10.0B p221_r2 | APPLICATION DE LA
+     537.3  363.9 10.0  p221_r2 | homme
+     542.1   88.6 10.0B p221_r2 | GAMME DE
+     542.6  215.7 10.0  p221_r2 | d’assemblage.
+     550.3  345.9  9.0  p221_r2 | 
+     550.5  363.9 10.0  p221_r2 | Etude de cas
+     553.6   90.6 10.0B p221_r2 | MONTAGE
+     555.6  179.7  9.0  p221_r2 | 
+     555.8  197.7 10.0  p221_r2 | Respect des règles de tolérance
+     563.6  345.9  9.0  p221_r2 | 
+     563.7  363.9 10.0  p221_r2 | Spécification d’exécution dans la
+     569.0  197.7 10.0  p221_r2 | qui est relatives à l’utilisation du
+     576.9  363.9 10.0  p221_r2 | fabrication
+     580.4  197.7 12.0  p221_r2 | matériel
+     786.2  283.4 10.0      | XXXII
+
+=== PDF p222 ===
+  [img] p222_r1 tab 456x68pt @(71,524) lignes=8
+  [printed] 33   [lines] 22   [regions] 1
+      70.4  135.3 18.0B     | LES DOUBLURES
+     136.1   94.9 12.0B     | Le tissu « doublure » désigne une ou des pièces de tissu ajoutée(s) à l’intérieur d’un
+     149.9   70.8 12.0B     | vêtement, généralement pour augmenter le confort.
+     200.8  109.0 14.0B     | I.1.1 : Fonctions
+     264.3  124.1 12.0      | Donner un grade de qualité plus élevé.
+     287.1  124.1 12.0      | Cacher l’envers, assurer une finition plus soignée.
+     309.9  124.1 12.0      | Pour plus de confort, agréable à la peau.
+     331.6  124.1 12.0      | Un vêtement doublé est plus chaud et plus doux.
+     354.0  124.1 12.0      | Pour diminuer la transparence ou donner de la tenue.
+     374.8  124.1 12.0      | Un tissu transparent trop mou est inconfortable.
+     397.7  124.1 12.0      | Pour protéger plus efficacement des courants d’air et des rayons de soleil.
+     421.1  124.1 12.0      | Améliorer la qualité de la matière première.
+     466.0   99.1 14.0B     | I.1.2 : Les différents types de tissu
+     527.1  172.6 10.0B p222_r1 | Maille
+     527.1  403.0 10.0B p222_r1 | Tissé
+     543.7  317.7 10.0B p222_r1 | Le tissu doublure « chaine et trame » est plus
+     549.4  141.7 10.0B p222_r1 | Le tissu doublure est
+     555.2  324.7 10.0B p222_r1 | rigide, plus utilisé pour les vestes, robes…
+     561.7  136.6 10.0B p222_r1 | fluide. Il est adapté aux
+     566.7  337.9 10.0B p222_r1 | Il est moins fluide, et sans élasticité.
+     573.8  155.5 10.0B p222_r1 | robes et jupes.
+     786.2  283.4 10.0      | XXXIII
+
+=== PDF p223 ===
+  [img] p223_r1 mixed 477x569pt @(71,115) lignes=37
+  [printed] 34   [lines] 39   [regions] 1
+      80.1   65.1 16.0B     | I -1-3 Les Différents types de doublure « tissé »
+     115.9   77.3 10.0B p223_r1 | NOM
+     115.9  168.3 10.0B p223_r1 | CARACTERISTIQUES
+     115.9  372.8 10.0B p223_r1 | ECHANTILLON ENTRETIEN
+     144.7  113.4 10.0B p223_r1 | Une doublure élégante et raffinée
+     170.4  113.4 10.0  p223_r1 | Fibre artificielle dite "secondaire" d'origine
+     182.3  113.4 10.0  p223_r1 | cellulosique. Le cupro est obtenu par dissolution de
+     194.3  113.4 10.0  p223_r1 | la cellulose. Elle a une analogie de comportement
+     206.2  113.4 10.0  p223_r1 | comparable à celui de la viscose.
+     218.2  113.4 10.0  p223_r1 | Le cupro a un aspect sphérique et présente une
+     229.7  113.4 10.0  p223_r1 | surface lisse régulière.
+     241.3  113.4 10.0  p223_r1 | Le cupro brûle en dégageant une odeur ammoniacale.
+     252.8  113.4 10.0  p223_r1 | Était connu au départ sous le nom de "soie Bamberg".
+     264.3  113.4 10.0  p223_r1 | Toucher soyeux.
+     269.2  389.1 10.0B p223_r1 | Acétate
+     276.5  113.4 10.0  p223_r1 | Textile de soie artificielle.
+     320.2  113.4 10.0  p223_r1 | Tissu de soie léger, lisse et légèrement brillant.
+     332.5  113.4 10.0  p223_r1 | Tissu au tissage peu serré de fils fins peu tordus.
+     371.6  113.4 10.0  p223_r1 | Crêpe de chine : tissu granuleux infroissable
+     383.0  113.4 10.0  p223_r1 | légèrement ondulé mais riche au toucher
+     394.5  113.4 10.0  p223_r1 | Crêpe satin : très brillant au recto et mat au verso.
+     406.8  113.4 10.0  p223_r1 | Souple et d’une douceur extrême.
+     419.5  113.4 10.0  p223_r1 | Crêpe Georgette : tissu de soie au tissage peu serré de
+     430.9  113.4 10.0  p223_r1 | fils très tordus.
+     442.2  113.4 10.0  p223_r1 | Peut-être en soie, laine ou polyester.
+     470.1  113.3 10.0  p223_r1 | Tissu qui permet une grande liberté de mouvement et
+     481.6  113.3 10.0  p223_r1 | d’aisance. Elle apporte tenue longue durée, confort et
+     493.2  113.3 10.0  p223_r1 | bien-aller.
+     504.9  113.3 10.0  p223_r1 | Les tissus sont extensibles (élasthanne), dans tous les
+     517.4  113.3 10.0  p223_r1 | sens.
+     574.5  113.3 10.0  p223_r1 | Alliance de brillance et de fluidité. Un tombé féminin
+     585.9  113.3 10.0  p223_r1 | et élégant. Solide
+     597.5  113.3 10.0  p223_r1 | Tissage d’aspect brillant, dense obtenu aux nombres
+     609.9  113.3 10.0  p223_r1 | de sautés dans le sens trame (tissage). Plus épais et
+     622.3  113.3 10.0  p223_r1 | solide que les autres tissus Satin duchesse en
+     623.1  389.1 10.0B p223_r1 | Acétate
+     634.7  113.3 10.0  p223_r1 | acétate Satin iris en polyester.
+     658.8  385.5 10.0B p223_r1 | Polyester
+     786.2  283.4 10.0      | XXXIV
+
+=== PDF p224 ===
+  [img] p224_r1 mixed 477x224pt @(71,70) lignes=13
+  [img] p224_r2 mixed 476x216pt @(71,318) lignes=7
+  [rec] p224_d1 17x8pt @(138,677)
+  [printed] 35   [lines] 30   [regions] 2
+      92.8  113.3 10.0  p224_r1 | Le taffetas est un tissu précieux et coûteux
+     104.4  113.3 10.0  p224_r1 | Classiquement réalisé en toile de soie à l'aide de fils
+     115.9  113.3 10.0  p224_r1 | très fins et serrés (Armure toile). Le taffetas prend
+     127.6  113.3 10.0  p224_r1 | l'apparence d’un tissu épais, légèrement brillant et
+     139.1  113.3 10.0  p224_r1 | bruissant lorsqu'on le frotte entre les doigts. Il est
+     150.7  113.3 10.0  p224_r1 | utilisé pour la confection de rideaux et autres linges
+     159.4  390.2 10.0B p224_r1 | Acétate
+     162.4  113.3 10.0  p224_r1 | de maison, tentures, robes de mariée ou de soirée...
+     173.9  113.3 10.0  p224_r1 | On en trouve en Acétate, en polyester
+     184.2  386.5 10.0B p224_r1 | Polyester
+     232.3  113.3 10.0  p224_r1 | Tissu de fibres mélangées : fibres artificielles et
+     244.7  113.3 10.0  p224_r1 | naturelles (fibres polyester et généralement de coton)
+     257.2  113.3 10.0  p224_r1 | Etoffe d’aspect soyeux, résistante et infroissable.
+     384.1  111.6 10.0  p224_r2 | Tissu en armure sergée ; nom de cette armure.
+     396.7  111.6 10.0  p224_r2 | Tissu très souple en soie, rayonne, acétate.
+     409.2  111.6 10.0  p224_r2 | Ce tissu se reconnaît facilement aux rayures obliques
+     420.4  111.6 10.0  p224_r2 | que l’on voit dès le premier abord.
+     431.8  111.6 10.0  p224_r2 | Ce tissu souple est fréquemment utilisé pour la
+     443.4  111.6 10.0  p224_r2 | réalisation de cravates et de pochettes en soie.
+     520.4  392.6 10.0B p224_r2 | Acétate
+     565.3  134.7 14.0B     | I-1-4 : Choix d’une qualité de doublure
+     605.8  124.1 12.0      | Pour un vêtement d’hiver : Exemple manteau
+     630.3  142.8 11.0      | •
+     629.6  160.8 12.0      | En fibre synthétique (Bamberg, satin, taffetas)
+     652.2  160.8 12.0      | En lainage pour tenir chaud
+     652.9  142.8 11.0      | •
+     673.2  157.5 12.0      | Choisir une doublure épaisse, environ 150gr pour une composition de 70%
+     693.8  160.8 12.0      | acétate, 30% cupro.
+     693.8  273.4 12.0      | Tissage serré, solide
+     786.2  283.4 10.0      | XXXV
+
+=== PDF p225 ===
+  [rec] p225_d1 17x8pt @(272,271)
+  [rec] p225_d2 17x8pt @(138,141)
+  [rec] p225_d3 17x8pt @(138,424)
+  [rec] p225_d4 17x8pt @(138,486)
+  [printed] 36   [lines] 32   [regions] 0
+      69.6  124.1 12.0      | Pour un vêtement d’été
+      94.0  160.1 12.0      | En coton (voile ou satin de coton)
+      94.7  142.1 11.0      | •
+     116.3  160.1 12.0      | Doublures fines aux propriétés antistatiques
+     117.0  142.1 11.0      | •
+     137.2  157.5 12.0      | Choisir une doublure fine, environ 100gr pour une composition de 53%
+     157.9  160.8 12.0      | cupro et 47% acétate ou 100% coton ou encore 55% acétate et 45% viscose
+     178.6  160.8 12.0      | avec un apprêts East-care.
+     222.6  124.1 12.0      | Pour un vêtement de luxe
+     246.7  142.8 11.9B     | •
+     246.9  177.0 12.0      | En soie (satin, voile,
+     267.5  138.5 12.0      | organdi ou pongé de soie)
+     288.3  138.5 12.0      | Choisir une doublure dans une
+     308.9  138.5 12.0      | matière noble.
+     353.2  124.1 12.0      | Pour un vêtement de sport
+     377.3  177.0 12.0      | En acétate avec élasthanne
+     378.0  160.1 11.0      | •
+     399.4  177.0 12.0      | En matière respirant ex : goretex
+     400.1  160.1 11.0      | •
+     420.4  157.5 12.0      | Choisir une doublure élastique, plus fine et moins lourde, 100gr,
+     441.1  160.8 12.0      | composée de 96% acétate et 4% d’élasthanne. Cette doublure
+     461.8  160.8 12.0      | s’adapte aux mouvements et facile d’entretien Où
+     482.9  157.5 12.0      | Choisir une doublure en matière respirant, composée de 75% de tri
+     503.7  160.8 12.0      | acétate, 25% de polyamide pour un poids de 90gr.
+     547.9  124.1 12.0      | Pour l’ameublement
+     571.7  143.3 12.0B     | • Satin de coton (satinette)
+     614.4  106.2 12.0      | Dans chaque qualité, il existe une grande variété de couleurs.
+     635.5  106.2 12.0      | Si le tissu est transparent, comme la mousseline ou un voile, le ton de la doublure doit
+     656.1  106.7 12.0      | être choisi avec soin, pour rehausser ou adoucir celui du tissu.
+     677.2  106.2 12.0      | Pour doubler une veste ou un manteau, on choisit plutôt un satin dont la couleur est
+     698.0  106.7 12.0      | aussi proche de celle du tissu, plutôt plus foncée que plus claire (comme pour le fil).
+     786.2  283.4 10.0      | XXXVI
+
+=== PDF p226 ===
+  [printed] 37   [lines] 14   [regions] 0
+      70.1  106.1 12.0      | Pour un tissu opaque et si la doublure ne se voit pas (jupe ou pantalon), cela n’a pas
+      90.8  106.6 12.0      | d’importance.
+     137.0   70.6 12.0B     | I-1-5 : Traitement
+     160.1  160.1 12.0      | Stretch :
+     160.8  142.2 11.0      | •
+     181.0  161.4 12.0      | Procédé de traitement des tissus les rendant élastiques dans le
+     201.6  161.4 12.0      | sens de la largeur. Réalisé sur tissus aux fibres élastiques
+     222.4  161.4 12.0      | (polyester
+     245.9  160.1 12.0      | Antistatique : Eviter une charge statique (conductivité électrique)
+     246.6  142.2 11.0      | •
+     268.0  160.1 12.0      | East-care : Appliqué sur des fibres cellulosiques pour faciliter le lavage et
+     268.7  142.2 11.0      | •
+     288.8  160.2 12.0      | assurer une infroissabilité. Repassage nul ou minimum.
+     786.2  283.4 10.0      | XXXVII
+
+=== PDF p227 ===
+  [img] p227_r1 tab 477x455pt @(69,156) lignes=75
+  [printed] 38   [lines] 78   [regions] 1
+      69.9   70.8 14.0B     | I-2 : CATALOGUE FOURNITURES
+     116.3   70.2 14.0B     | THERMOCOLLANT NON TISSE.
+     165.0   91.9 10.0  p227_r1 | NON TISSẾ
+     165.0  173.5 10.0  p227_r1 | Références
+     165.0  249.6 10.0  p227_r1 | Laize
+     165.0  302.6 10.0  p227_r1 | Coloris
+     165.0  355.0 10.0  p227_r1 | Tarifs
+     165.0  398.0 10.0  p227_r1 | Descriptifs
+     198.7  398.0 10.0  p227_r1 | Entoilage thermocollant moyen. Il
+     203.5   99.9 10.0  p227_r1 | Entoilage
+     211.1  398.0 10.0  p227_r1 | peut être utilisé en tant que renfort
+     214.9   78.4 10.0  p227_r1 | thermocollant léger
+     216.5  190.0 10.0  p227_r1 | 968345
+     223.6  398.0 10.0  p227_r1 | de ceintures, de cols et de
+     229.0  190.0 10.0  p227_r1 | (Blanc)
+     235.1  306.4 10.0  p227_r1 | Blanc
+     236.0  398.0 10.0  p227_r1 | poignets. L'application se fait avec
+     241.9  355.0 10.0  p227_r1 | 2,70 € le
+     247.6  248.4 10.0  p227_r1 | 90 cm
+     247.7  309.4 10.0  p227_r1 | Gris
+     248.3  398.0 10.0  p227_r1 | une source de chaleur (fer 130°C
+     253.4  355.9 10.0  p227_r1 | Mètre
+     253.6  190.0 10.0  p227_r1 | 968347
+     260.1  299.8 10.0  p227_r1 | anthracite
+     260.8  398.0 10.0  p227_r1 | avec
+     260.8  430.9 10.0  p227_r1 | pression
+     260.8  478.7 10.0  p227_r1 | et
+     260.8  500.6 10.0  p227_r1 | vapeur).
+     266.2  196.5 10.0  p227_r1 | (Gris
+     273.2  398.0 10.0  p227_r1 | Composition : polyester fibranne,
+     278.5  186.4 10.0  p227_r1 | anthracite)
+     285.7  398.0 10.0  p227_r1 | polyamide
+     336.7  398.0 10.0  p227_r1 | Entoilage thermocollant ferme. Il
+     341.7   99.9 10.0  p227_r1 | Entoilage
+     349.0  398.0 10.0  p227_r1 | peut être utilisé en tant que renfort
+     353.2   76.5 10.0  p227_r1 | thermocollant ferme
+     354.5  190.0 10.0  p227_r1 | 968348
+     361.5  398.0 10.0  p227_r1 | de ceintures, de cols et de
+     366.8  190.0 10.0  p227_r1 | (Blanc)
+     373.1  306.4 10.0  p227_r1 | Blanc
+     373.9  398.0 10.0  p227_r1 | poignets. L'application se fait avec
+     379.7  355.0 10.0  p227_r1 | 2,60 € le
+     385.4  248.4 10.0  p227_r1 | 90 cm
+     385.4  309.4 10.0  p227_r1 | Gris
+     386.3  398.0 10.0  p227_r1 | une source de chaleur (fer 145°C
+     391.1  355.9 10.0  p227_r1 | Mètre
+     391.6  190.0 10.0  p227_r1 | 968349
+     397.7  299.8 10.0  p227_r1 | anthracite
+     398.7  398.0 10.0  p227_r1 | avec
+     398.7  430.9 10.0  p227_r1 | pression
+     398.7  478.7 10.0  p227_r1 | et
+     398.7  500.6 10.0  p227_r1 | vapeur).
+     404.0  196.5 10.0  p227_r1 | (Gris
+     411.1  398.0 10.0  p227_r1 | Composition : polyester fibranne,
+     416.6  186.4 10.0  p227_r1 | anthracite)
+     423.6  398.0 10.0  p227_r1 | polyamide
+     485.0  398.0 10.0  p227_r1 | Entoilage thermocollant moyen. Il
+     485.5   99.9 10.0  p227_r1 | Entoilage
+     496.5  398.0 10.0  p227_r1 | peut être utilisé en tant que renfort
+     497.0   74.8 10.0  p227_r1 | thermocollant moyen
+     499.0  190.0 10.0  p227_r1 | 968350
+     508.0  398.0 10.0  p227_r1 | de ceintures, de cols et de
+     511.4  190.0 10.0  p227_r1 | (Blanc)
+     517.8  306.4 10.0  p227_r1 | Blanc
+     519.6  398.0 10.0  p227_r1 | poignets. L'application se fait
+     524.2  355.0 10.0  p227_r1 | 2,50 € le
+     530.0  248.4 10.0  p227_r1 | 90 cm
+     530.1  309.4 10.0  p227_r1 | Gris
+     531.1  398.0 10.0  p227_r1 | avec une source de chaleur (fer
+     536.2  190.0 10.0  p227_r1 | 968352
+     535.8  355.9 10.0  p227_r1 | Mètre
+     542.5  299.8 10.0  p227_r1 | anthracite
+     542.6  398.0 10.0  p227_r1 | 130°C avec pression et vapeur).
+     548.7  196.5 10.0  p227_r1 | (Gris
+     554.0  398.0 10.0  p227_r1 | Composition : polyester Fibranne,
+     561.2  186.4 10.0  p227_r1 | anthracite)
+     565.5  398.0 10.0  p227_r1 | polyamide
+     786.2  283.4 10.0      | XXXVIII
+
+=== PDF p228 ===
+  [img] p228_r1 tab 483x394pt @(66,165) lignes=53
+  [printed] 39   [lines] 56   [regions] 1
+      70.2   70.8 16.0B     | I-2-1 : CATALOGUE FOURNITURES
+     117.6   70.2 14.0B     | THERMOCOLLANT TISSE.
+     174.0  108.7 10.0  p228_r1 | TISSẾ
+     174.0  186.6 10.0  p228_r1 | Références
+     174.0  260.7 10.0  p228_r1 | Laize
+     174.0  307.1 10.0  p228_r1 | Coloris
+     174.0  363.5 10.0  p228_r1 | Tarifs
+     174.0  409.3 10.0  p228_r1 | Descriptifs
+     195.5  409.3 10.0  p228_r1 | Entoilage tissé en pur coton
+     208.0  409.3 10.0  p228_r1 | s'utilise
+     208.0  456.7 10.0  p228_r1 | pour
+     208.0  492.5 10.0  p228_r1 | les
+     208.0  520.9 10.0  p228_r1 | petits
+     211.0  101.7 10.0  p228_r1 | Entoilage
+     220.3  409.3 10.0  p228_r1 | empiècements ; il donne de la
+     222.5   81.7 10.0  p228_r1 | thermocollant tissé
+     232.8  409.3 10.0  p228_r1 | tenue et renforce les cols,
+     245.2  409.3 10.0  p228_r1 | poignets et poches de chemises et
+     257.9  362.4 10.0  p228_r1 | 0,75 D le
+     257.7  409.3 10.0  p228_r1 | chemisiers. Il se fixe au fer à
+     263.7  259.5 10.0  p228_r1 | 90 cm
+     263.7  305.0 10.0  p228_r1 | Noir Blanc
+     269.3  364.5 10.0  p228_r1 | Mètre
+     270.1  409.3 10.0  p228_r1 | repasser et s'utilise sur les étoffes
+     282.4  409.3 10.0  p228_r1 | légères à mi-lourds comme le
+     284.8  199.2 10.0  p228_r1 | 1496G7
+     294.9  409.3 10.0  p228_r1 | coton.
+     347.6   87.0 10.0  p228_r1 | Toile de renfort
+     347.6  409.3 10.0  p228_r1 | Entoilage 100% polyester permet
+     359.1   88.5 10.0  p228_r1 | thermocollante
+     359.1  409.3 10.0  p228_r1 | de rigidifier les tissus pour
+     370.5  409.3 10.0  p228_r1 | donner de la tenue, aux cols,
+     378.3  362.2 10.0  p228_r1 | 1,99 D le
+     382.0  409.3 10.0  p228_r1 | poignets et petites doublures.
+     384.1  197.9 10.0  p228_r1 | RTB 35
+     384.1  259.5 10.0  p228_r1 | 90 cm
+     384.1  305.0 10.0  p228_r1 | Noir Blanc
+     389.7  364.5 10.0  p228_r1 | Mètre
+     436.5  409.3 10.0  p228_r1 | Entoilage
+     436.5  469.8 10.0  p228_r1 | 100%
+     436.5  515.8 10.0  p228_r1 | Coton,
+     436.6   77.8 10.0  p228_r1 | Toile thermocollante
+     448.0  109.3 10.0  p228_r1 | légère
+     448.9  409.3 10.0  p228_r1 | enduction par points polyamide.
+     461.4  409.3 10.0  p228_r1 | Utilisé pour la confection de
+     473.7  409.3 10.0  p228_r1 | vêtements, d'objets, de sacs et
+     485.4  362.2 10.0  p228_r1 | 4,90 D le
+     486.2  409.3 10.0  p228_r1 | pour le bricolage.
+     486.2  495.9 10.0  p228_r1 | Conditions
+     491.0  200.2 10.0  p228_r1 | 366057
+     491.0  259.5 10.0  p228_r1 | 90 cm
+     491.0  305.0 10.0  p228_r1 | Noir Blanc
+     496.8  364.5 10.0  p228_r1 | Mètre
+     498.6  409.3 10.0  p228_r1 | d'utilisation : T° : 130°/150°C
+     510.9  409.3 10.0  p228_r1 | pendant 12 à 15 secondes.
+     786.2  286.1 10.0      | XXXIX
+
+=== PDF p229 ===
+  [img] p229_r1 mixed 416x51pt @(88,45) lignes=1
+  [img] p229_r2 fig 425x646pt @(71,111) lignes=0
+  [printed] 40   [lines] 2   [regions] 2
+      61.5  135.5 18.0B p229_r1 | LA GAMME DE COLORES DES TISSU
+     786.2  286.1 10.0      | XL
+
+=== PDF p230 ===
+  [img] p230_r1 mixed 443x47pt @(83,69) lignes=1
+  [img] p230_r2 fig 446x597pt @(82,133) lignes=0
+  [printed] 41   [lines] 2   [regions] 2
+      83.2  114.5 18.0B p230_r1 | MATIERE SECONDAIRES ET ACCESSOIRES
+     786.2  286.1 10.0      | XLI
+
+=== PDF p231 ===
+  [img] p231_r1 mixed 361x70pt @(117,59) lignes=1
+  [img] p231_r2 fig 446x469pt @(71,179) lignes=0
+  [printed] 42   [lines] 2   [regions] 2
+      84.5  127.8 20.0B p231_r1 | DEMINITION DES TAILLES (DROP)
+     786.2  286.1 10.0      | XLII
+
+=== PDF p232 ===
+  [printed] 43   [lines] 27   [regions] 0
+      70.4   92.8 16.0B     | INTRODUCTION
+     100.9  103.8 12.0      | Ce document permet aux modélistes, au personnel de bureaux d’Etudes
+     121.7   70.8 12.0      | De l’habillement, de concevoir un vêtement sur la base de mesures anthropométriques issues
+     142.4   70.8 12.0      | de la Campagne Nationale de Mensuration.
+     183.4   96.0 14.0B     | RAPPELS : Définitions DROP et Taille Commerciale
+     221.5   50.5 12.0      | Définition du DROP
+     242.2   50.5 12.0B     | Une conformation (ou DROP) est un demi – différence entre le tour de taille et le tour de poitrine,
+     262.8   50.5 12.0      | qui permet d’apprécier la forme générale du buste :
+     283.8  101.5 12.0      | DROP = ½ x Tour de taille – ½ x Tour de poitrine
+     304.6   50.5 12.0      | Chez l’homme, les conformations sont les suivantes :
+     325.2   50.5 12.0B     | Athlétique/Elancé, associés aux DROP – 16 à -10
+     346.1   50.5 12.0B     | Normal, associé aux DROP - 8 à - 6
+     366.9   53.5 12.0B     | Fort, associé aux DROP - 4
+     387.6   50.5 12.0B     | Trapu, associé aux DROP - 2
+     408.3   50.5 12.0B     | Corpulent, associé aux DROP 0
+     429.1   50.5 12.0B     | Ventre, associé aux DROP 2
+     449.9   50.5 12.0      | Les drops sont arrondis à l’entier pair le plus proche supérieur : par exemple,
+     470.7   50.5 12.0      | Tour de taille 86
+     491.7   50.5 12.0      | Tour de Poitrine 93
+     512.3   50.5 12.0B     | Le calcul fournit une valeur de - 7, équivalent à la conformation « Normal » : - 6
+     533.0   53.5 12.0      | Définition de la taille commerciale
+     553.9   50.5 12.0      | Pour l’homme, la taille commerciale se calcule suivant la partie du considérée :
+     595.0  104.7 12.0B     | - Pour les pièces à manches, taille veste =1/2 x Tour de poitrine.
+     615.8  104.7 12.0B     | - Pour les pièces à manches, taille pantalon =1/2 x Tour de poitrine.
+     657.4   50.5 12.0      | Les tailles sont arrondies à l’entier pair le plus proche supérieure : Pour un tour de poitrine de 101 il
+     678.3   50.5 12.0      | faudra orienter le client vers une taille 52 (ou 51 si elle existe).
+     786.2  286.1 10.0      | XLIII
+
+=== PDF p233 ===
+  [img] p233_r1 tab 305x145pt @(168,263) lignes=24
+  [img] p233_r2 mixed 474x104pt @(71,653) lignes=4
+  [printed] 44   [lines] 46   [regions] 2
+      70.2   70.8 14.0B     | Les Silhouettes Choisies Pour Concevoir Les Barèmes de mensurations
+      98.3   91.8 12.0      | Pour calculer les nouveaux barèmes de mensurations, il est nécessaire de définir la
+     119.0   70.8 12.0      | silhouette de référence (DROP et Stature).
+     149.8   82.9 12.0      | La Campagne Nationale de Mensuration définit :
+     180.5   91.1 12.0B     | Que la stature moyenne chez l’homme français est de 175 ,6cm avec un poids moyen de
+     201.6   99.1 12.0B     | 77,4 Kg.
+     221.8   91.1 12.0      | Que la réparation par DROP est la suivante :
+     263.8  229.7 10.0  p233_r1 | DROP
+     263.8  372.8 10.0  p233_r1 | CNM 2006
+     275.8  174.0 10.0  p233_r1 | DROP- 16
+     275.8  382.6 10.0  p233_r1 | 0.15%
+     287.8  174.0 10.0  p233_r1 | DROP - 14
+     287.8  383.8 10.0  p233_r1 | 1.20%
+     299.8  174.0 10.0  p233_r1 | DROP - 12
+     299.8  383.8 10.0  p233_r1 | 4.59%
+     311.8  174.0 10.0  p233_r1 | DROP - 10
+     311.8  381.2 10.0  p233_r1 | 12.82%
+     323.8  174.0 10.0B p233_r1 | DROP - 8
+     323.8  380.4 10.0B p233_r1 | 23.48%
+     335.8  174.0 10.0B p233_r1 | DROP - 6
+     335.8  379.3 10.0B p233_r1 | 25.49%
+     347.8  174.0 10.0B p233_r1 | DROP - 4
+     347.8  379.3 10.0B p233_r1 | 20.07%
+     359.8  174.0 10.0  p233_r1 | DROP - 2
+     359.8  382.6 10.0  p233_r1 | 8.50%
+     371.8  174.0 10.0  p233_r1 | DROP - 0
+     371.8  382.6 10.0  p233_r1 | 2.66%
+     383.8  174.0 10.0  p233_r1 | DROP - 2
+     383.8  382.6 10.0  p233_r1 | 0.75%
+     395.8  174.0 10.0  p233_r1 | Hors ventilation
+     395.8  382.6 10.0  p233_r1 | 0.28%
+     434.9   98.1 12.0      | Que les groupes de statures sont :
+     455.5  166.2 12.0B     |  Les Petits avec une stature de 165 cm, représentant 19,45% DES
+     476.5  184.3 12.0      | Hommes.
+     497.2  166.2 12.0B     |  Les Moyens avec une stature de 173 cm, représentant 41,50% DES
+     518.1  184.3 12.0      | Hommes.
+     538.9  166.2 12.0B     |  Les Grands avec une stature de 181 cm, représentant 30,81% DES
+     559.9  184.3 12.0      | Hommes.
+     580.6  166.2 12.0B     |  Les Très Grands avec une stature de 191 cm, représentant 8,24% DES
+     601.5  184.3 12.0      | Hommes.
+     623.0   70.8 12.0B     | INFORMATION
+     654.0   76.6 12.0  p233_r2 | La silhouette la plus représentative de l’homme français issue de la CNM 2016 est la
+     674.7   76.6 12.0  p233_r2 | suivante :
+     695.4  140.9 12.0  p233_r2 |  Appartenant au DROP – 6
+     716.3  140.9 12.0  p233_r2 |  Appartenant au groupe de stature dits « Moyen : 173 cm »
+     786.2  286.1 10.0      | XLIV
+
+=== PDF p234 ===
+  [img] p234_r1 mixed 428x53pt @(95,71) lignes=1
+  [img] p234_r2 fig 451x461pt @(71,180) lignes=0
+  [printed] 45   [lines] 2   [regions] 2
+      90.0  116.9 14.0B p234_r1 | CORRESPONDANCE TAILLES FRANCAISES/ITALIENNES
+     786.2  286.1 10.0      | XLV
+
+=== PDF p235 ===
+  [printed] 46   [lines] 32   [regions] 0
+      70.4   70.8 18.0B     | Glossaire de la coupe et couture
+     104.4   70.8 12.0      | Tous les termes et expressions propres à la coupe à plat, à la couture et au patronage trouvent
+     118.2   70.8 12.0      | leur sens ici.
+     146.4   70.8 12.0B     | Aisance
+     166.7  106.8 12.0      | Il s'agit de quelques centimètres ajoutés à une mesure pour permettre au vêtement de
+     187.4  106.8 12.0      | ne pas trop plaquer. L'aisance est également proportionnelle à l'épaisseur du tissu. On
+     208.2  106.8 12.0      | ajoute plus d'aisance au patron d'un manteau qu'à celui d'un chemisier.
+     229.3   70.8 12.0B     | A- Même
+     249.9  106.8 12.0      | Contraire de rapporté. Désigne une pièce qui fait partie intégrante du vêtement. Une
+     270.5  106.8 12.0      | parementure sera souvent à-même le long d'un bord droit, elle sera toujours rapportée
+     291.3  106.8 12.0      | le long d'une bordure en ligne courbe.
+     312.5   70.8 12.0B     | Ampleur
+     332.8  106.8 12.0      | C'est le volume donné au vêtement fini.
+     353.8   70.8 12.0B     | Cintrer
+     374.2  106.8 12.0      | Enlever de l'ampleur à un vêtement au niveau de la taille le plus souvent par des
+     394.8  106.8 12.0      | pinces.
+     416.3   70.8 12.0B     | Coupe à plat
+     436.5  106.8 12.0      | C'est une technique qui permet de réaliser un vêtement en 2 dimensions. On projette
+     457.1  106.8 12.0      | une représentation du corps à plat. C'est seulement au montage qu'on retrouve nos 3
+     477.9  106.8 12.0      | dimensions par le jeu de pinces qui redonnent son volume au corps. Cette technique
+     498.5  106.8 12.0      | s'oppose au moulage qui s'exerce en 3 dimensions directement sur un mannequin.
+     520.0   70.8 12.0B     | Cran de montage
+     540.2  106.8 12.0      | Entaille qui indique l'emplacement d'un raccord avec une autre pièce du patron. Il y en
+     560.8  106.8 12.0      | a un, par exemple, en haut de la tête de manche pour bien la faire correspondre avec la
+     581.6  106.8 12.0      | couture d'épaule.
+     603.0   70.8 12.0B     | Cranter
+     623.2  106.8 12.0      | Faire de petites entailles le long d'une ligne courbe ou a fortiori dans un angle pour
+     643.9  106.8 12.0      | donner plus de souplesse à une couture. Dans un angle aigu on crantera avec une seule
+     664.6  106.8 12.0      | entaille. Dans un angle obtus on crantera en supprimant des petits triangles de tissu.
+     686.0   70.8 12.0B     | Creuser
+     706.2  106.8 12.0      | Augmenter la profondeur d'une pince ou d'une ligne courbe (emmanchure, encolure)
+     786.2  286.1 10.0      | XLVI
+
+=== PDF p236 ===
+  [printed] 47   [lines] 34   [regions] 0
+      70.2   70.8 12.0B     | Croisure
+      90.6  106.8 12.0      | Bande ajoutée pour permettre la superposition des côtés le long d'une bande de
+     111.2  106.8 12.0      | boutonnage. Elle a généralement la largeur d'un bouton.
+     132.6   70.8 12.0B     | Déplacement de pince
+     152.9  106.8 12.0B     | Le déplacement de pince est une transformation du patron de base pour
+     173.6  106.8 12.0      | changer l'allure générale du vêtement.
+     194.9   70.8 12.0B     | Droit fil
+     215.0  106.8 12.0      | Sens de la trame sur le tissu. On repère le droit fil sur un patron (généralement par une
+     235.8  106.8 12.0      | flèche) pour permettre un bon positionnement sur le tissu. On distingue le droit fil
+     256.6  106.8 12.0      | trame (parallèle aux lisières) et le droit fil chaine (perpendiculaire aux lisières).
+     277.8   70.8 12.0B     | Elargissements du patron de base
+     298.2  106.8 12.0B     | Un élargissement est une aisance supplémentaire qu'on ajoute à un endroit précis
+     318.9  106.8 12.0      | pour augmenter le confort. Il est fonction de l'épaisseur du tissu et du type de
+     339.5  106.8 12.0      | vêtement.
+     361.0   70.8 12.0B     | Embu
+     381.2  106.8 12.0      | Très léger fonçage permettant de résorber une longueur supplémentaire, par exemple
+     401.9  106.8 12.0      | dans la tête de manche. Une pince peut également être transformée en embu quand elle
+     422.6  106.8 12.0      | est peu profonde (par exemple la pince d'épaule dos).
+     443.7   70.8 12.0B     | Evaser
+     464.1  106.8 12.0      | Elargir un vêtement, par exemple le bas d'une jupe.
+     484.9   70.8 12.0      | Fourche ou enfourchure
+     505.6  106.8 12.0      | Partie de la jambe du pantalon qui passe entre les jambes. Il y a une fourche sur le
+     526.3  106.8 12.0      | devant de la jambe de pantalon (courte) et une fourche sur le dos de la jambe de
+     547.0  106.8 12.0      | pantalon (en général deux fois plus longue que la précédente).
+     568.4   70.8 12.0B     | Fronce
+     588.6  106.8 12.0      | Resserrement du tissu obtenu par un fil tiré d'une couture au point devant. On peut
+     609.3  106.8 12.0      | également obtenir des fronces en tirant le fil de canette d'une couture à la machine à
+     630.1  106.8 12.0      | grands points. Il existe aussi des pieds de biche spécifiques permettant de réaliser des
+     650.7  106.8 12.0      | fronces très facilement.
+     671.7   70.8 12.0B     | Galber
+     692.2  106.8 12.0      | Arrondir une ligne souplement.
+     713.1   70.8 12.0B     | Godet
+     733.5  106.8 12.0      | Elargissement d'un patron pour donner de l'ampleur à un vêtement.
+     786.2  286.1 10.0      | XLVII
+
+=== PDF p237 ===
+  [printed] 49   [lines] 34   [regions] 0
+      70.2   70.8 12.0B     | Gradation
+      90.6  106.8 12.0      | Modification apportée à un patron de taille moyenne pour obtenir des tailles plus
+     111.2  106.8 12.0      | petites et plus grandes.
+     132.6   70.8 12.0B     | Lisière
+     152.8  106.8 12.0      | Bordure du tissu qui ne s'effiloche pas, retour des fils de trame.
+     174.0   70.8 12.0B     | Modélisme
+     194.3  106.8 12.0      | C'est un métier de la mode qui consiste à transposer un dessin de stylisme en patron
+     215.0  106.8 12.0      | modèle.
+     236.3   70.8 12.0B     | Montant
+     256.5  106.8 12.0      | Longueur extérieure de la ligne de taille à la ligne de fourche.
+     277.6   70.8 12.0B     | Monter
+     297.9  106.8 12.0      | Assembler les différentes pièces d'un patron. Par exemple monter une manche.
+     319.0   70.8 12.0B     | Moulage
+     339.3  106.8 12.0      | C'est une technique de Haute Couture qui permet de réaliser un vêtement en 3
+     360.0  106.8 12.0      | dimensions. On travaille notamment des drapés complexes directement sur un
+     380.7  106.8 12.0      | mannequin.
+     402.1   70.8 12.0B     | Parementure
+     422.3  106.8 12.0      | Pièce de tissu doublant une encolure ou une emmanchure pour terminer la finition.
+     443.1  106.8 12.0      | Elle est généralement entoilée pour donner de la tenue à la bordure du vêtement.
+     464.6   70.8 12.0B     | Patron de base
+     484.7  106.8 12.0B     | Le patron de base est un patron qui reproduit le corps et qui nécessite
+     505.5  106.8 12.0      | des transformations pour parvenir à un patron modèle ou patron
+     526.1  106.8 12.0      | d'exécution.
+     547.5   70.8 12.0B     | Patron du corsage de base
+     567.8  106.8 12.0B     | Le patron du corsage de base est un patron qui représente fidèlement le buste. Il
+     588.6  106.8 12.0      | sert rarement à réaliser directement un vêtement. Il doit préalablement subir des
+     609.2  106.8 12.0      | transformations. Il est le point de départ des vêtements cintrés. Exemples : robes
+     630.0  106.8 12.0      | chinoise, bustier, redingote, blouson.
+     651.3   70.8 12.0B     | Patron du corsage sans pince
+     671.5  106.8 12.0B     | Le corsage sans pince ne peut pas non plus être coupé tel quel, il doit être élargi. C'est
+     692.1  106.8 12.0      | le point de départ est vêtements amples. Exemples : tee-shirt, pull, manteaux droits.
+     713.1   70.8 12.0      | Patron d'exécution
+     762.3   70.8 12.0B     | Patron Modèle
+     786.2  289.0 10.0      | XLIX
+
+=== PDF p238 ===
+  [printed] 49   [lines] 29   [regions] 0
+      66.2  106.8 12.0      | C'est le patron que l'on posera sur le tissu pour couper un modèle. Généralement les
+      86.9  106.8 12.0      | coutures ne sont pas comprises et il faut couper autour du patron en laissant une marge
+     107.6  106.8 12.0      | d'un à deux centimètres tout le tour, 5 pour les ourlets.
+     129.0   70.8 12.0B     | Patron sur mesure
+     149.3  106.8 12.0B     | Le patron sur mesure est un patron de base ou d'exécution qui a été
+     170.0  106.8 12.0      | construit spécifiquement pour une personne.
+     191.3   70.8 12.0B     | Patron standard
+     211.7  106.8 12.0B     | Le patron standard fait référence à des tailles standards. Pour passer d'une taille à
+     232.3  106.8 12.0      | l'autre on augmente tous les contours de valeurs proportionnelles entre elles, la stature
+     253.1  106.8 12.0      | (hauteur totale) ne varie pas.
+     274.4   70.8 12.0B     | Patronage
+     294.5  106.8 12.0      | C'est la technique qui permet de construire un patron de base et de le transformer.
+     308.8   70.8 13.0B     | Pince
+     336.0  106.7 12.0      | Pli en V permettant d'enlever de l'ampleur au vêtement, par exemple pour le cintrer à
+     356.7  106.7 12.0      | la taille.
+     378.2   70.8 12.0B     | Perroquet ou pistolet
+     398.2  106.8 12.0      | C'est un instrument de traçage qui permet d'obtenir des courbes harmonieuses.
+     419.5   70.8 12.0B     | Platitude
+     439.7  106.8 12.0      | Replat terminant généralement une ligne courbe. Permet d'éviter des becs disgracieux
+     460.4  106.8 12.0      | au montage.
+     481.7   70.8 18.0B     | Pli
+     502.0  106.8 12.0      | Tissu rabattu sur lui-même. Il peut être isolé, par exemple pour remplacer une pince
+     522.8  106.8 12.0      | ou faire partie d'un ensemble, comme dans une jupe plissée.
+     544.1   70.8 12.0B     | Stylisme
+     564.3  106.8 12.0      | C'est le métier qui consiste à concevoir et dessiner un modèle de vêtement.
+     585.6   70.8 12.0B     | Transformations
+     605.8  106.8 12.0B     | Les transformations du patron de base vous permettent d'obtenir un patron
+     626.6  106.8 12.0      | d'exécution ou patron modèle.
+     786.2  289.0 10.0      | XLIX
+
+=== PDF p239 ===
+  [printed] 50   [lines] 27   [regions] 0
+      70.4   70.2 16.0B     | Termes utilisés
+      90.2  160.2 12.0B     |  Spécifications :
+     110.8  106.2 12.0      | Document qui inclut une série de caractéristiques, mesurables ou évaluables
+     131.8  106.2 12.0      | Pour chacune de ces caractéristiques une valeur optimum qui définit la qualité idéale
+     152.4  106.8 12.0      | et des limites qui déterminent les valeurs minimale et maximale que chaque
+     173.0  106.8 12.0      | caractéristique peut prendre pour que le produit puisse être défini comme conforme et
+     193.8  106.8 12.0      | bon.
+     237.3  160.2 12.0B     |  Caractéristique
+     258.3  103.3 12.0B     | Définition :
+     279.4  109.2 12.0      | N’importe quel facteur permettant d’identifier un produit d’un point de vue tel que :
+     299.9  160.8 12.0      |  Composition (fibres, armures)
+     320.6  160.8 12.0      |  Performance (au lavage, résistance à la déchirure)
+     341.3  160.8 12.0      |  Durabilité
+     361.9  160.8 12.0      |  Esthétique ou apparence (lustrage)
+     405.4  160.2 12.0B     |  Standard
+     426.4  103.3 12.0B     | Définition :
+     447.2  106.2 12.0      | Valeur une référence définissant l’idéale pour une caractéristique d’un produit
+     467.9  106.7 12.0      | particulier Ex.
+     488.9  142.8 12.0      | Sous vêtement pour enfant : composition
+     509.8  196.4 12.0      |  Vêtements de travail (médecins, pompiers, laboratoires
+     530.6  214.4 12.0      | chimiques,
+     551.3  196.4 12.0      |  Parachutes
+     594.6  160.2 12.0B     |  Limites (tolérances)
+     615.7  103.8 12.0B     | Définition :
+     636.7   70.8 12.0      | Valeurs ou références définissants les variations minimale et maximale pour une
+     657.4   70.8 12.0      | caractéristique d’un produit particulier
+     786.2  291.5 10.0      | L
+
+=== PDF p240 ===
+  [printed] 51   [lines] 54   [regions] 0
+      70.1   70.8 12.0B     | LISTE DE FIGURIENE CHAPITRE I
+      97.3   70.8 12.0      | Figure 01 : prototype source Pinterest… ................................................................................. 12
+     114.0   70.8 12.0      | Figure 02 : types de veste Source Pinterest ............................................................................ 12
+     130.0   70.8 12.0      | Figure 03 : description de la veste Source Pinterest… ............................................................ 13
+     145.8   70.8 12.0      | Figure 04 : les revers
+     145.8  187.1 12.0      | source Pinterest… ............................................................................. 13
+     161.5   70.8 12.0      | Figure 05 : position des revers source Pinterest .................................................................... 13
+     177.5   70.8 12.0      | Figure 06 : les boutons
+     177.5  198.9 12.0      | source Pinterest… .......................................................................... 14
+     193.3   70.8 12.0      | Figure 07 : les poches
+     193.3  191.2 12.0      | source Pinterest… ............................................................................ 14
+     209.2   70.8 12.0      | Figure 08 : la bonne taille : source Pinterest… ........................................................................ 14
+     224.9   70.8 12.0      | Figure 09 : matière textile :
+     224.9  219.9 12.0      | source Pinterest… ................................................................... 15
+     240.9   70.8 12.0      | Figure 10 : le placement ........................................................................................................... 20
+     256.7   70.8 12.0      | Figure 11 : alignement des bords   PDF m. t. m… .................................................................. 22
+     272.6   70.8 12.0      | Figure 12 : accoler les bords PDF m. t. m… ........................................................................ 22
+     288.4   70.8 12.0      | Figure 13 : laisser un espace
+     288.4  234.1 12.0      | PDF m. t. m… ................................................................... 22
+     304.4   70.8 12.0      | Figure 14 : coupe à la main  source Pinterest… ..................................................................... 29
+     320.1   70.8 12.0      | Figure 15 : découpe unitaire .................................................................................................... 29
+     335.9   70.8 12.0      | Figure 16 : nombre des plis PDF m.t. m… .............................................................................. 35
+     351.8   70.8 12.0      | Figure 17: découpage avec tip- top PDFm.t. d… ................................................................... 35
+     368.3   70.8 12.0      | Figure 18 : découpage assistéPDFm.t. d .................................................................................. 36
+     384.4   70.8 12.0      | Figure 19 : matelassage en zigzag PD Fm .t .m… ................................................................... 36
+     400.1   70.8 12.0      | Figure 20 : matelassage a sens. Endroit ver le haut
+     400.1  327.2 12.0      | PDFm.t .m… ....................................... 37
+     416.0   70.8 12.0      | Figure21 : matelassage a sens et a paire  PDF m. t. m… ......................................................... 37
+     431.9   70.8 12.0      | Figure 22 : matelassage épais  PDF m. t.m… .......................................................................... 38
+     447.8   70.8 12.0      | Figure 23 : matelassage Longue matelas  PD F m. t.m ........................................................... 39
+     463.5   70.8 12.0      | Figure 24 : matelassage (transfert) Longue matelas
+     463.5  329.8 12.0      | PDFm.t ............................................... 39
+     479.3   70.8 12.0      | Figure 25 : différentes tables de matelassage
+     479.3  299.2 12.0      | PDFo.s.t ....................................................... 40
+     495.3   70.8 12.0      | Figure26 : matelassage à la baguettePDFo.s.t ......................................................................... 40
+     511.3   70.8 12.0      | Figure27 : tables a aiguilles
+     511.3  230.4 12.0      | PDFo.s.t .............................................................................. 40
+     527.1   70.8 12.0      | Figure28 : table aspirantes PDFo.s.t .................................................................................... 40
+     542.9   70.8 12.0      | Figure 29 : chariots manuelsPDFo.s.t ..................................................................................... 41
+     558.8   70.8 12.0      | Figure30 : chariots semi-automatiquePDFo.s.t ....................................................................... 41
+     574.6   70.8 12.0      | Figure31 : chariots automatiquePDFo.s.t ................................................................................ 42
+     590.4   70.8 12.0      | Figure32 : coupeuse verticalPDFm.t. d… ............................................................................... 42
+     606.3   70.8 12.0      | Figure33 : ciseaux à mainPDFm.t. d… ................................................................................... 42
+     622.2   70.8 12.0      | Figure 34 : Feuille de matelasPDFm.t. d… ............................................................................. 43
+     638.0   70.8 12.0      | Figure 35 : Plusieurs feuillePDFm.t. d… ................................................................................ 43
+     653.8   70.8 12.0      | Figure36 : Coupeuse a lame circulairePDFm.t. d..................................................................... 45
+     669.6   70.8 12.0      | Figure37 : Coupeuse a lame verticale
+     669.6  264.6 12.0      | PDFm.t. d… ............................................................ 45
+     685.5   70.8 12.0      | Figure 38 : Coupe assistée
+     685.5  215.4 12.0      | PDFm.t. d… ............................................................................. 45
+     701.2   70.8 12.0      | Figure39 : placement chemise PDFm.t. d… ......................................................................... 48
+     717.1   70.8 12.0      | Figure40 : contrôler découpe  PDFm.t. d… ............................................................................ 50
+     732.9   70.8 12.0      | Figure41 : Rangement des patron source Pinterest… ........................................................... 51
+     786.2  291.5 10.0      | LI
+
+=== PDF p241 ===
+  [printed] 52   [lines] 46   [regions] 0
+      84.6   65.1 12.0B     | LISTE DE FIGURE CHAPITRE II
+      98.4   70.8 12.0      | Figure 013: Prototype veste tailleur homme ............................................................................ 61
+     114.1   70.8 12.0      | Figure 04:Différents thermossource Pinterest… ..................................................................... 62
+     130.0   70.8 12.0      | Figure 03 : les thermocollants non tissés… .............................................................................. 62
+     145.8   70.8 12.0      | Figure 04 : différents thermo (triplures)  source Pinterest… .................................................. 64
+     161.5   70.8 12.0      | Figure 05: thermo-viselinesource Pinterest… ......................................................................... 64
+     177.5   70.8 12.0      | Figure 06: Thermocollant source Pinterest… ......................................................................... 65
+     193.3   70.8 12.0      | Figure 07: L’entoilage source Pinterest…............................................................................. 65
+     209.2   70.8 12.0      | Figure 08 : thermo sorte de papier source Pinterest… ........................................................... 66
+     224.9   70.8 12.0      | Figure 09 : Thermo sorte de tissu fin source Pinterest… ...................................................... 66
+     240.9   70.8 12.0      | Figure 10 : thermo de deux tissu
+     240.9  244.2 12.0      | source Pinterest… .......................................................... 67
+     256.7   70.8 12.0      | Figure 11: thermos impermeable source Pinterest .................................................................. 67
+     272.6   70.8 12.0      | Figure 12: Thermosouatinésource Pinterest… ........................................................................ 68
+     288.4   70.8 12.0      | Figure13: Utilisation thermossource Pinterest… .................................................................... 68
+     304.4   70.8 12.0B     | Figure 14 : Présentation du Thermocollage  -Kuffner France ................................................. 70
+     320.1   70.8 12.0B     | Figure15 : présentation du Thermocollage  -Kuffner France ................................................. 71
+     335.9   70.8 12.0      | Figure16 : Présentation du thermocollage-kuffner France ....................................................... 71
+     351.8   70.8 12.0      | Figure 17 -18 : L ’essayage provisoire source Pinterest…....................................................... 75
+     367.6   70.8 12.0      | Figure19 :  différence montage de tête de manche entre deux école source Pinterest ........... 76
+     383.4   70.8 12.0      | Figure20 : différence entoilage sourcePinterest .................................................................. 77
+     399.3   70.8 12.0      | Figure 21 : semi traditionnel  source Pinterest… ................................................................... 78
+     415.0   70.8 12.0      | Figure 22 : traditionnel  source Pinterest… ............................................................................. 78
+     431.0   70.8 12.0      | Figure23 : placement du patron  source Pinterest… ............................................................... 79
+     446.8   70.8 12.0      | Figure24 : Traçage du patron source Pinterest… .................................................................... 79
+     462.7   70.8 12.0      | Figure25 : points bouclettes  source Pinterest… ..................................................................... 80
+     478.5   70.8 12.0      | Figure 26 : thermocollé des pièces source Pinterest ................................................................. 80
+     494.2   70.8 12.0      | Figure 27 : assemblage des pièces source Pinterest… ............................................................ 80
+     510.2   70.8 12.0      | Figure28 : points chevron (Col)  source Pinterest ................................................................... 81
+     525.9   70.8 12.0      | Figure29 : premier aspet (veston) source Pinterest .................................................................. 81
+     541.7   70.8 12.0      | Figure 30 : endroit (col)  source Pinterest… ........................................................................... 81
+     557.6   70.8 12.0      | Figure31 : rembourrage l’épaulette source Pinterest… ........................................................ 82
+     573.4   70.8 12.0      | Figure 32 : coudre cigarette manche  source Pinterest… ........................................................ 82
+     589.4   70.8 12.0      | Figure33: montage (manche)  source Pinterest… ................................................................... 82
+     605.2   70.8 12.0      | Figure34: feutrine (col) source Pinterest… .............................................................................. 83
+     621.0   70.8 12.0      | Figure35 : montage (Col) source Pinterest .............................................................................. 83
+     636.9   70.8 12.0      | Figure 36: l’ aspet final
+     636.9  201.5 12.0      | source Pinterest… ......................................................................... 83
+     652.9   70.8 12.0      | Figure 37 : divers défauts du veston source Pinterest… ......................................................... 83
+     668.7   70.8 12.0      | Figure38 : défauts d’épaulette source Pinterest… .................................................................. 85
+     684.6   70.8 12.0      | Figure 39 : défauts devant source .Pinterest… ....................................................................... 85
+     700.4   70.8 12.0      | Figure40 : défauts manche source Pinterest… ........................................................................ 85
+     716.2   70.8 12.0      | Figure41 : défauts longueur manche source Pinterest… ....................................................... 86
+     732.1   70.8 12.0      | Figure 42 : défauts bouton source Pinterest… ........................................................................ 86
+     747.8   70.8 12.0      | Figure 43 : défauts style source Pinterest… ............................................................................. 89
+     786.2  291.5 10.0      | LII
+
+=== PDF p242 ===
+  [printed] 53   [lines] 42   [regions] 0
+      69.7   70.8 12.0      | Figure 44 : dos .......................................................................................................................... 89
+      85.7   70.8 12.0      | Figure45 : positionner des Boutonnières… ............................................................................. 90
+     101.5   70.8 12.0      | Figure 46: positionnement des poches… ................................................................................. 90
+     117.4   70.8 12.0      | Figure 47 : Manche ................................................................................................................... 91
+     133.1   70.8 12.0      | Figure 48 : parementure ........................................................................................................... 91
+     149.0   70.8 12.0      | Figure 49 : doublure ................................................................................................................ 92
+     164.9   70.8 12.0      | Figure 50 : Doublure de la manche ......................................................................................... 93
+     180.6   70.8 12.0      | Figure51 : thermocollant dos, devant, petit coté… ................................................................ 94
+     196.4   70.8 12.0      | Figure 52 : thermocollée de la manche .................................................................................... 95
+     212.4   70.8 12.0      | Figure 53 : renfort d’épaule, d’emmanchure ........................................................................... 96
+     228.1   70.8 12.0      | Figure 54 : Plis horizontal emmanchure dos… ....................................................................... 97
+     244.0   70.8 12.0      | Figure55 : Pli horizontal du dos au-dessous du col ................................................................. 97
+     260.0   70.8 12.0      | Figure56 : Pli horizontal du dos au-dessous de la ligne sous bras… ....................................... 98
+     275.8   70.8 12.0      | Figure 57 : Pli horizontal dans la manche ............................................................................... 98
+     291.6   70.8 12.0      | Figure 58 : Plis vertical ........................................................................................................... 98
+     308.1   70.8 12.0      | Figure 59 : Plis vertical dans le devant ................................................................................... 99
+     324.9   70.8 12.0      | Figure 60 : Plis inclinées dans l’emmanche du dos ................................................................. 99
+     341.1   70.8 12.0      | Figure 61 : Plis inclinées (couture cotée devant)… ................................................................. 100
+     356.8   70.8 12.0      | Figure 62 : Plis inclinées (épaule devant)… ............................................................................ 100
+     372.5   70.8 12.0      | Figure 63 : Plis inclinées (l’emmanchure devant) ................................................................... 101
+     388.4   70.8 12.0      | FIG64 : Plis inclinées du devant… .......................................................................................... 101
+     405.2   70.8 12.0      | Figure 65 : Plis inclinées inclinés dans la tête de la manche… ............................................... 101
+     421.6   73.6 12.0      | Figure66 : Longueur de dos insuffisante dans la ligne en dessus de sous bras ...................... 102
+     437.8   70.8 12.0      | Figure 67 : longueur dos insuffisant (ligne dessus de sous bras)… ........................................ 102
+     454.5   70.8 12.0      | Figure 68 :Le devant court……………………………………………………………………103
+     471.2   70.8 12.0      | Figure 69 : Le devant long… .................................................................................................... 103
+     488.0   70.8 12.0      | Figure 70 : virage spiral de la manche… .................................................................................. 103
+     504.9   70.8 12.0      | Figure 71 : L’aplomb de la manche est déplacé....................................................................... 104
+     528.7   70.8 12.0B     | LISTE DE TABLEAU CHAPITRE I
+     555.9   65.1 11.0      | Tableau I. 01 : propriétés du polyester……………………………………………………..……………15
+     568.5   65.1 12.0      | Tableau Technique du tergal I.02………………………………………………………………16
+     582.3   65.1 12.0      | Tableau technique de la doublure I.03………………………………………………………….17
+     596.1   65.1 12.0      | Tableau technique de la toile collante I.04…………………………………………………….. 18
+     609.9   65.1 12.0      | Tableau technique de la description du prototype I.05……………………………………........23
+     626.6   65.1 12.0      | Tableau I. 06 : Les techniques du traçage… .............................................................................. 24
+     642.6   65.1 12.0      | Tableau I.07 : Les moyens de fixation… ...................................................................................44
+     658.5   65.1 12.0      | Tableau I.08 : Norme de qualitéPDFm.t. Q… .......................................................................... 53
+     674.4   65.1 12.0      | Tableau I.09 : Norme de tolérancePDFm.t. Q…....................................................................... 54
+     702.7   70.8 12.0B     | LISTE DE TABLEAU CHAPITRE II
+     729.9   70.8 12.0      | Tableau 01 : Des différents thermocollants tissés et non tissés… ............................................ 63
+     745.8   70.8 12.0      | Tableau 05 : types de points de colle source kuffner France ................................................... 71
+     786.2  291.5 10.0      | LIII
+
+=== PDF p243 ===
+  [printed] 54   [lines] 42   [regions] 0
+      70.1   70.8 12.0B     | LISTE DES TABLEAU CHAPITRE I-III
+      97.3   70.8 12.0      | Tableau 01 : Les pièces à couper de veston (Tissu) ................................................................. 109
+     113.3   70.8 12.0      | Tableau 02 : Les pièces à Doubler de veston (doublure)… ..................................................... 110
+     129.2   70.8 12.0      | Tableau 03 : Les pièces de veston à thermocoller .................................................................... 111
+     145.1   70.8 12.0      | Tableau 04 : Gamme opératoire de la poche passe poilée........................................................ 116
+     160.9   70.8 12.0      | Tableau 05 : Tableau des pièces tissu (tergal)… ..................................................................... 118
+     176.8   70.8 12.0      | Tableau 06 : Tableau des pièces doublure (taffetas)… ............................................................ 120
+     192.6   70.8 12.0      | Tableau 07 : Tableau des pièces de la toile coulante................................................................ 126
+     208.3   70.8 12.0      | Tableau 08 : Tableau des pièces d’entoilage ........................................................................... 131
+     224.2   70.8 12.0      | Tableau 09 : Gamme de montage ............................................................................................ 136
+     254.3   70.8 12.0B     | LISTE DES FIGURES CHAPITRE III
+     281.3   70.8 12.0      | Figure 01 : le repassage
+     281.3  284.0 12.0      | source Pinterest… ............................................. 160
+     295.2   70.8 12.0      | Figure 02 : table de repassage
+     295.2  282.8 12.0      | source Pinterest………………………………..162
+     309.0   70.8 12.0      | Figure 03 : l’étiqueté de la veste
+     309.0  285.4 12.0      | source Pinterest… ............................................. 162
+     322.7   70.8 12.0      | Figure 04 : nettoyage de fer
+     322.7  287.7 12.0      | source Pinterest… ............................................ 163
+     336.5   70.8 12.0      | Figure 05 : le repassage avec l’eau distillé
+     336.5  289.5 12.0      | source Pinterest… ............................................ 163
+     350.3   70.8 12.0      | Figure 06 : protection de la veste
+     350.3  285.8 12.0      | source Pinterest… ............................................. 163
+     364.1   70.8 12.0      | Figure 07 : la veste à plat
+     364.1  285.3 12.0      | source Pinterest… ............................................. 164
+     377.9   70.8 12.0      | Figure 08 : repassez les section arriéré
+     377.9  278.7 12.0      | source Pinterest… ............................................... 165
+     391.7   70.8 12.0      | Figure 09 : l’avant de la veste
+     391.7  282.4 12.0      | source Pinterest .................................................. 165
+     405.5   70.8 12.0      | Figure 10 : repassage l’avant de la veste
+     405.5  278.0 12.0      | source Pinterest ................................................... 165
+     419.2   70.8 12.0      | Figure 11 : apprêtez les manche
+     419.2  280.7 12.0      | source Pinterest ................................................... 166
+     433.0   70.8 12.0      | Figure 12 : repassage de la manche
+     433.0  281.3 12.0      | source Pinterest .................................................. 166
+     446.8   70.8 12.0      | Figure 13 : Accrochez la veste
+     446.8  286.2 12.0      | source Pinterest ................................................ 167
+     474.4   70.8 12.0      | LISTE DES FICHER CHAPITRE : 01
+     502.0   65.1 12.0      | Fiche placement de tissu I.01………………………………..…………………………………..26
+     515.8   65.1 12.0      | Fiche placement doublureI.02………………………………………………………………..….27
+     529.6   65.1 12.0B     | Fiche placement de la toile collante I.03……………………………………..……………….…28
+     786.2  291.5 10.0      | LIV
