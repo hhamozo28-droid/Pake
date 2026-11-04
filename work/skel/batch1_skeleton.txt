@@ -1,0 +1,1854 @@
+
+=== PDF p1 ===
+  [img] p001_r1 fig 423x248pt @(86,376) lignes=0
+  [printed] None   [lines] 13   [regions] 1
+      70.4   71.8 16.0B     | MINISTERE DE LA FORMATION ET DE L’ENSEIGNEMENT
+      89.0  225.5 16.0B     | PROFESSIONNELS
+     107.5   79.5 16.0B     | INSTITUT DE LA FORMATION ET DE L’ENSEIGNEMENT
+     125.8  225.6 16.0B     | PROFESSIONNELS
+     144.2  262.0 16.0B     | - ALGER-
+     231.1   82.6 12.0B     | MANUEL DE FIN DE FORMATION PREALABLE COMPLEMENTAIRE POUR
+     245.0  215.2 12.0B     | L’ACCES AU GRADE PSFEP1
+     293.3   70.8 12.0B     | TITRE DU MODULE : Fabrication Prototype veste
+     307.1   70.8 12.0B     | SPECIALITE : Tailleur Homme
+     320.9   70.8 12.0B     | NIVEAU : VI
+     646.9   70.8 12.0B     | REALISE PAR : CHAIB CHAHRAZED
+     682.2  151.0 12.0B     | LOUNIS BAHIA
+     742.3  260.5 16.0B     | Juin / 2019
+
+=== PDF p2 ===
+  [rec] p002_d1 14x14pt @(98,213)
+  [rec] p002_d2 14x14pt @(98,331)
+  [printed] None   [lines] 8   [regions] 0
+      84.1   84.0 18.0B     | CONCEPTION ET REALISATION DU MANUEL
+     143.0   90.0 16.0      | Ce manuel est conçu et réalisé par :
+     178.3  115.1 16.0B     | Mme AID Chahra-zed Nee CHAIB
+     213.9  112.3 16.0      | Professeur de formation professionnelle spécialité habillement
+     256.4  107.1 16.0      | CFPA Soumaa- Blida
+     296.1  115.1 16.0B     | Mme Lounis Bahia
+     331.3  112.3 16.0      | Professeur de formation professionnelle spécialité habillement
+     373.8  107.1 16.0      | CFPA Tigzirt - tizi
+
+=== PDF p3 ===
+  [printed] None   [lines] 24   [regions] 0
+      70.9  157.1 24.0B     | TABLE DES MATIERES
+     132.6   65.1 12.0B     | AVANT PROPOS
+     153.4   65.1 12.0B     | FICHE DE PRESENTATION DU METIER
+     174.0   65.1 12.0B     | FICHE DE PRESENTATION DU MODULE
+     208.4   65.1 12.0B     | CHAPITRE I : LES SPECIFICATIONS DE LA PREPARATION DU VESTON.….12
+     236.0   65.1 12.0B     | INTRODUCTION………………………………………………………………………...12
+     259.0   65.1 12.0B     | I.1 : RAPPEL THEORIQUE SUR LE VESTON ET LES CARACTERISTIQUES…12
+     286.6   65.1 12.0B     | I.1.1 :    Rappel théorique sur le veston………………………………...………………….12
+     314.2   65.1 12.0      | I.1.1.1 : Les différents éléments constituant le veston………………………………….....13
+     341.8   65.1 12.0      | I.1.2 :    Caractéristique des étoffes utilisée………………………………………………..13
+     369.4   65.1 12.0      | I.1.2.1 : Tableau des étoffes utilisées………………………………………..……………..15
+     397.0   65.1 12.0      | I.1.3 :   Exercice d’application………………………………………………………...…..19
+     433.7   65.1 12.0B     | I. 2 : RECHERCHE DE METRAGE ET RENDEMENT………………………..……..20
+     456.7   65.1 12.0B     | I.2.1 :     Etude de placement…………………….…………………………………………21
+     479.5   65.1 12.0B     | I.2.1.1 :  Les moyens techniques et les conditions de la réussite………………………..…22
+     502.4   65.1 12.0      | I.2.2 :     Les techniques de traçage…………………………………………………………29
+     525.3   65.1 12.0      | I.2.2.1 :  Calcul des pertes et rendement de la matière……………………………………..30
+     548.2   65.1 12.0      | I.2.3 :     Exercice d’application……………………………………………………………34
+     584.8   65.1 12.0B     | I.3 : LES PROCEDES ANALYTIQUE DU MATELASSAGE ET DECOUPAGE….35
+     612.4   65.1 12.0B     | I.3.1 :     Les méthodes de matelassage……………………………………………..………35
+     640.0   65.1 12.0      | I.3.1.1:   Le choix de la méthode du matelassage ………………………………………….36
+     660.9   65.1 12.0      | I.3.2 :     Les techniques de découpage……………………………………………………..38
+     683.8   65.1 12.0      | I.3.2.1 :  Les moyens de fixation des clichés ou patrons sur le matelas…………………….44
+     706.8   65.1 12.0      | I.3.3 :     Exercice d’application…………………………………………………………….46
+
+=== PDF p4 ===
+  [printed] None   [lines] 28   [regions] 0
+      66.5   65.1 12.0B     | I-4 : TECHNIQUES DE CONTROLE DES DIFFIRENTES OPERATIONS………47
+      94.1   65.1 12.0      | I.4.1 :    Contrôle de la qualité dans l’atelier de coupe…………………………………….47
+     121.7   65.1 12.0      | I.4.1.1 : Contrôler au niveau du placement………………………………………………..47
+     149.3   65.1 12.0      | I.4.2 :     Etablissement des spécifications de contrôle…………………………………….52
+     176.9   65.1 12.0      | I.4.2.1 : Normes de qualité avec spécification de la construction………………………….54
+     197.8   65.1 12.0B     | I.4.3 :    Exercice d’application………………………………………………………….57/58
+     220.7   65.1 12.0B     | I.5: RESUME………………………………………………………………………………59
+     248.3   65.1 12.0B     | I.6: EXERCICE DE SYNTHESE…………………………………………………..…….60
+     276.3   65.1 14.0B     | CHAPITRE II : DEROULEMENT DES ETAPES DE FABRICATION………….………61
+     302.4   65.1 14.0B     | INTRODUCTION…………………………………………………………………...……62
+     325.2   65.1 12.0B     | II.1 : THERMOCOLAGE……………………...…………………………………………62
+     348.2   65.1 12.0B     | II.1.1 :    Définition des triplures……………………………………………………...……64
+     369.3   65.1 14.0B     | II.1.1.1 : Thermocollant ……………………………………………………………………65
+     390.9   65.1 12.0B     | II.1.2 :     Les différents types d’entoilage et d’enduction………………………………….69
+     418.5   65.1 12.0      | II.1.2.1 :  Composition……………………………………………………………………...70
+     444.3   65.1 14.0B     | II.1.3 :   Exercice d’application…………………………………………………..….…73/74
+     473.7   65.1 12.0B     | II.2 : ASSEMBLAGE PROVISOIRE DU VESTON………………………………..…..75
+     496.6   65.1 12.0      | II.2.1 :    Préparation de Prototype d’après une gamme provisoire……………………...…75
+     524.2   65.1 12.0      | II.2.1.1 : Epaisseur et Rigidité des épaulettes………………………………………………76
+     545.9   65.1 12.0      | II.2.2 :   Vérification de l’aspect du veston…………………………………………………84
+     573.5   65.1 12.0      | II.2.3 :    Divers défauts du veston………………………………………………………….85
+     601.1   65.1 12.0B     | II.2.3 :    Exercice d’application……………………………………………………...…87/88
+     624.1   65.1 12.0B     | II.3 : DETERMINATION DES CORRECTIONS DU VESTON……………………...89
+     648.0   65.1 12.0B     | II.3.1 :   Conformité du produit dans la construction du patron……………………………89
+     675.6   65.1 12.0B     | II.3.1.1 : Le dos de la veste tailleur…………………………………………………………89
+     703.2   65.1 12.0B     | II.3.2 :    Les corrections apportées sur le prototype dans la confection…………………...97
+     730.8   65.1 12.0      | II.3.2.1 : Plis horizontal………………………………………………………...…………..97
+     758.5   65.1 12.0B     | II.3.3 : Exercice d’application…………………………………………………………..…105
+
+=== PDF p5 ===
+  [printed] None   [lines] 22   [regions] 0
+      90.4   65.1 12.0B     | II.4 : RESUME…………………………………………………………………………..106
+     114.2   65.1 12.0B     | II.5 : EXERCICE DE SYNTHESE………………………………………………….….107
+     138.1   65.1 12.0B     | CHAPITRE III : UNIFORMISATION DE LA GAMMEDES VESTONS……….…108
+     162.0   65.1 12.0B     | INTRODUCTION……………………………………………………………………….108
+     185.9   65.1 12.0B     | III.1 : EXPLOITATION DE LA GAMME DE MONTAGE EN FABRICATION….109
+     217.6   65.1 12.0      | III.1.1 : Tableau des pièces relatives au modèle…………………………………………..109
+     249.2   65.1 12.0B     | III.1.1.1 : Tissu…………………………...………………………………………………..109
+     281.1   65.1 12.0B     | III.1.2 : Gamme de fabrication du veston…………………………………………………105
+     312.8   65.1 12.0      | III.1.2.1 : La préparation…………………………………………………………………..116
+     338.7   65.1 12.0B     | III.1.3 :   Exercice d’application…………………………………………………………..153
+     362.6   65.1 12.0B     | III.2 : COLLECTION DES DIFFERENTS MODELES DU VESTON……………….154
+     386.4   65.1 12.0B     | III.2.1 : Les différents modelés saisonniers………………………………………………..154
+     410.3   65.1 12.0      | III.2. 1.1 : le plan de la collection………………………………………………………....154
+     436.1   65.1 12.0B     | III.2.2 : les techniques de repassage……………………………………………………....158
+     467.9   65.1 12.0      | III.2.2.1 : Définition de repassage………………………………………………………..159
+     493.7   65.1 12.0      | III.2.3: Exercice d’application……………………………………………………………167
+     526.5   65.1 12.0B     | III.3 : ETUDE DE CAS SUR LA VESTE CLASSIQUE……………………………..168
+     557.0   65.1 12.0B     | III.3.1 : Fiche technique de fabrication…………………………………………………. 168
+     584.6   65.1 12.0      | III.3.1.1 : Description de la veste classique étude de cas………………………………..169
+     612.2   65.1 12.0B     | III.3.2 : dessin détaille de chaque élément……………………………………………….173
+     639.8   65.1 12.0      | III.3.2 : Col tailleur……………………………………………………………………….173
+     667.4   65.1 12.0B     | III.3.3 : Exercice d’application……………………………………………………………176
+
+=== PDF p6 ===
+  [printed] None   [lines] 16   [regions] 0
+      94.1   65.1 12.0B     | III.4 : SPECIFICATION D’EXECUTION DANS LA FABRICATION…………..…177
+     121.7   65.1 12.0B     | III.4.1 : Contrôle en cours de fabrication……………………………………………….…177
+     149.3   65.1 12.0      | III.4.1.1 : But du contrôle en cours de fabrication………………………………………..177
+     169.9   65.1 12.0      | III.4.2 : Tolérance de fabrication…………………………………………………………178
+     197.5   65.1 12.0      | III.4.2.1 : Tolérances de précision ………………………………………………………. 178
+     218.3   65.1 12.0      | III.4.3 : Exercice d’application …………………………………………………………..179
+     245.9   65.1 12.0B     | III.5 : RESUME………………………………………………………………………….180
+     273.5   65.1 12.0B     | III.6 : EXERCICE DE SYNTHESE……………………………………………...…….181
+     301.1   65.1 12.0B     | RESUME GENERAL………………………………………………………………...…182
+     328.7   65.1 12.0B     | EXCERCICE SYNTHESE DU MODULE…………………………………………….183
+     356.3   65.1 12.0B     | LA GRILLE D’EVALUATION…………………………………………………………184
+     383.9   65.1 12.0B     | BIBLIOGRAPHIE…………………………………………………………………..185/186
+     411.5   65.1 12.0B     | ANNEXE A (CORRIGE DES EXCERCICES) 01 (I-XXXI)
+     439.1   65.1 12.0B     | ANNEXE B (EXEMPLE D’APPLICATION) 02 (XXXII -L)
+     466.7   65.1 12.0B     | ANNEXE C (LISTE DES TABLEAUX, DES FIGURES ET DES FICHES) 03 (LI -
+     480.5   65.1 12.0B     | LIV )
+
+=== PDF p7 ===
+  [printed] None   [lines] 27   [regions] 0
+      69.8  185.0 24.0B     | AVANT PROPOS
+     134.9   61.0 12.0B     | La formation professionnelle a pour mission principale de préparer une main d’œuvre
+     150.7   61.0 12.0      | Qualifiée apte à s’insérer sur le marché du travail.
+     182.4   61.0 12.0B     | Pour réaliser cette mission, les formations assurées doivent être centrées sur l’acquisition des
+     198.2   61.0 12.0      | compétences inhérentes à l’exercice adéquat d’un métier ou d’une profession.
+     230.0   61.0 12.0B     | Ces dernières années, le secteur de la formation et de l’enseignement professionnels a mis en
+     245.9   61.0 12.0      | place une stratégie orientée vers la production des manuels à l’intention des stagiaires.
+     277.7   61.0 12.0B     | Le contenu du manuel est conçu de manière organisé et progressive à partir des objectifs
+     293.6   61.0 12.0      | définis dans le programme d’étude.
+     325.2   61.0 12.0B     | Dans ce manuel, on a traité le module qualifiant MQ9, intitulé : « FABRICATION
+     341.2   61.0 12.0      | PROTOTYPE VESTE » qui dérive du programme de « l’habillement » niveau IV, dont la durée
+     357.0   61.0 12.0      | est de 136H.
+     388.7   61.0 12.0B     | Quelques modifications ont été apportées aux tableaux des objectifs intermédiaire (voir
+     404.7   61.0 12.0      | annexe B) dans le but de faciliter l’élaboration de ce manuel, c’est pourquoi on a opté pour les
+     420.5   61.0 12.0      | trois chapitres suivants :
+     452.0   61.0 12.0B     | ❖  1er chapitre : Les spécifications de la préparation du veston
+     493.6   61.0 12.0B     | On retrouve des notions de base relative aux caractéristiques du tissu dans lequel est expliqué le
+     514.4   61.0 12.0      | choix du placement en fonction de ce dernier et les types de matelas suivant les techniques de
+     535.0   61.0 12.0      | découpage, le calcul de métrage et le rendement pour économiser la matière.
+     576.2   61.0 12.0B     | ❖ 2eme chapitre : Déroulement des étapes de la fabrication
+     605.1   61.0 12.0B     | Avant de fabriquer le veston on doit préparer une gamme provisoire qui nous permet de réaliser
+     625.9   61.0 12.0      | le prototype et procéder par la suite à la correction
+     667.1   57.1 12.0B     | ❖ 3eme chapitre : Exploitation de la gamme de montage dans la fabrication
+     708.7   61.0 12.0B     | Chaque technique d’exécution exacte dans un ordre logique s’appliquant à la gamme de montage
+     736.3   61.0 12.0      | Tout en respectant, la collection de la saison, la description, et le matériel relatif pour atteindre
+     763.9   61.0 12.0      | Le modèle adéquat.
+     805.3   61.0 12.0      | .
+
+=== PDF p8 ===
+  [printed] None   [lines] 38   [regions] 0
+      70.7  103.2 22.0B     | FICHE DE PRESENTATION DU MITIER
+     132.1   77.8 14.0B     | I – DONNEES GENERALES SUR LA PROFESSION
+     175.6   72.0 12.0B     | 1-   PRESENTATION DE LA PROFESSION :
+     203.2   72.0 12.0B     | 1.1-   Branche professionnelle : Habillement Textiles
+     217.0   72.0 12.0B     | 1.2-   Dénomination du métier : Tailleur hommes, niveau IV
+     230.8   72.0 12.0B     | 1.3-   Description   du métier :
+     249.0   90.0 12.0B     | • Le tailleur réalise et transforme les patrons des différents types de vêtements pour
+     264.2  108.0 12.0B     | hommes.
+     282.5   90.0 12.0B     | • Le tailleur confectionne les tailleurs, les manteaux pour homme, les
+     297.8  108.0 12.0B     | retouches des vêtements et faire la vente auprès du client.
+     320.7   72.0 12.0B     | 1.4-   Tâches principales :
+     343.6   72.0 12.0B     | Le Technicien tailleur est capable de :
+     362.7   90.0 12.0B     | • Prendre les mesures du client
+     376.7   90.0 12.0B     | • Réaliser le patron ou le modifier conformément aux mesures du client
+     390.7   90.0 12.0B     | • Réaliser l’ouvrage sur la base du patron
+     404.6   90.0 12.0B     | • Réaliser le montage d’un vêtement
+     418.4   90.0 12.0B     | • Réaliser l’essayage du vêtement au client
+     433.3   90.0 12.0B     | • Analyser et effectuer les retouches nécessaires.
+     457.5   72.0 12.0B     | 2-   CONDITIONS DE TRAVAIL :
+     480.8   72.0 12.0B     | 2.1- Lieu de travail :
+     494.5   90.0 12.0B     | • Le titulaire de l’emploi, travaille dans :
+     509.2   90.0 12.0B     | • Un atelier de couture
+     523.8   90.0 12.0B     | • Une Entreprise d’habillement
+     538.5   90.0 12.0B     | • A domicile
+     553.1   90.0 12.0B     | • Grands magasins
+     568.4   72.0 12.0B     | 2.2- Eclairage : Naturel et artificiel
+     582.2   72.0 12.0B     | 2.3- Température et humidité : Ambiante
+     596.0   72.0 12.0B     | 2.4- Bruit et vibrations : Bruits des équipements : Les machines à coudre.
+     609.8   72.0 12.0B     | 2.5- Poussière : Propreté et bonne aération
+     623.6   72.0 12.0B     | 2.6-Risques professionnels :
+     636.9   90.0 12.0B     | • Danger de machines de piquage et de finition
+     651.5   90.0 12.0B     | • Risques des maladies et affections pulmonaires
+     666.2   90.0 12.0B     | • Gêne respiratoire.
+     681.3   72.0 12.0B     | 2.7-   Contacts socioprofessionnels :
+     694.6   90.0 12.0B     | • Relation internes : Travaille en équipe
+     709.2   90.0 12.0B     | • Relation externe : Contacte avec la clientèle
+     724.4   72.0 12.0B     | 2.8-   Travail seul ou en équipe :
+     737.7   90.0 12.0B     | • Il exerce ses taches individuellement ou en équipe.
+
+=== PDF p9 ===
+  [printed] None   [lines] 25   [regions] 0
+      79.4   63.0 12.0B     | 3- EXIGENCES DE LA PROFESSION :
+     120.7   63.0 12.0B     | 3.1- Physiques :
+     142.4   81.0 12.0B     | • Bonne constitution
+     156.2   81.0 12.0B     | • Bonne vision
+     170.2   81.0 12.0B     | • Habileté manuelle
+     185.1   81.0 12.0B     | • Résistance à la station debout
+     213.8   63.0 12.0B     | 3.2-Intellectuelles :
+     241.4   81.0 12.0B     | • Précision   et   souci   de   détail, créativité   et   imagination, sens
+     256.6   99.0 12.0B     | d’observation, sens de responsabilité.
+     284.2   63.0 12.0B     | 3.3-   Contre-indication :
+     297.5   81.0 12.0B     | • Vue insuffisante après correction
+     312.2   81.0 12.0B     | • Difficulté de s’adapter à des conditions de travail changeant
+     341.1   63.0 12.0B     | 4- RESPONSABILITES DE L’OPERATEUR :
+     368.6   63.0 12.0B     | 4.1-   Matérielle :
+     395.5   81.0 12.0B     | • Le tailleur est responsable du matériel et outillage qui lui ont affecté.
+     424.4   63.0 12.0B     | 4.2-   Décisionnelle :
+     451.6   81.0 12.0B     | • Prise des décisions qui permettent d'améliorer la qualité des travaux   à
+     466.7   99.0 12.0B     | réaliser avec l'accord de son supérieur.
+     480.1   81.0 12.0B     | • Il est appelé à prendre des décisions sur la méthode d’exécution.
+     508.9   63.0 12.0B     | 4.3-   Morale :
+     535.3   81.0 12.0B     | • Le tailleur doit travailler en respectant les normes, les délais et la qualité
+     550.4   99.0 12.0B     | du produit.
+     578.0   63.0 12.0B     | 4.5-   Sécuritaire :
+     605.0   81.0 12.0B     | • Le tailleur doit veiller à l'application des normes de sécurité sur soi, sur
+     620.2   99.0 12.0B     | les autres et sur le matériel.
+
+=== PDF p10 ===
+  [img] p010_r1 tab 372x151pt @(81,149) lignes=12
+  [rec] p010_d1 273x13pt @(81,108)
+  [printed] None   [lines] 29   [regions] 1
+     107.9   81.0 12.0B     | 5-   RESPONSABILITES DE L’OPERATEUR :
+     149.3   81.0 12.0B p010_r1 | 5.1-
+     149.3  117.0 12.0B p010_r1 | Accès aux postes de promotion :
+     176.4   99.0 12.0  p010_r1 | •
+     177.7  117.0 12.0B p010_r1 | Cadre règlementaire : Conformément au statut des
+     191.5   81.0 12.0B p010_r1 | Différentes entreprises
+     218.5   99.0 12.0  p010_r1 | •
+     219.8  117.0 12.0B p010_r1 | Accès aux postes supérieurs :
+     246.9   99.0 12.0  p010_r1 | •
+     248.3  117.0 12.0B p010_r1 | Par expérience professionnelle
+     261.6   99.0 12.0  p010_r1 | •
+     263.0  117.0 12.0B p010_r1 | Par formation spécifique
+     290.6   81.0 12.0B p010_r1 | 6- FORMATION :
+     345.3  242.1 12.0B     | : 2-ème année secondaire
+     345.8   93.1 12.0B     | 6.1.
+     345.8  125.5 12.0B     | Conditions d’accès
+     371.7   93.1 12.0B     | 6.2.
+     371.7  125.5 12.0B     | Type de formation
+     371.7  242.1 12.0B     | : Résidentiel
+     397.5   93.1 12.0B     | 6.3.
+     397.5  125.5 12.0B     | Durée de formation
+     397.5  242.1 12.0B     | : 24 mois soit 2448 h dont 12 semaines de stage pratique
+     437.1   93.1 12.0B     | 6.4.
+     437.1  125.5 12.0B     | Niveau de
+     437.1  242.1 12.0B     | : IV
+     450.9  125.5 12.0B     | qualification
+     476.7   93.1 12.0B     | 6.5.
+     476.7  125.5 12.0B     | Diplôme
+     476.7  242.1 12.0B     | : Brevet de technicien (BT) en tailleur hommes
+
+=== PDF p11 ===
+  [printed] None   [lines] 28   [regions] 0
+      70.6  103.7 20.0B     | FICHE DE PRÉSENTATION DU MODULE
+      93.6  213.2 20.0B     | PROFESSIONNEL
+     143.8  121.9 12.0B     | Intitulé du module : Fabrication prototype veste
+     157.6  121.9 12.0B     | Code du module :     MQ9
+     171.4  121.9 12.0B     | Durée (h) du module : 136 h
+     226.6   84.0 12.0B     | Objectif modulaire
+     254.2   75.0 12.0B     | Comportement attendu :
+     281.3  102.0 12.0B     | • A l’issu de ce module, le stagiaire doit être capable de fabriquer le prototype de la veste
+     296.4  120.0 12.0B     | tailleur.
+     324.0   75.0 12.0B     | Conditions d’évaluation
+     337.8   75.0 12.0B     | A partir de :
+     363.9   93.0 12.0B     | • Patrons finis
+     377.9   93.0 12.0B     | • Fiche de spécification comportant l’ensemble des données nécessaires à la
+     393.0  111.0 12.0B     | confection de la veste tailleur hommes ;
+     406.5   93.0 12.0B     | • Gamme de montage
+     430.4   84.0 12.0B     | A l’aide :
+     452.5  102.0 12.0B     | • De l’équipement, du matériel et des tissus nécessaires à la confection de la
+     467.7  120.0 12.0B     | veste tailleur hommes.
+     481.2  102.0 12.0B     | • Mannequin
+     505.0   75.0 12.0B     | Critères généraux de performance :
+     527.0   93.0 12.0B     | • Utilisation appropriée du matériel de coupe
+     541.0   93.0 12.0B     | • Application correcte des techniques de coupe
+     554.8   93.0 12.0B     | • Respect des aplombs, des formes et des valeurs de couture.
+     568.6   93.0 12.0B     | • Respect des règles de sécurité relatives à l’utilisation du matériel de coupe.
+     582.4   93.0 12.0B     | • Utilisation des techniques appropriées au type de correction à effectuer.
+     596.2   93.0 12.0B     | • Préparation correcte des pièces du vêtement en vue de l’assemblage
+     610.0   93.0 12.0B     | • Exécution correcte et dans un ordre logique des étapes d’assemblage.
+     623.8   93.0 12.0B     | • Conformité du prototype du produit avec le patron de base.
+
+=== PDF p12 ===
+  [img] p012_r1 tab 464x672pt @(67,67) lignes=94
+  [printed] None   [lines] 94   [regions] 1
+      72.2  243.9 10.0B p012_r1 | Critères particuliers
+      78.0   66.9 10.0B p012_r1 | Objectifs intermédiaires
+      78.0  401.2 10.0B p012_r1 | Eléments de contenu
+      83.8  253.6 10.0B p012_r1 | de performance
+     111.5  220.2  9.0  p012_r1 | •
+     111.6  238.2 10.0B p012_r1 | Les aplombs, la forme,
+     111.5  366.7  9.0  p012_r1 | •
+     111.6  384.7 10.0B p012_r1 | Rappels
+     132.0  238.2 10.0B p012_r1 | Les proportions,
+     131.9  366.7  9.0  p012_r1 | •
+     132.0  384.7 10.0B p012_r1 | Caractéristiques des étoffes
+     143.5  238.2 10.0B p012_r1 | L’aisance, les mesures
+     144.4  384.7 10.0B p012_r1 | (tissus)
+     154.9  238.2 10.0B p012_r1 | Sont respectés
+     163.8   76.3  9.0  p012_r1 | •
+     163.9   94.3 10.0B p012_r1 | Réaliser des opérations de
+     164.6  366.7  9.0  p012_r1 | •
+     164.8  384.7 10.0B p012_r1 | Calcul du métrage
+     176.3   95.1 10.0B p012_r1 | découpage, d’entoilage de
+     177.6  220.2 10.0  p012_r1 | •
+     178.7  238.2 10.0B p012_r1 | Application correcte des
+     185.0  366.7  9.0  p012_r1 | •
+     185.2  384.7 10.0B p012_r1 | Etude de placement
+     188.8   98.4 10.0B p012_r1 | la veste tailleur hommes
+     191.2  238.2 10.0B p012_r1 | techniques de découpage
+     205.5  366.7  9.0  p012_r1 | •
+     205.7  384.7 10.0B p012_r1 | Le matelassage
+     225.9  366.7  9.0  p012_r1 | •
+     226.1  384.7 10.0B p012_r1 | Le découpage et techniques
+     238.5  384.7 10.0B p012_r1 | d’entoilage
+     290.5  220.2 10.0  p012_r1 | •
+     290.8  366.7  9.0  p012_r1 | •
+     290.9  384.7 10.0B p012_r1 | Montage du vêtement provisoire
+     291.7  238.2 10.0B p012_r1 | Exécution des corrections
+     303.4  384.7 10.0B p012_r1 | en vue de l’essayage
+     304.1  238.2 10.0B p012_r1 | appropriées en fonction des
+     316.5  238.2 10.0B p012_r1 | aplombs, des ampleurs, de
+     323.6  366.7  9.0  p012_r1 | •
+     323.8  384.7 10.0B p012_r1 | Vérification de l’apparence
+     329.0  238.2 10.0B p012_r1 | l’aisance, des formes, des
+     336.2  384.7 10.0B p012_r1 | générale de la veste tailleur et la
+     336.8   76.3  9.0  p012_r1 | •
+     337.0   94.3 10.0B p012_r1 | Réaliser des opérations de
+     341.3  238.2 10.0B p012_r1 | longueurs et des volumes
+     349.4   91.7 10.0B p012_r1 | préparation à l’essayage de
+     348.7  384.7 10.0B p012_r1 | qualité de construction du
+     353.7  238.2 10.0B p012_r1 | du vêtement.
+     361.0  384.7 10.0B p012_r1 | patron
+     361.9  129.1 10.0B p012_r1 | prototype
+     373.8  220.2 10.0  p012_r1 | •
+     374.9  238.2 10.0B p012_r1 | Conformité du prototype
+     381.2  366.7  9.0  p012_r1 | •
+     381.4  384.7 10.0B p012_r1 | Détermination des corrections à
+     387.3  238.2 10.0B p012_r1 | du produit avec le patron
+     393.9  384.7 10.0B p012_r1 | apporter à la confection de la
+     399.7  238.2 10.0B p012_r1 | de base
+     406.3  384.7 10.0B p012_r1 | veste et à la construction du
+     418.6  384.7 10.0B p012_r1 | patron
+     439.0  366.7  9.0  p012_r1 | •
+     439.2  384.7 10.0B p012_r1 | Procédure de la correction
+     518.4  220.2  9.0  p012_r1 | •
+     518.4  366.7  9.0  p012_r1 | •
+     518.6  238.2 10.0B p012_r1 | Respect des aplombs, des
+     518.6  384.7 10.0B p012_r1 | Application de la gamme
+     531.0  238.2 10.0B p012_r1 | formes et des valeurs de
+     531.0  384.7 10.0B p012_r1 | de montage de la veste
+     543.3  238.2 10.0B p012_r1 | couture
+     550.3   72.6  9.0  p012_r1 | •
+     550.5   90.6 10.0B p012_r1 | Réaliser des opérations
+     551.2  366.7  9.0  p012_r1 | •
+     551.4  384.7 10.0B p012_r1 | Techniques de montage de la
+     562.9   90.6 10.0B p012_r1 | d’assemblage et de
+     563.7  220.2  9.0  p012_r1 | •
+     563.8  238.2 10.0B p012_r1 | Exécution correcte et dans
+     563.8  384.7 10.0B p012_r1 | veste, l’entoilage, renforts,
+     575.2   90.6 10.0B p012_r1 | montage de la veste tailleur
+     576.2  238.2 10.0B p012_r1 | un ordre logique des étapes
+     576.2  384.7 10.0B p012_r1 | épaulettes et doublures.
+     588.6  238.2 10.0B p012_r1 | d’assemblage.
+     596.4  366.7  9.0  p012_r1 | •
+     596.6  384.7 10.0B p012_r1 | Confection des modèles
+     609.0  384.7 10.0B p012_r1 | de vestes pour hommes
+     629.3  366.7  9.0  p012_r1 | •
+     629.5  384.7 10.0B p012_r1 | Etude de cas
+     681.5  220.2  9.0  p012_r1 | •
+     681.7  238.2 10.0B p012_r1 | Respect des règles de
+     681.5  366.7  9.0  p012_r1 | •
+     681.7  384.7 10.0B p012_r1 | Rangement du produit, du
+     692.9   91.2  9.0  p012_r1 | •
+     693.1  109.2 10.0B p012_r1 | Terminer le travail
+     694.1  238.2 10.0B p012_r1 | sécurité et d’hygiène
+     694.1  384.7 10.0B p012_r1 | patron et du matériel utilisé
+     706.5  238.2 10.0B p012_r1 | relatives à l’utilisation du
+     718.9  238.2 10.0B p012_r1 | matériel
+
+=== PDF p13 ===
+  [img] p013_r1 mixed 595x841pt @(0,1) lignes=29
+  [printed] 12   [lines] 29   [regions] 1
+      46.1   70.8 12.0B p013_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p013_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      72.2   70.8 14.0B p013_r1 | INTRODUCTION
+     159.0  256.7 12.0  p013_r1 | L’indentification d’un prototype de modèle
+     179.6  271.9 12.0  p013_r1 | Il faut sélectionner les mesures utiles,
+     200.3  256.7 12.0  p013_r1 | La Connaissance de la matière d’œuvre,
+     221.3  268.9 12.0  p013_r1 | L’intervention technique nécessaire à la
+     242.1  256.7 12.0  p013_r1 | construction et la fabrication.
+     263.0  271.9 12.0  p013_r1 | L’évaluation des points essentiels pour obtenir
+     283.7  256.7 12.0  p013_r1 | les formes et les classifications des étapes de
+     304.5  256.7 12.0  p013_r1 | réalisation (voir figure I.01)
+     342.0   78.3 12.0B p013_r1 | Figure. I .01 : prototype   source Pinterest.
+     372.7   70.8 14.0B p013_r1 | I.1 : RAPPEL THEORIQUE SUR LE VESTON ET LES
+     389.1  102.4 14.0B p013_r1 | CARACTERISTIQUES DU TISSU
+     438.5   94.2 12.0B p013_r1 |  Composition de la veste
+     468.2   85.2 12.0  p013_r1 | C’est un vêtement classique coupé avec soin dans des
+     488.8   76.2 12.0B p013_r1 | tissus de qualité. C’est la pièce phare du costume, que
+     509.6   76.2 12.0  p013_r1 | l’on remarque en premier lieu.  Elle est Coupée, selon
+     530.2   76.2 12.0B p013_r1 | le look de la mode, de la saison ou du client, il est très
+     551.0   76.2 12.0  p013_r1 | important d’avoir la bonne veste avec la bonne taille
+     571.6   76.2 12.0  p013_r1 | (voir figure I.02).
+     592.5   85.3 12.0  p013_r1 | Les différents éléments de la veste :
+     613.0   94.2 12.0  p013_r1 |  Les revers
+     633.6   94.2 12.0  p013_r1 |  Les boutons
+     654.3   94.2 12.0  p013_r1 |  Les poches
+     675.0   94.2 12.0  p013_r1 |  La bonne taille
+     698.0  295.4 12.0B p013_r1 | Figure I. 02 : types de veste
+     701.2  447.2 10.0  p013_r1 | Source Pinterest
+     807.1  292.2  9.8  p013_r1 | 12
+
+=== PDF p14 ===
+  [img] p014_r1 mixed 595x839pt @(0,0) lignes=23
+  [printed] 13   [lines] 23   [regions] 1
+      46.1   70.8 12.0B p014_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p014_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      72.5   70.8 16.0B p014_r1 | I.1.1 : Rappel théorique sur la veste
+     110.5  290.7 12.0B p014_r1 |  La veste
+     140.0  274.5 12.0  p014_r1 | Est un vêtement à manches longues couvrant la
+     160.8  265.5 12.0  p014_r1 | partie supérieure du corps qui s’ouvre sur le devant
+     181.4  265.5 12.0  p014_r1 | et ne descend pas plus bas que les hanches.
+     202.4  277.5 12.0  p014_r1 | Se porte au-dessus des autres vêtements
+     223.1  268.5 12.0  p014_r1 | Sous un manteau en hiver qui peut être supérieur
+     243.8  265.5 12.0  p014_r1 | ou extérieur, et peut faire partie d’un ensemble
+     264.5  265.5 12.0  p014_r1 | vestimentaire avec un pantalon et parfois un gilet
+     285.2  265.5 12.0  p014_r1 | (voir figure I.03).
+     359.6   81.0 12.0B p014_r1 | Figure I. 03 : description de la veste Source Pinterest
+     396.8   88.8 14.0B p014_r1 | I.1.1.1 : Les différents éléments constituant le veston
+     428.5  132.0 12.0B p014_r1 |  Les revers
+     458.0   90.0 12.0  p014_r1 | Sont les deux morceaux de tissu rabattus sur l’avant d’une veste
+     478.7   78.0 12.0  p014_r1 | traditionnelle constituant le col et sa silhouette qui doit être fins
+     499.5   78.0 12.0  p014_r1 | (voir figure I.04).
+     520.4   96.1 12.0  p014_r1 | La cravate et le col de la chemise ont les mêmes propositions
+     541.1   78.0 12.0  p014_r1 | que les revers (voir figure I.05).
+     575.2  363.4 12.0B p014_r1 | Figure I. 04 : les revers   source Pinterest
+     728.6   87.4 12.0B p014_r1 | Figure. I. 05 : position des revers source Pinterest
+     802.7  292.4 10.0  p014_r1 | 13
+
+=== PDF p15 ===
+  [img] p015_r1 mixed 594x831pt @(0,0) lignes=29
+  [printed] 14   [lines] 29   [regions] 1
+      46.1   70.8 12.0B p015_r1 | CHAPITRE I :
+      46.1  179.5 12.0B p015_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+     115.5  279.5 12.0B p015_r1 |  Les boutons
+     145.3  261.5 12.0  p015_r1 | Donnent une touche d’élégance et une personnalité
+     166.1  261.5 12.0  p015_r1 | subtile à une tenue (voir figure I.06).
+     236.3   76.6 12.0B p015_r1 | Figure I.06: les boutons
+     238.1  210.6 10.0  p015_r1 | source Pinterest
+     285.9   96.0 12.0B p015_r1 |  La poche
+     315.9   78.0 12.0  p015_r1 | Est une ligne droite, oblique ou
+     336.6   78.0 12.0  p015_r1 | inclinée un peu sur le devant de
+     357.3   78.0 12.0  p015_r1 | la veste qui laisse voir une
+     378.0   78.0 12.0  p015_r1 | partie du fond.
+     398.9   81.1 12.0  p015_r1 | Les grandes poches ouvertes
+     419.7   78.0 12.0  p015_r1 | sont souvent celles des vestes
+     440.3   78.0 12.0  p015_r1 | informelles.
+     457.1  295.7 12.0B p015_r1 | Figure I. 07 : les poches source Pinterest
+     461.3   78.0 12.0  p015_r1 | Plus les poches sont discrètes plu la
+     482.1   78.0 12.0  p015_r1 | veste est formelle (voir figure II.07)
+     518.8  259.6 12.0B p015_r1 |  La Bonne Taille
+     551.8  244.4 12.0  p015_r1 | Pour connaitre la taille d’une veste il suffit de :
+     571.8  241.6 12.0  p015_r1 | - Prendre les mesures, se reportez au tableau, ajouter
+     595.8  241.6 12.0  p015_r1 | une touche de classe a un look décontracté de tous les
+     616.0  241.6 12.0  p015_r1 | jours (voir figure I.08).
+     638.2  313.6 12.0  p015_r1 |  Elle se combine avec un t-shirt uni.
+     659.7  313.6 12.0  p015_r1 |  Un pull à col roulé.
+     681.8  313.6 12.0  p015_r1 |  Un cardigan.
+     703.7  313.6 12.0B p015_r1 |  Une chemise ouverte.
+     724.3   94.3 12.0B p015_r1 | Figure I. 08 : la bonne taille : source Pinterest
+     796.7  284.8 10.0  p015_r1 | 14
+
+=== PDF p16 ===
+  [img] p016_r1 tab 595x841pt @(0,0) lignes=27
+  [printed] 15   [lines] 27   [regions] 1
+      46.1   70.8 12.0B p016_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p016_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      79.3   70.8 16.0B p016_r1 | I.1.2 : Caractéristiques des étoffes utilisées
+     124.3  103.9 12.0B p016_r1 |  Matière textile
+     153.8  103.9 12.0  p016_r1 | Toute matière peut être :
+     181.3   85.9 12.0  p016_r1 | Filable, divisible (éléments facilement
+     202.1   85.9 12.0  p016_r1 | séparables) flexible, résistante (qu’elle ne se
+     222.7   85.9 12.0  p016_r1 | casse pas pendant qu’on la travaille et pendant
+     243.5   85.9 12.0  p016_r1 | son usage), d’une longueur au moins de 15mm
+     264.2   85.9 12.0  p016_r1 | et aussi supporte la teinture et divers après
+     284.9   85.9 12.0  p016_r1 | traitements (voir figure I.09).
+     370.7  285.9 12.0B p016_r1 | Figure I. 09 : matière textile : source Pinterest
+     429.4  105.5 14.0B p016_r1 | I.1.2.1 : Tableau des étoffes utilisées
+     457.1  103.0 12.0B p016_r1 |  Propriétés
+     500.0  121.1 12.0  p016_r1 | Les polyesters (tergal, terital, drolen, trévira) (voir tableau I.10).
+     549.3  139.0 12.0B p016_r1 | QUALITES :
+     549.3  370.1 12.0B p016_r1 | DEFAUTS :
+     570.6  132.7 12.0  p016_r1 | Bonne résistance
+     591.2  146.1 12.0  p016_r1 | La viabilité
+     590.8  359.1 12.0  p016_r1 | Difficile à teindre
+     612.0  151.2 12.0  p016_r1 | Elasticité
+     611.6  348.8 12.0  p016_r1 | Tendance à boulocher
+     632.4  325.8 12.0  p016_r1 | Se charge en électricité statique
+     633.1  113.5 12.0  p016_r1 | Bonne tenue à la lumière
+     653.7  127.0 12.0  p016_r1 | Plissage permanent
+     712.0  174.3 12.0B p016_r1 | Tableau I. 01 : propriétés du polyester
+     803.7  291.3  9.8  p016_r1 | 15
+
+=== PDF p17 ===
+  [img] p017_r1 tab 590x841pt @(6,0) lignes=49
+  [printed] 16   [lines] 49   [regions] 1
+      46.1   70.8 12.0B p017_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p017_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      84.4  178.2 22.0B p017_r1 | Tableau technique du tergal
+     141.3  198.6 10.0B p017_r1 | IDENTIFICATION TEXTILE : TISSU TERGAL
+     154.2   80.8 10.0B p017_r1 | CARACTERISTIQUE
+     154.2  350.5 10.0B p017_r1 | ARMURE
+     167.3   99.5 10.0  p017_r1 | 1 pris 1 sauté
+     179.5   91.1 10.0  p017_r1 | Rapport d'armure
+     187.9  209.0 10.0  p017_r1 | S.ch
+     191.8  100.3 10.0  p017_r1 | :1/1 S - ch. 1
+     243.9  109.0 10.0B p017_r1 | FIGURINE
+     313.9  241.2 10.0  p017_r1 | Type : Armure toile 1/1
+     326.8  203.6 10.0B p017_r1 | COMPOSITION
+     339.9  206.2 10.0  p017_r1 | Brule facilement, dégage une odeur de papier Brule, laisse un résidu dur et Léger.
+     352.7  208.4 10.0B p017_r1 | N°
+     352.6  276.2 10.0  p017_r1 | Agent critique
+     352.6  427.4 10.0  p017_r1 | Action sur la fibre
+     364.7  209.1 10.0B p017_r1 | 01
+     364.6  269.7 10.0  p017_r1 | Action des acides
+     364.6  447.1 10.0  p017_r1 | Sensible
+     376.7  209.1 10.0B p017_r1 | 02
+     376.6  261.8 10.0  p017_r1 | Oxydons eau de javel
+     376.6  446.0 10.0  p017_r1 | Supporte
+     392.8  279.0 10.0  p017_r1 | Composition
+     399.1  209.1 10.0B p017_r1 | 03
+     399.9  432.7 10.0  p017_r1 | 100% polyester
+     431.0  450.5 10.0  p017_r1 | Défaut
+     441.2  231.5 10.0  p017_r1 | Code d’entretien international
+     507.8  388.0 10.0  p017_r1 | * Teinture difficile
+     519.4   80.2 10.0  p017_r1 | Couleur
+     519.4  152.4 10.0  p017_r1 | Bleu nuit
+     534.2  388.0 10.0  p017_r1 | * Valeur hygiénique doyenne
+     538.6   85.0 10.0  p017_r1 | Laize
+     538.6  156.1 10.0  p017_r1 | 1.50cm
+     555.2   73.7  9.7  p017_r1 | Appellation
+     561.0  157.9 10.0  p017_r1 | Tergal
+     567.7   73.6 10.0  p017_r1 | commercia
+     580.3   79.6 10.0  p017_r1 | Original
+     580.3  157.2 10.0  p017_r1 | France
+     604.4   82.7 10.0B p017_r1 | Aspect
+     606.6  448.2 10.0B p017_r1 | Qualité
+     648.5   56.5 10.0  p017_r1 | Un tissue souple, léger, mat, solide.
+     648.3  388.0 10.0  p017_r1 | * Bon pouvoir thermique
+     660.0   56.5 10.0  p017_r1 | Formé par des fils que l’endroit et envers sont semblables.
+     660.0  388.0 10.0  p017_r1 | * Séchage rapide
+     671.4  388.0 10.0  p017_r1 | * Infroissable
+     682.8  388.0 10.0  p017_r1 | * Entretien facile
+     737.4  216.5 12.0B p017_r1 | Tableau technique du tergal I.02
+     804.9  292.4 10.0  p017_r1 | 16
+
+=== PDF p18 ===
+  [img] p018_r1 tab 595x841pt @(0,0) lignes=68
+  [printed] 17   [lines] 68   [regions] 1
+      46.1   70.8 12.0B p018_r1 | CHAPITRE I :
+      46.1  179.5 12.0B p018_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      75.1   33.0 22.0B p018_r1 | Tableau technique de la doublure
+     128.5  198.1 10.0  p018_r1 | IDENTIFICATION TEXTILE : TISSUS – DOUBLURE
+     154.8   59.2 10.0B p018_r1 | ARMURE
+     154.8  389.5 10.0B p018_r1 | CARACTERISTIQUE
+     166.8  319.8 10.0  p018_r1 | 1 pris 1 sauté
+     178.1  319.8 10.0  p018_r1 | 1/1 avec changement de duite
+     181.1   64.7 10.0  p018_r1 | S.TR
+     189.6  319.8 10.0  p018_r1 | S - ch. :1
+     201.1  319.8 10.0  p018_r1 | S - Tr :1
+     281.8  319.8 10.0  p018_r1 | Rapport 1/1
+     294.6  186.4 10.0  p018_r1 | S.ch
+     322.3  146.5 10.0  p018_r1 | Type : Armure toile 1/1
+     348.1  156.0 10.0B p018_r1 | COMBOSITION
+     360.1  192.4 10.0  p018_r1 | Lorsque le tissu est brulé facilement et laisser un résidu noir.
+     372.2   69.3 10.0B p018_r1 | N
+     372.1  168.9 10.0  p018_r1 | Agent chimique
+     372.1  402.4 10.0  p018_r1 | Action sur la fibre
+     384.2   69.3 10.0B p018_r1 | 0
+     384.1  165.6 10.0  p018_r1 | Action des acides
+     384.1  418.8 10.0  p018_r1 | Pas action
+     396.2   69.3 10.0B p018_r1 | 0
+     396.1  159.7 10.0  p018_r1 | Oxydant eau de javel
+     396.1  418.8 10.0  p018_r1 | Insensible
+     408.2   69.3 10.0B p018_r1 | 0
+     408.1  181.6 10.0  p018_r1 | Les bases
+     408.1  415.8 10.0  p018_r1 | Destruction
+     420.1  115.9 10.0  p018_r1 | Echanti
+     420.1  270.8 10.0  p018_r1 | Composition
+     420.1  417.3 10.0  p018_r1 | 60% polyester -40% nylon
+     432.1  263.3 10.0  p018_r1 | Code d’entretien
+     432.1  456.0 10.0  p018_r1 | Default
+     447.6   54.6 10.0  p018_r1 | Vue : -0-
+     447.6  154.0 10.0  p018_r1 | Vus :
+     456.3  390.7 10.0  p018_r1 | * Brule vit
+     459.0  155.5 10.0  p018_r1 | 0
+     459.0  168.9 10.0  p018_r1 | 0
+     466.9   54.6 10.0  p018_r1 | Coloris
+     466.9  146.2 10.0  p018_r1 | Bleu vert
+     470.2  219.4 10.0B p018_r1 | Pas d’eau de javel
+     470.2  320.5 10.0B p018_r1 | eau de javel
+     481.9  390.7 10.0  p018_r1 | * Pouvoir absorbant très faible
+     486.1   54.6 10.0  p018_r1 | Laize
+     486.1  151.1 10.0  p018_r1 | 150cm
+     501.9  154.0 10.0  p018_r1 | Tafta
+     507.3  390.7 10.0  p018_r1 | *teinture difficile
+     508.9   54.6 10.0  p018_r1 | Appellation
+     520.4   54.6 10.0  p018_r1 | Commerciale
+     527.2  145.7 10.0  p018_r1 | Doublure
+     532.9  390.7 10.0  p018_r1 | * Infroissable
+     542.4  157.9 10.0  p018_r1 | Fin
+     555.2   82.3 10.0  p018_r1 | Aspect
+     558.3  390.7 10.0  p018_r1 | *Valeur hygiénique moyenne
+     567.8  153.5 10.0  p018_r1 | Doux
+     594.3  148.0 10.0B p018_r1 | Origine de la fibre : polyester
+     596.1  423.2 10.0B p018_r1 | Qualité
+     620.6  348.3 10.0  p018_r1 | * Bon pouvoir thermique
+     632.1   62.4 10.0  p018_r1 | Le polyester représente 70% des fibres chimiques
+     631.9  348.3 10.0  p018_r1 | * Séchage rapide
+     643.5   59.9 10.0  p018_r1 | Employées dans la confection de vêtements textile. La première fibre
+     643.5  348.3 10.0  p018_r1 | * Infroissable
+     655.1   59.9 10.0  p018_r1 | textile du monde avec 35,3 millions de tonnes par an, ce qui
+     655.2  348.3 10.0  p018_r1 | *Entretien facile
+     666.3  348.3 10.0  p018_r1 | * Endroit envers
+     666.6   59.9 10.0  p018_r1 | représente environ 46% de la consommation mondiale.
+     724.7  196.4 12.0B p018_r1 | Tableau technique de la doublure I.03
+     803.5  293.3 10.0  p018_r1 | 17
+
+=== PDF p19 ===
+  [img] p019_r1 tab 594x835pt @(2,0) lignes=60
+  [printed] 18   [lines] 60   [regions] 1
+      46.1   70.8 12.0B p019_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p019_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      86.7   44.0 22.0B p019_r1 | Tableau technique de la toile collante
+     142.7  184.5 10.0  p019_r1 | IDENTIFICATION TEXTILE : TISSUS de la toile collante
+     158.3  185.4 10.0B p019_r1 | ARMURE
+     158.3  405.3 10.0B p019_r1 | CARACTERISTIQUE
+     172.0  363.0 10.0  p019_r1 | 1 pris 1 sauté
+     183.3  363.0 10.0  p019_r1 | 1/1 avec changement de duite
+     186.1   68.4 10.0  p019_r1 | S.TR
+     194.8  363.0 10.0  p019_r1 | S - ch. :1
+     206.4  363.0 10.0  p019_r1 | S - Tr :1
+     287.1  185.9 10.0  p019_r1 | S.ch
+     312.3  363.0 10.0  p019_r1 | Rapport 1/1
+     316.1  168.1 10.0  p019_r1 | Type : Armure toile
+     327.3  201.5 10.0  p019_r1 | 1/1
+     360.2  267.0 10.0B p019_r1 | COMBUSTION
+     376.1   63.7 10.0  p019_r1 | La toile collante brule facilement, a une mauvaise odeur et laisse des résidus. Elle brule comme du papier
+     406.6   72.6 10.0B p019_r1 | N
+     406.6  185.5 10.0  p019_r1 | Agent chimique
+     406.6  408.0 10.0  p019_r1 | Action sur la fibre
+     418.6   72.6 10.0B p019_r1 | 0
+     420.1  182.2 10.0  p019_r1 | Action des acides
+     420.1  419.7 10.0  p019_r1 | Pas d’action
+     430.0   72.6 10.0B p019_r1 | 1
+     434.0   72.6 10.0B p019_r1 | 0
+     435.4  172.9 10.0  p019_r1 | Oxydons, eau de javel
+     435.4  424.0 10.0  p019_r1 | Insensible
+     445.4   72.6 10.0B p019_r1 | 2
+     449.5   72.6 10.0B p019_r1 | 0
+     450.9  198.3 10.0  p019_r1 | Les bases
+     450.9  421.0 10.0  p019_r1 | Destruction
+     460.9   72.6 10.0B p019_r1 | 3
+     466.9  237.1 10.0  p019_r1 | Composition
+     466.9  410.8 10.0  p019_r1 | 90% polyester
+     483.2   63.7 10.0  p019_r1 | Vue : -0-
+     483.2  184.0 10.0  p019_r1 | Vus : 0ــــ0
+     483.2  283.9 10.0  p019_r1 | Code d’entretien
+     483.2  461.7 10.0  p019_r1 | Défaut
+     500.5   84.9 10.0  p019_r1 | Coloris
+     500.5  172.6 10.0  p019_r1 | Noir
+     509.6  410.8 10.0  p019_r1 | * pouvoir absorber très faible
+     518.8   88.5 10.0  p019_r1 | Lai
+     518.8  175.6 10.0  p019_r1 | 1m
+     523.7  302.0 10.0B p019_r1 | Pas d’eau de javel
+     534.3   76.0 10.0  p019_r1 | Appellation
+     535.0  410.8 10.0  p019_r1 | *teinture facile
+     540.0  149.2 10.0  p019_r1 | La toile collante
+     545.7   73.7 10.0  p019_r1 | commerciale
+     560.6  410.8 10.0  p019_r1 | Valeur hygiénique moyenne
+     583.9   63.6 10.0  p019_r1 | Aspect
+     583.9  137.2 10.0  p019_r1 | Thermocollante
+     624.0   59.4 10.0B p019_r1 | Origine de la matière fibre
+     624.0  451.8 10.0B p019_r1 | Qualit
+     637.4  391.1 10.0  p019_r1 | * Bon pouvoir thermique
+     648.7  391.1 10.0  p019_r1 | * Séchage rapide
+     653.6  136.8 10.0  p019_r1 | Viscose : est un textile chimique synthétique
+     660.2  391.1 10.0  p019_r1 | * Froissable
+     671.9  391.1 10.0  p019_r1 | *Entretien facile
+     724.3  183.5 11.0B p019_r1 | Tableau technique de la toile collante I.04
+     793.4  292.4 10.0  p019_r1 | 18
+
+=== PDF p20 ===
+  [img] p020_r1 mixed 595x841pt @(0,0) lignes=19
+  [printed] 19   [lines] 19   [regions] 1
+      46.1   70.8 12.0B p020_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p020_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      97.4   70.8 14.0B p020_r1 | I.1.3 : EXERCICE D’APPLICATION
+     139.1  111.4 12.0B p020_r1 | EXERCICE : 01
+     180.0   70.8 12.0  p020_r1 | Répondez aux questions suivantes :
+     211.8   65.1 12.0  p020_r1 | 1- Citez les armures fondamentales ?
+     238.0   70.8 12.0B p020_r1 | ……………………………………………………………………………………
+     267.0   70.8 12.0  p020_r1 | 2-Donnez le résultat de combustion du polyester ?
+     297.3   70.8 12.0B p020_r1 | ……………………………………………………………………………………
+     326.4   70.8 12.0  p020_r1 | 3-Que faire pour éviter l’lustration du vêtement foncé au repassage ?
+     356.7   70.8 12.0B p020_r1 | ……………………………………………………………………………………
+     385.8   70.8 12.0  p020_r1 | 4-Citez d’autre appellation commerciale du polyester ?
+     416.0   70.8 12.0B p020_r1 | ……………………………………………………………………………………
+     454.7  114.9 12.0B p020_r1 | EXERCICE : 02
+     485.2   70.8 12.0  p020_r1 | Remplier les points par les mots qui convient : produit, symboles, textiles,
+     517.0   70.8 12.0  p020_r1 | Entretien, article
+     543.5   70.8 12.0B p020_r1 | Le code International d’……………des articles ……………est un ensemble des ………..
+     577.6   70.8 12.0B p020_r1 | (Dessin, lettres) résumant les conditions d’entretien d’un …………
+     808.4  281.2 10.0  p020_r1 | 19
+
+=== PDF p21 ===
+  [img] p021_r1 mixed 595x840pt @(0,0) lignes=32
+  [printed] 20   [lines] 32   [regions] 1
+      46.1   70.8 12.0B p021_r1 | CHAPITRE I :
+      46.1  179.5 12.0B p021_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      99.0   70.8 16.0B p021_r1 | I. 2 : RECHERCHE DE METRAGE ET RENDEMENT
+     137.6   88.8 12.0  p021_r1 | C’est la disposition des patrons d’un vêtement choisi dans un rectangle de tissu dans le but
+     158.4   70.8 12.0  p021_r1 | d’économiser de la matière première.
+     187.1   89.7 12.0  p021_r1 | C’est une technique qui peut
+     207.8   62.6 12.0  p021_r1 | se faire manuellement ou
+     228.6   62.6 12.0  p021_r1 | automatiquement, elle est
+     249.3   62.6 12.0  p021_r1 | Empirique car elle repose sur
+     270.0   62.6 12.0  p021_r1 | l’expérience de l’opérateur, et
+     290.7   62.6 12.0  p021_r1 | permet de déterminer la longueur
+     311.4   62.6 12.0  p021_r1 | minimale du tissu nécessaire à la
+     332.1   62.6 12.0  p021_r1 | fabrication de ce vêtement ;
+     353.1   62.6 12.0  p021_r1 | Bien sûr dans une laize donnée en
+     373.8   62.6 12.0  p021_r1 | tenant compte de plusieurs critères
+     394.5   62.6 12.0B p021_r1 | (voir figure I.10).
+     415.1   98.7 12.0  p021_r1 |  Le nombre de patron.
+     436.0   98.7 12.0  p021_r1 |  Le positionnement de
+     456.9  116.7 12.0  p021_r1 | tous les éléments
+     477.5  116.7 12.0  p021_r1 | constituant le vêtement.
+     498.2   98.7 12.0  p021_r1 |  Le respect du (DL, DI).
+     518.9   98.7 12.0  p021_r1 |  Le respect du sens du
+     539.8  116.7 12.0  p021_r1 | tissu velours, à
+     560.5  116.7 12.0  p021_r1 | carreaux, ou à motifs.
+     581.3   98.7 12.0  p021_r1 |  Le respect de l’endroit
+     602.1  116.7 12.0  p021_r1 | et l’envers du tissu.
+     605.0  350.1 12.0B p021_r1 | Figure I.10 : le placement
+     625.0   70.8 15.8B p021_r1 | I.2.1 : Etude du placement
+     658.8   70.8 12.0  p021_r1 | C’est la représentation du positionnement ordonné des patrons, d’un ou Plusieurs vêtements,
+     679.5   70.8 12.0  p021_r1 | circonscrits dans un rectangle, Le rectangle représente la Surface du tissu à couper
+     700.4   70.8 12.0  p021_r1 | Le placement sur papier est appelé aussi TRACE ou CLICHÉMERE
+     809.2  289.0 10.0  p021_r1 | 20
+
+=== PDF p22 ===
+  [img] p022_r1 mixed 595x837pt @(1,0) lignes=28
+  [printed] 21   [lines] 28   [regions] 1
+      45.9   70.8 12.0B p022_r1 | CHAPITRE I :
+      45.9  179.5 12.0B p022_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      88.2   68.2 14.0B p022_r1 | I.2.1.1 : Les moyens technique et les conditions de la réussite
+     124.7   70.8 12.0B p022_r1 | La fonction placement demande donc, une bonne qualification de l’opérateur et
+     145.4   70.8 12.0  p022_r1 | l’observation de certaines règles :
+     166.2   81.7 12.0  p022_r1 | 1. Tenir compte et prendre en considération la valeur de la laize réelle de tissu à traiter
+     186.9   81.7 12.0  p022_r1 | 2. Tenir compte de la longueur maximale du matelas, qui est définie par la longueur utile
+     207.7   99.7 12.0  p022_r1 | de la table de matelassage
+     228.3   81.7 12.0  p022_r1 | 3. Tenir compte du droit fil ou de l’écart angulaire toléré.
+     249.0   81.7 12.0  p022_r1 | 4. Tenir compte du sens du tissu et des dessins (par exemple velours, tissu à carreaux, etc)
+     269.6   81.7 12.0  p022_r1 | 5. Tenir compte de la nature du matelas : hauteur constante ou en escalier
+     290.4   81.7 12.0  p022_r1 | 6. Tenir compte de la complémentarité des formes des éléments pour mieux les imbriquer.
+     334.9  103.0 14.0B p022_r1 |  Les étapes de la réalisation d’un placement
+     377.4   62.6 12.0  p022_r1 | - Prendre connaissance du (des) produit(s) à placer (chemise, pantalon, jogging, etc.)
+     398.0   59.6 12.0  p022_r1 | - Prendre connaissance du type de placement à réaliser (uni -taille, bi-taille, multi- taille)
+     418.8   59.6 12.0  p022_r1 | - Prendre connaissance des caractéristiques du tissu (laize utile réelle, tissu uni,
+     439.7   74.7 12.0  p022_r1 | rayé, à carreaux, à sens ou sans sens, élasticité, etc.)
+     460.6   59.6 12.0  p022_r1 | - Vérifier la totalité du patronage et la correspondance avec l’échantillon
+     481.1   62.6 12.0  p022_r1 | - Tracer les 3 côtés du cadre de placement
+     501.8   59.6 12.0  p022_r1 | - Commencer à placer les grandes pièces et les petites pièces dans les espaces vides,
+     522.8   70.8 12.0  p022_r1 | pour occuper le minimum de surface et obtenir le minimum de longueur
+     543.5   59.6 12.0  p022_r1 | - Une fois terminer le placement des pièces, fermer le cadre de placement, mesurer La
+     564.4   72.0 12.0  p022_r1 | longueur et inscrire les renseignements nécessaires au bord du tracé.
+     599.5   82.5 14.0B p022_r1 |  Les règles de placement qui facilitent la construction
+     629.1   70.8 12.0  p022_r1 | Bien que l’économie matière soit le principal de la recherche du placement, il ne faut pas pour
+     649.9   70.8 12.0  p022_r1 | autant négliger l’économie du temps de coupe qui peut découler de l’application de certaines
+     670.5   70.8 12.0  p022_r1 | règles.
+     802.8   54.0 10.0  p022_r1 | 21
+
+=== PDF p23 ===
+  [img] p023_r1 mixed 595x840pt @(0,0) lignes=23
+  [printed] 22   [lines] 23   [regions] 1
+      46.1   70.8 12.0B p023_r1 | CHAPITRE I :
+      46.1  179.5 12.0B p023_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+     129.4  283.9 12.0  p023_r1 | Alignement des bords chaque fois que possible
+     154.6  283.9 12.0  p023_r1 | (voir figure I.11).
+     231.8   67.0 12.0B p023_r1 | Figure I.11 : alignement des bords   PDF m. t. m
+     318.9   84.7 12.0  p023_r1 | Accoler les bords identiques
+     339.6   84.7 12.0  p023_r1 | parallèles (avec éventuellement
+     360.3   84.7 12.0  p023_r1 | légère modification du droit
+     381.3   59.6 12.0  p023_r1 | Fil, lorsque la matière ou le grade de
+     401.9   59.6 12.0  p023_r1 | qualité le permettent) (voir figure
+     422.6   59.6 12.0  p023_r1 | I.12).
+     451.0  279.6 12.0B p023_r1 | Figure I.12 : accoler les bords PDF m. t. m
+     528.0  345.1 11.0  p023_r1 | Lorsque les formes des pièces ne
+     546.9  345.1 11.0  p023_r1 | permettent pas de les coller,
+     566.0  345.1 11.0  p023_r1 | penser aux difficultés de reprise
+     585.0  345.1 11.0  p023_r1 | de l’outil de coupe (surtout Tip
+     603.9  345.1 11.0  p023_r1 | Top) et laisser un espace. Il en est
+     622.9  345.1 11.0  p023_r1 | de même pour les pièces à couper
+     641.9  345.1 11.0  p023_r1 | à l’emport pièce (de 5 à 7%
+     660.8  345.1 11.0  p023_r1 | d’écart) (voir figure I.13).
+     706.5   79.6 12.0B p023_r1 | Figure I.13 : laisser un espace
+     708.3  251.0 10.0  p023_r1 | PDF m. t. m
+     803.8  266.2 10.0  p023_r1 | 22
+
+=== PDF p24 ===
+  [img] p024_r1 tab 596x842pt @(0,0) lignes=41
+  [printed] 23   [lines] 41   [regions] 1
+      46.1   70.8 12.0B p024_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p024_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      88.4  132.5 14.0B p024_r1 |  Description du modèle
+     151.8  108.0 10.0  p024_r1 | 
+     152.9  126.0 10.0B p024_r1 | DEVANT
+     173.0  108.0 10.0  p024_r1 | -
+     173.2  126.0 10.0  p024_r1 | Entièrement doublée
+     185.5  108.0 10.0  p024_r1 | -
+     185.7  126.0 10.0  p024_r1 | Veste droite quatre bouton
+     198.0  108.0 10.0  p024_r1 | -
+     198.1  126.0 10.0  p024_r1 | Une d’découpe au-dessous de la
+     210.6  126.0 10.0  p024_r1 | ligne de poitrine.
+     222.8  108.0 10.0  p024_r1 | -
+     223.0  126.0 10.0  p024_r1 | Petite cote.
+     235.3  108.0 10.0  p024_r1 | -
+     235.5  126.0 10.0  p024_r1 | Col tailleur fantaisie ouverte et un
+     248.0  126.0 10.0  p024_r1 | revers
+     260.2  108.0 10.0  p024_r1 | -
+     260.3  126.0 10.0  p024_r1 | Boutonnières cote gauche
+     272.7  108.0 10.0  p024_r1 | -
+     272.8  126.0 10.0  p024_r1 | Pince devant
+     285.2  108.0 10.0  p024_r1 | -
+     285.3  126.0 10.0  p024_r1 | Deux poches américaines
+     297.5  108.0 10.0  p024_r1 | -
+     297.7  126.0 10.0  p024_r1 | Patte poche poitrine
+     360.6  108.0 12.0  p024_r1 | 
+     363.8  126.0 10.0B p024_r1 | DOS
+     386.4  108.0 10.0  p024_r1 | -
+     386.6  126.0 10.0  p024_r1 | Avec petit coté
+     409.5  108.0 10.0  p024_r1 | -
+     409.6  126.0 10.0  p024_r1 | Couture au milieu du dos avec une
+     432.6  126.0 10.0  p024_r1 | fente super pose
+     455.4  108.0 12.0  p024_r1 | 
+     458.6  126.0 10.0B p024_r1 | MANCHE
+     481.3  126.0 10.0  p024_r1 | -
+     481.4  144.0 10.0  p024_r1 | Manche tailleur dessus-dessous
+     504.3  126.0 10.0  p024_r1 | -
+     504.4  144.0 10.0  p024_r1 | Avec fausse fente de quatre
+     527.4  144.0 10.0  p024_r1 | boutons.
+     646.8  131.4 12.0B p024_r1 | Tableau technique de la description du prototype I.05
+     796.9  279.2 11.0  p024_r1 | 23
+
+=== PDF p25 ===
+  [img] p025_r1 mixed 595x841pt @(0,0) lignes=4
+  [printed] 24   [lines] 4   [regions] 1
+      46.1   70.8 12.0B p025_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p025_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      60.2  132.5 14.0B p025_r1 |  Nomenclature du prototype de la veste
+     804.6  292.2 10.0  p025_r1 | 24
+
+=== PDF p26 ===
+  [img] p026_r1 mixed 595x841pt @(0,0) lignes=4
+  [printed] 25   [lines] 4   [regions] 1
+      46.1   70.8 12.0B p026_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p026_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      89.6  132.5 14.0B p026_r1 |  Sections sortis du prototype de la veste
+     805.0  292.2 10.0  p026_r1 | 25
+
+=== PDF p27 ===
+  [img] p027_r1 mixed 595x841pt @(0,0) lignes=5
+  [printed] 26   [lines] 5   [regions] 1
+      46.1   70.8 12.0B p027_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p027_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      71.6  103.0 14.0B p027_r1 |  Placement de tissu
+     762.3  229.2 12.0B p027_r1 | Fiche placement de tissu I.1
+     804.9  292.2 10.0  p027_r1 | 26
+
+=== PDF p28 ===
+  [img] p028_r1 mixed 595x839pt @(0,0) lignes=5
+  [printed] 27   [lines] 5   [regions] 1
+      46.1   70.8 12.0B p028_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p028_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      83.8   85.0 14.0B p028_r1 |  Placement de la doublure
+     752.5  240.4 12.0B p028_r1 | Fiche placement doublureI.2
+     805.0  292.2 10.0  p028_r1 | 27
+
+=== PDF p29 ===
+  [img] p029_r1 mixed 595x841pt @(0,0) lignes=5
+  [printed] 28   [lines] 5   [regions] 1
+      46.1   70.8 12.0B p029_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p029_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+     100.6  103.0 14.0B p029_r1 |  Placement de la toile collante
+     598.2  175.2 12.0B p029_r1 | Fiche placement de la toile collante I.3
+     805.0  292.2 10.0  p029_r1 | 28
+
+=== PDF p30 ===
+  [img] p030_r1 tab 595x839pt @(0,0) lignes=38
+  [printed] 29   [lines] 38   [regions] 1
+      46.1   70.8 12.0B p030_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p030_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+     100.4   70.8 16.0B p030_r1 | I.2.2 : LES TECHNIQUES DE TRACAGE
+     127.8   99.1 12.0  p030_r1 | On peut classer les techniques de traçage de la plus simple à la plus évoluée, de
+     148.4   70.8 12.0B p030_r1 | même façon que pour les placements (voir tableau I.06).
+     177.2   99.1 12.0  p030_r1 | On distingue :
+     214.0  124.8 10.0B p030_r1 | Support
+     219.5  263.1 10.0B p030_r1 | Moyens
+     219.5  423.5 10.0B p030_r1 | Procédé
+     241.1  252.1 10.0  p030_r1 | Craie tailleur
+     241.1  371.6 10.0  p030_r1 | Traçage main ou tourne – autour
+     252.4  130.9 10.0B p030_r1 | Tissu
+     262.9  247.2 10.0  p030_r1 | Poudre de craie
+     262.9  388.1 10.0  p030_r1 | A l’aide de tracé perforé
+     286.4  263.6 10.0  p030_r1 | Crayon
+     286.4  372.4 10.0  p030_r1 | Traçage main ou tourne - autour
+     288.3  100.8 10.0B p030_r1 | Papier (normale où
+     308.2  106.8 10.0B p030_r1 | Thermocollante)
+     309.7  267.6 10.0  p030_r1 | CAO
+     309.7  377.1 10.0  p030_r1 | Traçage assisté par ordinateur
+     332.8  251.6 10.0  p030_r1 | Photographie
+     332.8  382.3 10.0  p030_r1 | Photographie du placement
+     344.0   97.9 10.0B p030_r1 | Papier photosensible
+     355.7  251.6 10.0  p030_r1 | Photographie
+     355.7  362.2 10.0  p030_r1 | Agrandissement placement miniature
+     379.7  249.5 10.0  p030_r1 | Gabarit carton
+     379.7  372.0 10.0  p030_r1 | Découpage à la scie ou au tiptop
+     401.2  129.5 10.0B p030_r1 | Néant
+     403.6  249.2 10.0  p030_r1 | Emporte pièce
+     403.6  398.0 10.0  p030_r1 | Découpage unitaire
+     424.6  238.0 10.0  p030_r1 | Mémoire ordinateur
+     424.6  370.8 10.0  p030_r1 | Découpage assisté par ordinateur
+     514.0  190.0 12.0B p030_r1 | Tableau I. 06 : Les techniques du traçage
+     744.1   98.2 12.0B p030_r1 | Figure I.14 : coupe à la
+     746.3  355.4 12.0B p030_r1 | Figure I. 15 : découpe unitaire
+     757.9  144.1 12.0B p030_r1 | main
+     760.0  423.2 10.0  p030_r1 | Source Pinterest
+     808.0  292.4 10.0  p030_r1 | 29
+
+=== PDF p31 ===
+  [img] p031_r1 mixed 596x842pt @(0,0) lignes=21
+  [printed] 30   [lines] 21   [regions] 1
+      46.1   70.8 12.0B p031_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p031_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+     101.8   70.8 14.0B p031_r1 | I.2.2.1 : Calcul des pertes et rendement de la matière
+     133.6   99.1 12.0  p031_r1 | Il est extrêmement important pour une entreprise de minimiser les pertes de la matière.
+     154.3   70.8 12.0  p031_r1 | D’un placement à l’autre, ces pertes ne sont comparables que si on peut les mesurer. Cette
+     175.1   70.8 12.0  p031_r1 | mesure s’exprime en pourcentage surface.
+     217.0   65.1 14.0B p031_r1 |  Calcul du rendement de la matière
+     252.0   72.1 12.0B p031_r1 |  R : Rendement ou rentabilité.
+     293.8  146.3 12.0B p031_r1 | 𝐒𝐆X   100
+     297.4  123.6 12.0  p031_r1 | 𝑹 =
+     309.8  147.6  8.5  p031_r1 | 𝐒𝐓
+     359.1   70.8 12.0B p031_r1 | SG : surface des gabarits. (Patrons) placés
+     386.7   70.8 12.0B p031_r1 | ST : surface du tracé.
+     414.2   70.8 12.0  p031_r1 | La surface des gabarits (SG) peut être déterminée manuellement ou à l’aide du planimètre.
+     454.1   72.1 12.0B p031_r1 |  P : Calcul des pertes matière :
+     489.7   73.7 12.0  p031_r1 | P = 𝑺𝑷
+     489.7   95.2 12.0B p031_r1 | 𝑺𝑻 X   100- P : pertes.
+     520.7   70.8 12.0B p031_r1 | SP : surface des pertes.
+     548.2   70.8 12.0B p031_r1 | Ou P = 100 - R- ST : surface de la trace.
+     576.3   70.8 12.0B p031_r1 | SP = ST – SG
+     808.9  291.2 11.0  p031_r1 | 30
+
+=== PDF p32 ===
+  [img] p032_r1 mixed 595x841pt @(0,0) lignes=21
+  [printed] 31   [lines] 21   [regions] 1
+      46.1   70.8 12.0B p032_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p032_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      96.9  135.3 14.0B p032_r1 | EXEMPLE :
+     145.9  134.7 12.0  p032_r1 |  Tissu employé : laize 150 cm ; longueur placement 3 m.
+     166.6  134.7 12.0  p032_r1 |    ST = 150 cm x 300 cm = 45 000 cm2
+     187.2  134.7 12.0  p032_r1 |    SG : 40 050 cm2
+     207.8  134.7 12.0  p032_r1 |    R = 40 050 : 45 000 x 100 = 89%
+     228.5  134.7 12.0  p032_r1 |    P = 100 – 89 = 11%
+     263.9   70.8 14.0B p032_r1 | Calcul de rentabilité du tissu au niveau des prix (prix au mètre carre) :
+     295.6  133.7 14.0B p032_r1 | EXEMPLE :
+     319.7  134.7 12.0  p032_r1 |  Deux tissus de même nature, mais de laize différente :
+     340.4  134.7 12.0  p032_r1 |  Tissu A, laize 140 cm à 44,80 Dr le mètre
+     360.9  134.7 12.0  p032_r1 |  Tissu B, laize 148 cm à 48,84 Dr le mètre
+     381.6  134.7 12.0  p032_r1 |  Un mètre linéaire de tissu A représenté 1,40 m2
+     402.3  134.7 12.0  p032_r1 |  Un mètre linéaire de tissu B représente 1,48 m2
+     436.6   70.8 12.0  p032_r1 | A partir de ces données on peut comparer objectivement les prix :
+     478.1  127.6 12.0  p032_r1 |    Tissu A : 44,80 x 1,00 : 1,40 = 32 Dr le m2.
+     498.8  127.6 12.0  p032_r1 |    Tissu B : 48,84 x 1,00 : 1,48 = 33 Dr le m2.
+     531.4  135.3 14.0B p032_r1 | Conclusion :
+     568.6   73.9 12.0  p032_r1 | Le tissu A est le plus avantageux.
+     807.0  292.2 10.0  p032_r1 | 31
+
+=== PDF p33 ===
+  [img] p033_r1 tab 595x841pt @(0,0) lignes=39
+  [printed] 32   [lines] 39   [regions] 1
+      46.1   70.8 12.0B p033_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p033_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      94.4   93.5 14.0B p033_r1 |  Calcul de perte et rendement de la matière :
+     124.0   70.8 12.0  p033_r1 | Il existe plusieurs méthodes pour déterminer la surface des patrons :
+     154.5   85.0 12.0  p033_r1 |  La méthode pesage
+     175.2   85.0 12.0  p033_r1 |  La méthode de boulette
+     195.9   85.0 12.0  p033_r1 |  La méthode géométrique
+     216.7  106.8 12.0  p033_r1 | Dans ce manuel, la méthode utilisée est bien la méthode de pesage, pour ce là il est
+     237.5  106.8 12.0  p033_r1 | indispensable de connaître le poids du tracé « Petr » et le poids des patrons « Pp ».
+     278.9   86.4 12.0B p033_r1 |  Calcul de perte pour tissu (T 44) sur une laize 1,50 m
+     311.5   88.8 11.9  p033_r1 | -
+     311.7  106.8 12.0  p033_r1 | Poids tracé = 21,7 g
+     332.4   88.8 11.9  p033_r1 | -
+     332.6  106.8 12.0  p033_r1 | Poids patrons =20,3 g
+     384.0  191.8 12.0  p033_r1 | Petr -Pp
+     384.0  324.4 12.0  p033_r1 | 21,7 - 20,3
+     394.4  112.2 12.0  p033_r1 | Perte =
+     394.4  248.8 12.0  p033_r1 | X 100 =
+     394.4  388.0 12.0  p033_r1 | X 100
+     394.4  439.0 12.0  p033_r1 | =
+     394.4  460.3 12.0  p033_r1 | 6,45
+     405.1  201.6 12.0  p033_r1 | Petr
+     405.1  339.9 12.0  p033_r1 | 21,7
+     447.3  178.0 12.0  p033_r1 | Perte = 6,45 %
+     497.9   86.4 12.0B p033_r1 |  Le rendement
+     529.6  178.1 12.0  p033_r1 | Pp
+     529.6  324.9 12.0  p033_r1 | 20,3
+     539.9   88.5 12.0  p033_r1 | Rende =
+     539.9  227.7 12.0  p033_r1 | X 100
+     539.9  272.5 12.0  p033_r1 | =
+     539.9  385.3 12.0  p033_r1 | X 100
+     539.9  429.9 12.0  p033_r1 | =
+     539.9  454.2 12.0  p033_r1 | 93,54
+     550.7  174.7 12.0  p033_r1 | Petr
+     550.7  324.9 12.0  p033_r1 | 21,7
+     602.8  183.1 12.0  p033_r1 | R = 93,54 %
+     653.8   70.8 12.0  p033_r1 | Ou bien le rendement = 100 – 6,45 = 93,55
+     685.5  181.0 12.0  p033_r1 | R = 93,55 %
+     806.5  292.2 10.0  p033_r1 | 32
+
+=== PDF p34 ===
+  [img] p034_r1 tab 595x841pt @(0,0) lignes=38
+  [printed] 33   [lines] 38   [regions] 1
+      46.1   70.8 12.0B p034_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p034_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      95.4   86.4 14.0B p034_r1 |  Calcul de perte pour doublure (T44) sur une laize 1,50 m
+     138.4   88.8 11.9  p034_r1 | -
+     138.6  106.8 12.0  p034_r1 | Poids tracé = 19,6 g
+     166.0   88.8 11.9  p034_r1 | -
+     166.2  106.8 12.0  p034_r1 | Poids patrons = 18,2 g
+     203.9  164.8 12.0  p034_r1 | Petr -Pp
+     203.9  218.7 12.0  p034_r1 | 19,6-18,2
+     217.9   91.3 12.0  p034_r1 | Perte =
+     217.9  227.4 12.0  p034_r1 | X 100 =
+     217.9  364.5 12.0  p034_r1 | X100 =
+     217.9  440.4 12.0  p034_r1 | 7,14
+     232.0  174.9 12.0  p034_r1 | Petr
+     232.0  307.2 12.0  p034_r1 | 1 9,6
+     281.6  179.8 12.0  p034_r1 | Perte = 7,14 %
+     334.5   86.4 14.0B p034_r1 |  Le rendement
+     376.0   70.8 12.0  p034_r1 | Rendement = 100 –7,14 = 92,86
+     418.0  190.1 12.0  p034_r1 | R = 92,86 %
+     478.0   86.4 14.0B p034_r1 |  Calcul de perte pour triplure (T44) sur une laize 1,50 m
+     511.6   88.8 11.9  p034_r1 | -
+     511.7  106.8 12.0  p034_r1 | Poids tracé = 11,2 g
+     532.4   88.8 11.9  p034_r1 | -
+     532.6  106.8 12.0  p034_r1 | Poids patrons = 10,5 g
+     563.4  166.3 12.0  p034_r1 | Petr-Pp
+     563.4  312.3 12.0  p034_r1 | 11,2-10,5
+     573.7   91.3 12.0  p034_r1 | Perte =
+     573.7  224.8 12.0  p034_r1 | X 100 =
+     573.7  376.0 12.0  p034_r1 | X 100
+     573.7  423.4 12.0  p034_r1 | =
+     573.7  454.3 12.0  p034_r1 | 6,25
+     584.4  174.6 12.0  p034_r1 | Petr
+     584.4  324.8 12.0  p034_r1 | 11,2
+     617.7  211.4 12.0  p034_r1 | Perte = 6,25 %
+     635.8   86.4 12.0B p034_r1 |  Le rendement :
+     667.2  106.8 12.0  p034_r1 | Rendement = 100 – 6,25 = 93,75
+     698.6  216.2 12.0  p034_r1 | R = 93,75 %
+     800.8  279.5 10.0  p034_r1 | 33
+
+=== PDF p35 ===
+  [img] p035_r1 mixed 595x841pt @(0,0) lignes=27
+  [printed] 34   [lines] 27   [regions] 1
+      46.1   70.8 12.0B p035_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p035_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      90.5   70.8 14.0B p035_r1 | I.2.3 : EXERCICE D’APPLICATION
+     129.6   70.8 12.0B p035_r1 | EXERCICE :01
+     161.5   70.8 12.0  p035_r1 | Complétez le vide par les mots qui conviennent : sens, utile, qualification, nature, droit-fil,
+     182.3   70.8 12.0  p035_r1 | laize, maximale, sens chaine.
+     213.0   70.8 12.0B p035_r1 | La fonction de placement demande une bonne ……………de l’opérateur et l’observation de
+     233.9   70.8 12.0  p035_r1 | certaines règles.
+     264.8   70.8 12.0B p035_r1 | Tenir compte de la……………du tissu considéré.
+     295.4   70.8 12.0B p035_r1 | Tenir compte de la longueur…………… de matelas, définit par la longueur …………de la
+     316.1   70.8 12.0  p035_r1 | table de matelassage.
+     347.0   70.8 12.0B p035_r1 | Tenir compte du……………ou l’écart angulaire toléré.
+     377.6   70.8 12.0B p035_r1 | Tenir compte du …………. Du tissu (velours, carreaux, dessin…etc.).
+     408.2   70.8 12.0B p035_r1 | Tenir compte de la…………du matelas (hauteur constante, en escalier).
+     440.0  117.0 12.0B p035_r1 | EXERCICE : 02
+     467.1   70.8 12.0  p035_r1 | Répondez aux questions suivantes :
+     492.9   70.8 12.0  p035_r1 | 1- Citez les différentes méthodes de détermination de la surface des patrons ?
+     519.3   70.8 12.0B p035_r1 | ……………………………………………
+     545.0   70.8 12.0B p035_r1 | ……………………………………………
+     570.9   70.8 12.0B p035_r1 | …………………………………………….
+     596.2   70.8 12.0  p035_r1 | 2- Qu’elle est la méthode la plus utilisée pour calculer les pertes ?
+     622.6   70.8 12.0B p035_r1 | ……………………………………………..
+     647.9   70.8 12.0  p035_r1 | 3- Comment calculer les pertes de la matière ?
+     674.4   70.8 12.0B p035_r1 | ………………………………………………
+     699.5   70.8 12.0  p035_r1 | 4- Comment calculer le rendement de la matière ?
+     725.3   65.1 10.0B p035_r1 | ……………………………………………………………………
+     802.5  292.2 10.0  p035_r1 | 34
+
+=== PDF p36 ===
+  [img] p036_r1 mixed 595x841pt @(0,0) lignes=22
+  [printed] 35   [lines] 22   [regions] 1
+      46.1   69.7 12.0B p036_r1 | CHAPITRE I :
+      46.1  178.6 12.0B p036_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      90.8   69.7 16.0B p036_r1 | I.3 : LES PROCEDES ANALYTIQUE DU MATELASSAGE ET
+     107.5   69.7 16.0B p036_r1 | DECOUPAGE
+     140.9   99.9 12.0  p036_r1 | Le matelassage est composé d’une multitude d’opérations (éléments de travail,
+     161.5   69.7 12.0  p036_r1 | compléments d’opérations, manutention…)
+     203.2   90.9 12.0  p036_r1 | Il est très important de maitriser les opérations et le matériel du matelassage, pour
+     223.9   69.7 12.0  p036_r1 | pouvoir choisir par la suite la méthode la plus adéquate pour le traitement des différentes
+     244.6   69.7 12.0B p036_r1 | matières, des divers produits et diverses quantités (voir figure I.16).
+     482.2  180.1 12.0B p036_r1 | Figure I.16 : nombre de plis PDF m.t. m
+     517.7  289.2 12.0B p036_r1 |  Découpage avec tip top
+     542.0  271.2 12.0  p036_r1 | Le découpage a donné son nom aux ateliers qui
+     557.9  271.2 12.0  p036_r1 | regroupent différentes fonctions (voit figure
+     573.8  271.2 12.0B p036_r1 | I.17).
+     589.7  343.3 12.0  p036_r1 |  Patronage
+     606.6  343.3 12.0  p036_r1 |  Gradation
+     623.4  343.3 12.0  p036_r1 |  Placements
+     640.4  343.3 12.0  p036_r1 |  Traçage
+     657.3  343.3 12.0  p036_r1 |  Matelassage
+     674.1  343.3 12.0  p036_r1 |  Et coupe proprement dite
+     721.0   79.5 12.0B p036_r1 | Figure I. 17 : découpage avec tip- top PDFm.t. d
+     804.1  290.8 10.0  p036_r1 | 35
+
+=== PDF p37 ===
+  [img] p037_r1 mixed 595x836pt @(0,0) lignes=29
+  [printed] 36   [lines] 29   [regions] 1
+      42.3   70.8 12.0B p037_r1 | CHAPITRE I :
+      42.3  179.5 12.0B p037_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      86.4  102.5 12.0B p037_r1 |  Exemples de découpage
+     115.9   90.6 12.0  p037_r1 | L’outil symbolique de la coupe est le
+     136.7   84.5 12.0  p037_r1 | ciseau, mais vu la transformation et
+     157.3   84.5 12.0  p037_r1 | l’adaptation à l’industrie de nos jours
+     178.0   84.5 12.0  p037_r1 | l’outillage est devenu très performants
+     198.7   84.5 12.0  p037_r1 | et d’une grande productivité tel que :
+     219.6   96.6 12.0  p037_r1 | Les ciseaux à main électrique, la scie
+     240.4   84.5 12.0  p037_r1 | à ruban.
+     261.4   96.6 12.0  p037_r1 | Les coupeuses en lame circulaire,
+     282.0   84.5 12.0  p037_r1 | vertical tip top, et la coupe assistée
+     302.8   84.5 12.0B p037_r1 | (voir figure I.18).
+     323.6   96.6 12.0  p037_r1 | Les coupeuses thermiques, appareils
+     331.2  296.6 12.0B p037_r1 | Figure I. 18 : découpage assisté
+     334.5  468.1 10.0  p037_r1 | PDFm.t. d
+     344.3   84.5 12.0  p037_r1 | de marquage., la coupe automatique a
+     365.1   84.5 12.0  p037_r1 | rayon laser
+     403.3   70.8 14.0B p037_r1 | I.3.1 : les méthodes de matelassage
+     449.1  100.7 12.0  p037_r1 | Selon le type de matière employé et les caractéristiques du vêtement à réaliser, on peut
+     470.8   70.8 14.0  p037_r1 | Utiliser des méthodes de matelassage différentes.
+     519.4   92.4 14.0B p037_r1 |  Méthode A :  Matelassage en zig zag ou en accordéon
+     555.5  285.5 12.0  p037_r1 | Ce système concerne les tissus qui n’ont pas
+     576.3  267.5 12.0  p037_r1 | de sens.
+     597.3  267.5 12.0  p037_r1 | Les plis sont disposés (endroit contre endroit) et
+     618.2  267.5 12.0  p037_r1 | (envers contre envers) et de plus, à chaque pli le
+     639.1  267.5 12.0B p037_r1 | sens de la matière est inversé (voir figure I.19).
+     683.8   76.8 12.0B p037_r1 | Figure I. 19 : matelassage en zigzag PD Fm .t .m
+     803.9  290.7 10.0  p037_r1 | 36
+
+=== PDF p38 ===
+  [img] p038_r1 mixed 595x837pt @(0,0) lignes=25
+  [printed] 37   [lines] 25   [regions] 1
+      46.1   70.8 12.0B p038_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p038_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+     100.0   93.5 14.0B p038_r1 |  Méthode B : Matelassage à sens, endroit vers le haut
+     144.4  102.5 12.0  p038_r1 | Ce système concerne les
+     165.1   84.6 12.0  p038_r1 | tissus à sens et peut être utiliser
+     185.9   84.6 12.0  p038_r1 | pour tous types de produits.
+     206.8   84.6 12.0  p038_r1 | Avec ou sans condition de
+     227.5   84.6 12.0  p038_r1 | forme pour les pièces de
+     248.2   84.6 12.0  p038_r1 | patronage.
+     269.1   84.6 12.0  p038_r1 | Afin de respecter la condition
+     289.7   84.6 12.0B p038_r1 | de sens (voir la figure I.20).
+     310.7   84.6 12.0  p038_r1 | -Les plis sont disposés (envers
+     331.5   84.6 12.0  p038_r1 | contre endroit).
+     336.2  266.1 12.0B p038_r1 | Figure I.20 : matelassage a sens. Endroit ver le
+     347.6  350.1 12.0B p038_r1 | haut PDFm.t .m
+     352.4   84.6 12.0  p038_r1 | -Avec l’endroit vers le haut.
+     395.6   93.5 14.0B p038_r1 |  Méthode C : Matelassage à sens et à paire
+     446.5  269.7 12.0  p038_r1 | Ce système concerne les tissus a sens et produits.
+     467.1  266.7 12.0  p038_r1 | Sans condition de forme pour les pièces de
+     487.9  266.7 12.0  p038_r1 | patronage.
+     508.7  266.7 12.0  p038_r1 | Les plis sont disposés (endroit contre endroit) et
+     529.5  266.7 12.0B p038_r1 | (envers contre envers) (voir figure I.21).
+     550.5  266.7 12.0  p038_r1 | -En respectant le même sens pour tous les plis.
+     654.7   78.6 12.0B p038_r1 | Figure I. 21 : matelassage a sens et a paire PDF m. t. m
+     799.8  292.4 10.0  p038_r1 | 37
+
+=== PDF p39 ===
+  [img] p039_r1 mixed 595x841pt @(0,0) lignes=31
+  [printed] 38   [lines] 31   [regions] 1
+      46.1   70.8 12.0B p039_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p039_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+     104.5   70.8 14.0B p039_r1 | I.3.1.1: Le choix de la méthode du matelassage
+     138.5   70.8 12.0B p039_r1 | Parfois on peut indifféremment choisir la méthode A, ou B, ou C.
+     159.2   70.8 12.0  p039_r1 | Dans ce cas les considérations économiques détermineront la méthode convenable. Le plus
+     179.9   70.8 12.0  p039_r1 | souvent, on ne peut pas utiliser l’une ou l’autre de ces méthodes : tissu à sens par exemple.
+     200.8   70.8 12.0  p039_r1 | Le choix de la méthode de matelassage est soumis aux conditions imposées par
+     221.4   52.8 12.0B p039_r1 | o Le produit ou le modèle
+     240.9   52.8 12.0B p039_r1 | o La matière
+     260.8   52.8 12.0B p039_r1 | o Considérations économiques
+     280.5   70.8 12.0  p039_r1 | Quand le choix de la méthode est fait à partir des considérations économiques, l’économie
+     301.2   70.8 12.0  p039_r1 | réalisée par le matelassage peut avoir des origines diverses.
+     345.1  331.4 12.0B p039_r1 |  Epaisseurs du matelas
+     374.7  319.4 12.0  p039_r1 | Plus le matelas est épais plus
+     395.3  313.4 12.0  p039_r1 | l’économie de la main d’ouvre
+     416.1  313.4 12.0  p039_r1 | est importante au niveau du
+     436.7  313.4 12.0  p039_r1 | traçage et le découpage
+     457.6  313.4 12.0B p039_r1 | (Voir figure I. 22).
+     478.6   78.6 12.0B p039_r1 | Figure I.22 : matelassage épais PDF m. t .m
+     522.5   96.0 12.0B p039_r1 |  Longueur du matelas
+     552.2   93.0 12.0  p039_r1 | - Plus le matelas est long, plus on
+     573.0   78.0 12.0  p039_r1 | économise du tissu (gain d’extrémités
+     593.6   78.0 12.0  p039_r1 | de matelas).
+     614.6   87.0 12.0  p039_r1 | - Plus le matelas est court et épais.
+     635.2   78.0 12.0  p039_r1 | Plus on économise de la main d’ouvre
+     656.0   78.0 12.0  p039_r1 | par traçage et découpage.
+     676.8   93.0 12.0  p039_r1 | -Plus le matelas est long et épais.
+     697.6   78.0 12.0  p039_r1 | Plus se cumulent les avantages
+     718.3   78.0 12.0B p039_r1 | (voir figure I. 23).
+     748.4  247.4 12.0B p039_r1 | Figure I.23 : matelassage Longue matelas PD F m. t. m
+     805.2  292.2 10.0  p039_r1 | 38
+
+=== PDF p40 ===
+  [img] p040_r1 mixed 595x841pt @(0,0) lignes=20
+  [printed] 39   [lines] 20   [regions] 1
+      46.1   70.8 12.0B p040_r1 | CHAPITRE I :
+      46.1  179.5 12.0B p040_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      88.2   89.4 14.0B p040_r1 |  Les tables de matelassage
+     118.0  100.7 12.0  p040_r1 | Pour réaliser divers types de matelas, il faut du matériel plus ou moins perfectionné
+     138.6   70.8 12.0  p040_r1 | selon la qualité recherchée et surtout l’importance des séries.
+     176.0  281.9 12.0  p040_r1 | Elles sont caractérisées par :
+     196.7  281.9 12.0  p040_r1 | La longueur et la largeur
+     217.3  281.9 12.0  p040_r1 | La constitution par éléments assemblée.
+     238.1  281.9 12.0  p040_r1 | Le réglage en hauteur pour avoir une bonne
+     258.9  281.9 12.0B p040_r1 | planéité (voir figure I.24).
+     279.8  281.9 12.0  p040_r1 | L’équipage de rails de guidage pour chariot
+     300.4  281.9 12.0B p040_r1 | matelasseur (voir figure I.25).
+     321.3  284.9 12.0  p040_r1 | Munition de tapis transporteur pour évacuer le
+     341.9  281.9 12.0  p040_r1 | matelas automatique.
+     350.6   74.4 12.0B p040_r1 | Figure I.24 : matelassage (transfert)
+     364.4  112.0 10.0  p040_r1 | Longue matelas
+     364.4  197.9 10.0  p040_r1 | PDFm.t.
+     620.1  145.7 12.0B p040_r1 | Figure I.25 : différentes tables de matelassage
+     621.9  381.4 10.0  p040_r1 | PDFo.s.t.
+     804.8  292.2 10.0  p040_r1 | 39
+
+=== PDF p41 ===
+  [img] p041_r1 mixed 595x841pt @(0,0) lignes=24
+  [printed] 40   [lines] 24   [regions] 1
+      46.1   70.8 12.0B p041_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p041_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+     106.4   96.0 12.0B p041_r1 |  Matelassage à la baguette
+     128.0  106.5 12.0  p041_r1 | Ce sont des tables destinées
+     148.6  106.5 12.0  p041_r1 | au matelassage à la baguette
+     169.1  106.5 12.0  p041_r1 | correspondant au matelassage
+     189.6  106.5 12.0  p041_r1 | en zig – zag ou en accordéon
+     210.1  106.5 12.0B p041_r1 | (voir figure I.26).
+     239.4  331.5 12.0B p041_r1 | Figure I.26 : matelassage à la
+     253.1  384.2 12.0B p041_r1 | baguette
+     312.0  333.0 12.0B p041_r1 |  Table à aiguille
+     341.7  333.0 12.0  p041_r1 | Ce sont des tables spécialement
+     362.4  314.9 12.0  p041_r1 | conçues pour le matelassage des tissus à
+     383.1  314.9 12.0  p041_r1 | motifs, tissus à carreaux en particulier
+     403.9  314.9 12.0B p041_r1 | (voir figure I.27).
+     522.8   87.3 12.0B p041_r1 | Figure I.27 : tables a aiguilles
+     524.6  245.9 10.0  p041_r1 | PDFo.s.t.
+     556.1   95.4 12.0B p041_r1 |  Table aspirante
+     585.8   77.4 12.0  p041_r1 | Utilise pour le matelassage (puis découpage)
+     606.6   74.4 12.0  p041_r1 | de matières gonflantes et compressibles,
+     627.2   74.4 12.0  p041_r1 | notamment les nappes par exemple
+     648.1   74.4 12.0B p041_r1 | (Voir figure I.28).
+     723.1  301.0 12.0B p041_r1 | Figure I.28 : table aspirantes PDFo.s.t.
+     802.0  292.2 10.0  p041_r1 | 40
+
+=== PDF p42 ===
+  [img] p042_r1 mixed 595x841pt @(0,1) lignes=18
+  [printed] 41   [lines] 18   [regions] 1
+      46.1   70.8 12.0B p042_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p042_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      88.2   93.5 14.0B p042_r1 |  Les chariots matelasseurs
+     117.7   73.9 12.0  p042_r1 | Ils sont classés en trois catégories :
+     133.5   88.8 12.0  p042_r1 |  Chariots manuels
+     150.3   88.8 12.0  p042_r1 |  Chariots semi-automatiques
+     167.2   88.8 12.0  p042_r1 |  Chariots automatiques
+     256.3  333.1 12.0B p042_r1 |  Chariot manuel
+     285.9  333.1 12.0  p042_r1 | Le chariot est poussé manuellement
+     306.6  333.1 12.0  p042_r1 | par un opérateur ou 2 operateurs
+     327.3  333.1 12.0B p042_r1 | (Voir figure I.29).
+     418.9   79.3 12.0B p042_r1 | Figure I.29 : chariots manuels PDFo.s.t.
+     520.1   76.9 12.0B p042_r1 | Chariot semi-automatique
+     540.7   73.9 12.0  p042_r1 | Mouvement de la tourelle à commande
+     561.4   73.9 12.0  p042_r1 | manuelle. Chargement des pièces à
+     582.1   73.9 12.0B p042_r1 | commande manuelle (voir figure I.30).
+     672.8  241.1 12.0B p042_r1 | Figure I.30 : chariots semi-automatique PDFo.s.t.
+     800.2  280.9 10.0B p042_r1 | 41
+
+=== PDF p43 ===
+  [img] p043_r1 mixed 595x842pt @(0,0) lignes=22
+  [printed] 42   [lines] 22   [regions] 1
+      46.1   70.8 12.0B p043_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p043_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+     124.5  328.6 12.0B p043_r1 |  Chariot automatique
+     148.4  310.6 12.0  p043_r1 | Le chariot circule sur la table, entraîné par
+     169.2  310.6 12.0  p043_r1 | un moteur électrique.
+     190.0  310.6 12.0  p043_r1 | Le Chariot commandé par
+     210.7  310.6 12.0  p043_r1 | Microprocesseur.
+     231.5  310.6 12.0  p043_r1 | L’opérateur est transporté sur une plate-
+     252.3  310.6 12.0  p043_r1 | forme, debout ou assis suivant les
+     272.9  310.6 12.0  p043_r1 | marques, simultanément avec un chariot
+     293.6  310.6 12.0B p043_r1 | (voir figure I.31).
+     320.4   79.2 12.0B p043_r1 | Figure I.31 : chariots automatique PDFo.s.t.
+     360.4   70.8 16.0B p043_r1 | I.3.2 : Les techniques de coupage
+     394.2   85.8 12.0  p043_r1 | Cette opération a pour but la constitution des pièces du vêtement, à cet effet le coupeur
+     415.0   70.8 12.0  p043_r1 | vérifie tout d’abord le nombre de feuille à couper, il dépose ensuite la feuille témoin sur le
+     435.7   70.8 12.0  p043_r1 | matelas.
+     466.6   88.9 12.0B p043_r1 | Il coupe les grandes pièces à l’aide de la coupeuse verticale (voir figure I.32).
+     487.3   73.9 12.0  p043_r1 | Les petites pièces sont coupées à l’aide d’un ciseau (voir figure
+     508.0   70.8 12.0  p043_r1 | I.33). Ou coupeuse scie à ruban dans l’industrie.
+     732.9  348.4 12.0B p043_r1 | Figure I.33 : ciseaux à main PDFm.t. d
+     735.5   82.7 12.0B p043_r1 | Figure I.32 : coupeuse vertical PDFm.t. d
+     804.5  292.4 10.0  p043_r1 | 42
+
+=== PDF p44 ===
+  [img] p044_r1 mixed 595x841pt @(0,0) lignes=15
+  [printed] 43   [lines] 15   [regions] 1
+      45.9   70.6 12.0B p044_r1 | CHAPITRE I :
+      45.9  179.4 12.0B p044_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      83.9   64.8 14.0B p044_r1 | I.3.2.1: Les moyens de fixation des clichés ou patrons sur le matelas
+     120.2   73.6 12.0  p044_r1 | Le matériel de coupe est choisi en fonction du type de la matière à couper (voir
+     141.0   70.6 12.0B p044_r1 | figure I.34) ainsi que la grandeur de série (voir figure I.35).
+     162.2   70.6 12.0  p044_r1 | Par pratique directement sur le matériel industriel, les traceurs doivent arriver à la maîtrise
+     182.9   70.6 12.0  p044_r1 | des outilles, à condition :
+     210.8   91.2 12.0  p044_r1 |  D’utiliser correctement le matériel
+     238.2   91.2 12.0  p044_r1 |  Entretenir le poste de travail
+     265.8   91.2 12.0  p044_r1 |  Prendre les mesures de sécurité.
+     498.3  124.8 12.0B p044_r1 | Figure I.34 : Feuille de matelas
+     500.1  302.8 10.0  p044_r1 | PDFm.t. d
+     736.2  124.7 12.0B p044_r1 | Figure I.35 : Plusieurs feuilles
+     738.0  318.2 10.0  p044_r1 | PDFm.t. d
+     805.4  281.0 10.0  p044_r1 | 43
+
+=== PDF p45 ===
+  [img] p045_r1 tab 595x841pt @(0,0) lignes=26
+  [printed] 44   [lines] 26   [regions] 1
+      46.1   70.8 12.0B p045_r1 | CHAPITRE I :
+      46.1  179.5 12.0B p045_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      99.8   77.4 14.0B p045_r1 |  Les moyens de fixation
+     131.6   70.8 12.0B p045_r1 | Il existe plusieurs moyens de fixations (pince) des cliches sur un matelas (voir tableau I.03).
+     180.5  114.1 10.0B p045_r1 | DESIGNATION
+     180.5  356.0 10.0B p045_r1 | IMAGES
+     183.9   63.2 10.0B p045_r1 | N°
+     228.1  104.8 10.1  p045_r1 | Pince pour tissue fins
+     240.3   63.6 10.0B p045_r1 | 01
+     251.2  116.8 10.1  p045_r1 | Ouverture :4cm
+     315.8  119.3 10.0  p045_r1 | Pince à curseur
+     327.2  112.8 10.0  p045_r1 | Hauteur maximale
+     327.7   63.6 10.0B p045_r1 | 02
+     338.7  137.5 10.0  p045_r1 | 20 cm
+     410.6  122.9 10.1  p045_r1 | Pince à lame
+     417.8   63.6 10.0B p045_r1 | 03
+     504.8   92.2 10.1  p045_r1 | Poids de différentes formes
+     520.6   59.4 10.0B p045_r1 | 04
+     571.5   98.1 10.1  p045_r1 | Les agrafes sont repliées
+     583.7   63.6 10.0B p045_r1 | 05
+     590.1  111.9 10.1  p045_r1 | Profondeur :15cm
+     640.2  101.2 10.1  p045_r1 | Plaque chauffante pour
+     651.6   95.7 10.1  p045_r1 | thermocollage des clichés
+     657.9   63.6 10.0B p045_r1 | 06
+     718.5  201.2 12.0B p045_r1 | Tableau I.07 : Les moyens de fixation
+     804.2  292.2 10.0  p045_r1 | 44
+
+=== PDF p46 ===
+  [img] p046_r1 mixed 595x842pt @(0,0) lignes=24
+  [printed] 45   [lines] 24   [regions] 1
+      46.1   70.8 12.0B p046_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p046_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      88.2   93.5 14.0B p046_r1 |  Le matériel de coupe
+     118.0  105.7 12.0  p046_r1 | Pour réaliser divers types de matelas, il faut du matériel plus ou moins perfectionné
+     138.6   70.8 12.0  p046_r1 | selon la qualité recherchée et surtout l’importance des séries.
+     179.5  275.7 12.0B p046_r1 |  Coupeuse à lame circulaire
+     203.4  297.9 12.0  p046_r1 | Découpe de petits matelas.
+     224.2  282.9 12.0  p046_r1 | Débit de coupe très rapide, manque
+     244.8  282.9 12.0  p046_r1 | de précision notamment pour les
+     265.6  282.9 12.0B p046_r1 | crans (voir figure I.36).
+     340.8  100.7 12.0B p046_r1 | Figure I. 36 : Coupeuse à lame circulaire PDFm.t.
+     387.8  135.4 12.0B p046_r1 |  Coupeuse à lame verticale
+     417.4  108.7 12.0  p046_r1 | Machine souvent appelée « TIP-TOP »
+     438.2  108.7 12.0  p046_r1 | utilisée pour la découpe de matelas de
+     458.8  108.7 12.0  p046_r1 | moyenne ou grande épaisseur
+     479.8  108.7 12.0B p046_r1 | (voir figure I.37).
+     543.2  263.7 12.0B p046_r1 | Figure I.37 : Coupeuse à lame verticale PDFm.t. d
+     595.5  284.9 12.0B p046_r1 |  Coupe assistée
+     625.0  276.9 12.0  p046_r1 | Ce dispositif regroupe un seul matériel.
+     645.8  266.9 12.0  p046_r1 | Tronçonnage avec la coupeuse à lame verticale
+     666.4  266.9 12.0  p046_r1 | (Tip –top). Découpe définitive à la scie à ruban
+     687.2  266.9 12.0  p046_r1 | (voir figure I.38).
+     723.8   78.6 12.0B p046_r1 | Figure I.38 : Coupe assistée  PDFm.t. d
+     801.9  292.2 10.0  p046_r1 | 45
+
+=== PDF p47 ===
+  [img] p047_r1 mixed 595x841pt @(0,0) lignes=36
+  [printed] 46   [lines] 36   [regions] 1
+      46.1   70.8 12.0B p047_r1 | CHAPITRE I :
+      46.1  179.5 12.0B p047_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      88.2   70.8 14.0B p047_r1 | I.3.3 : EXERCICE D’APPLICATION
+     123.4   74.3 14.0B p047_r1 | EXERCICE :01
+     153.0   73.8 12.0  p047_r1 | Reliez chaque phrase avec la réponse qui convient :
+     179.0   76.2 12.0  p047_r1 | Matelassage à sens vers le haut
+     178.8  303.2 12.0  p047_r1 | Superposer de plusieurs plis de tissu.
+     206.2  303.2 12.0  p047_r1 | Endroit contre endroit, envers contre
+     206.6   76.2 12.0  p047_r1 | Matelassage en accordéon
+     220.0  303.2 12.0  p047_r1 | Envers à chaque pli le sens de tissu est
+     233.8  303.2 12.0  p047_r1 | respecté.
+     261.4  303.2 12.0  p047_r1 | Envers contre envers, endroit contre endroit,
+     263.0   76.2 12.0  p047_r1 | Matelassage à sens à paire
+     275.2  303.2 12.0  p047_r1 | à chaque pli le sens de tissu est inversé.
+     302.8  303.2 12.0  p047_r1 | Endroit contre envers.
+     304.0   76.2 12.0  p047_r1 | Le matelassage
+     332.8   74.3 12.0B p047_r1 | EXERCICE : 02
+     362.9   70.8 10.0  p047_r1 | Complétez le tableau suivant :
+     395.9   75.6 10.0B p047_r1 | Nom de la table
+     395.9  274.0 10.0B p047_r1 | Rôle de la table
+     429.9  274.0 10.0  p047_r1 | Des tables destinées au matelassage à la baguette,
+     443.2  274.0 10.0  p047_r1 | correspondant au matelassage en zigzag (ou en
+     456.4  274.0 10.0  p047_r1 | accordéon)
+     485.5  274.0 10.0  p047_r1 | Convient pour les tissus légers, difficiles à
+     498.7  274.0 10.0  p047_r1 | matelasser sur des tables classiques.
+     550.6  274.0 10.0  p047_r1 | Le transfert du matelas vers la table de découpe
+     593.9  274.0 10.0  p047_r1 | Utilisée pour le matelassage (puis découpe) de
+     607.1  274.0 10.0  p047_r1 | matières gonflantes et compressibles
+     646.8  274.0 10.0  p047_r1 | Stocker les tronçons de matelas avant le
+     660.1  274.0 10.0  p047_r1 | découpage
+     690.0  274.0 10.0  p047_r1 | Permettent d’obtenir une superposition parfaite
+     703.2  274.0 10.0  p047_r1 | des plis selon les carreaux, le dessin ou le motif
+     716.4  274.0 10.0  p047_r1 | du tissu.
+     742.8  274.0 10.0  p047_r1 | Assure un déplacement des matelas sans
+     756.1  274.0 10.0  p047_r1 | frottement
+     805.7  292.2 10.0  p047_r1 | 46
+
+=== PDF p48 ===
+  [img] p048_r1 mixed 595x841pt @(0,0) lignes=30
+  [printed] 47   [lines] 30   [regions] 1
+      46.1   70.8 12.0B p048_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p048_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      99.9   70.8 14.0B p048_r1 | I.4 :  TECHNIQUES DE CONTROLE DES DIFFIRENTES
+     115.9  105.3 14.0B p048_r1 | OPERATIONS
+     148.1   91.3 12.0  p048_r1 | Contrôler c’est comparer une caractéristique demandée avec la caractéristique réelle du
+     168.7   70.8 12.0  p048_r1 | produit fabriqué. Ensuite donner au service de la fabrication les résultats de cette
+     189.5   70.8 12.0  p048_r1 | comparaison, afin que la fabrication prenne en connaissance de cause les dispositions
+     210.1   70.8 12.0  p048_r1 | nécessaires pour améliorer la qualité du produit fini.
+     231.2   70.3 12.0B p048_r1 | La norme NFx50-120 définit le contrôle comme :
+     252.6   70.8 12.0  p048_r1 | « Action de mesurer, examiner, essayer, passer au calibre une ou plusieurs caractéristiques
+     273.4   70.8 12.0  p048_r1 | d’un produit ou service et les comparer aux exigences spécifiées en vue d’établir leur
+     294.0   70.8 12.0  p048_r1 | conformité. » ( Christelle Bentout -2015) dans la construction et la fabrication.
+     331.1   77.8 12.0B p048_r1 | I.4.1 : Contrôle de la qualité dans l’atelier de coupe
+     359.1  109.9 12.0  p048_r1 | Effectuer des contrôles au niveau :
+     390.4  137.2 12.0  p048_r1 | Du placement
+     411.1  127.8 12.0  p048_r1 |  Du traçage
+     431.8  137.2 12.0  p048_r1 | Du matelassage
+     452.7  127.8 12.0  p048_r1 |  Du découpage
+     473.3  136.3 12.0  p048_r1 | Du thermocollage
+     515.0   70.8 14.0B p048_r1 | I.4.1.1 : Contrôler au niveau du placement
+     558.6  127.6 12.0  p048_r1 |  Présence de toutes les pièces
+     579.3  127.6 12.0  p048_r1 |  Respect du droit fil ou l’écart angulaire toléré
+     600.0  127.6 12.0  p048_r1 |  Respect du sens du tissu
+     620.7  127.6 12.0  p048_r1 |  Raccord des rayures et les carreaux
+     641.4  127.6 12.0  p048_r1 |  Respect de la laize utile du tissu
+     662.1  127.6 12.0  p048_r1 |  Respect de la longueur utile de la table de matelassage et coupe
+     682.8  127.6 12.0  p048_r1 |  Respect du type de matelassage
+     703.6  127.6 12.0  p048_r1 |  Manque d’espace entre les pièces pour le couteau
+     724.3  127.6 12.0  p048_r1 |  Rendement d’utilisation de la matière
+     808.3  292.9 10.0  p048_r1 | 47
+
+=== PDF p49 ===
+  [img] p049_r1 mixed 595x841pt @(0,0) lignes=7
+  [printed] 48   [lines] 7   [regions] 1
+      42.3   70.8 12.0B p049_r1 | CHAPITRE I :
+      42.3  179.7 12.0B p049_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      77.0   70.3 12.0B p049_r1 | Exemple : le placement des patrons de la chemise suivante comporte une erreur grave (les deux
+      93.0   70.8 12.0B p049_r1 | manches sont dans le même Sens) (voir figure I.39).
+     749.1  168.0 12.0B p049_r1 | Figure I.39 : placement chemise
+     751.0  342.1 10.0  p049_r1 | PDFm.t. d
+     805.8  292.7 10.0  p049_r1 | 48
+
+=== PDF p50 ===
+  [img] p050_r1 mixed 595x841pt @(0,0) lignes=33
+  [printed] 49   [lines] 33   [regions] 1
+      46.1   70.8 12.0B p050_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p050_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      96.6   74.4 14.0B p050_r1 | I.4.1.2 : Contrôle au niveau du traçage
+     120.0   88.8 12.0  p050_r1 |  Les lignes
+     135.8   88.8 12.0  p050_r1 |  Trop épaisses
+     151.8   88.8 12.0  p050_r1 |  Pas conformes aux patrons
+     167.6   88.8 12.0  p050_r1 |  Crans ou pointages
+     183.3   88.8 12.0  p050_r1 |  Mal placés
+     199.2   88.8 12.0  p050_r1 |  Manque des nomenclatures (taille)
+     223.0   74.4 14.0B p050_r1 | I.4.1.3 : Contrôler au niveau du matelassage
+     261.2   88.8 12.0  p050_r1 |  Correspondance de la laize avec le tracé
+     281.9   88.8 12.0  p050_r1 |  Superposition des lisières des couches du tissu
+     302.6   88.8 12.0  p050_r1 |  Matelassage sans étirement ou faux plis
+     323.4   88.8 12.0  p050_r1 |  Repos des matelas des tissus extensibles pour éliminer le retrait des pièces
+     344.0   88.8 12.0  p050_r1 |  Variation de la laize du tissu
+     364.7   88.8 12.0  p050_r1 |  Écart angulaire du tissu
+     385.3   88.8 12.0  p050_r1 |  Défauts du tissu
+     406.0   88.8 12.0  p050_r1 |  Respect du type de matelassage
+     426.7   88.8 12.0  p050_r1 |  Respect du nombre des couches
+     447.2   88.8 12.0  p050_r1 |  Contrôle des couleurs
+     468.0   88.8 12.0  p050_r1 |  Séparation des pièces du tissu pour éliminer le risque des nuances
+     488.8   88.8 12.0  p050_r1 |  Nuances dans un rouleau du tissu
+     509.4   88.8 12.0  p050_r1 |  Matelassage des tissus avec rayures ou carreaux
+     530.0   88.8 12.0  p050_r1 |  Le placement mis dans la bonne direction
+     550.8   88.8 12.0  p050_r1 |  Joins (recouvrement) entre rouleaux
+     571.4   88.8 12.0  p050_r1 |  Perte en bouts, les fins des rouleaux
+     593.0   70.8 12.0B p050_r1 | I.4.1.4 : Control au niveau de la découpe
+     614.4   88.8 12.0B p050_r1 |  Différences entre les pièces Haut et Bas du matelas
+     636.0   88.8 12.0  p050_r1 |  Coupeur devant la ligne du placement
+     656.6   88.8 12.0  p050_r1 |  Crans trop profonds
+     677.3   88.8 12.0  p050_r1 |  Pas assez profonds
+     697.8   88.8 12.0  p050_r1 |  Pas bien placés
+     801.7  292.2 10.0  p050_r1 | 49
+
+=== PDF p51 ===
+  [img] p051_r1 mixed 595x841pt @(0,0) lignes=13
+  [printed] 50   [lines] 13   [regions] 1
+      46.1   70.8 12.0B p051_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p051_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      93.4  124.3 12.0B p051_r1 |  Perforation des repères :
+     130.8   88.8 12.0  p051_r1 |  Pas visibles
+     151.5   88.8 12.0  p051_r1 |  Trop grandes
+     172.2   88.8 12.0  p051_r1 |  Pas au bon endroit (en haut et en bas matelas)
+     192.8   88.8 12.0  p051_r1 |  Coups de couteau
+     213.4   88.8 12.0  p051_r1 |  Placement mal positionné
+     234.1   88.8 12.0  p051_r1 |  Rebords de pièces non réguliers
+     254.9   88.8 12.0B p051_r1 |  Mesures non correctes (retrait), manque de symétrie des pièces (voir figure I.40).
+     610.3  161.8 12.0B p051_r1 | Figure I.40 : contrôler découpe
+     612.1  353.0 10.0  p051_r1 | PDFm.t. d
+     804.1  292.2 10.0  p051_r1 | 50
+
+=== PDF p52 ===
+  [img] p052_r1 tab 595x841pt @(0,0) lignes=16
+  [printed] 51   [lines] 16   [regions] 1
+      46.1   70.8 12.0B p052_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p052_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      96.4   70.8 14.0B p052_r1 | I.4.1.5 : contrôler au niveau thermocollage
+     127.0   88.8 12.0  p052_r1 |  Température, pression, durée
+     147.7   88.8 12.0  p052_r1 |  Cloquage (boules d’air)
+     168.3   88.8 12.0  p052_r1 |  Changement des colories
+     189.0   88.8 12.0  p052_r1 |  Fils ou corps étrangers entre tissus et thermocollant
+     209.7   88.8 12.0  p052_r1 |  Déformation des pièces
+     230.4   88.8 12.0  p052_r1 |  Retrait des pièces
+     251.0   88.8 12.0  p052_r1 |  Thermocollant mal placé sur le tissu
+     271.7   88.8 12.0  p052_r1 |  Taches
+     301.0   70.8 14.0B p052_r1 | I.4.1.6 : contrôler au niveau du rangement des patrons
+     330.3   70.8 12.0B p052_r1 | Il faut finir le travail pour ranger les patrons (voir figure I.41).
+     643.9  146.7 12.0B p052_r1 | Figure I.41 : Rangement du patron
+     645.7  346.4 10.0  p052_r1 | source Pinterest
+     801.6  292.2 10.0  p052_r1 | 51
+
+=== PDF p53 ===
+  [img] p053_r1 mixed 595x841pt @(0,0) lignes=37
+  [printed] 52   [lines] 37   [regions] 1
+      46.1   70.8 12.0B p053_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p053_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      92.3   93.5 14.0B p053_r1 |  Contrôle de patronage
+     126.1   70.8 12.0B p053_r1 | Les éléments à contrôler :
+     147.8   68.9 12.0  p053_r1 | 
+     148.0  106.9 12.0  p053_r1 | Les pièces composantes
+     168.3   68.9 12.0  p053_r1 | 
+     168.5  106.9 12.0  p053_r1 | La nomenclature, le multiplicateur, la taille
+     189.1   68.9 12.0  p053_r1 | 
+     189.2  106.9 12.0  p053_r1 | Le droit fil
+     209.7   68.9 12.0  p053_r1 | 
+     209.9  106.9 12.0  p053_r1 | Les mesures et la correspondance des mesures
+     230.4   68.9 12.0  p053_r1 | 
+     230.5  106.9 12.0  p053_r1 | Les crans et pointages
+     251.1   68.9 12.0  p053_r1 | 
+     251.3  106.9 12.0  p053_r1 | Les valeurs de couture
+     271.8   68.9 12.0  p053_r1 | 
+     272.0  106.9 12.0  p053_r1 | Bords réguliers
+     299.7   70.8 14.0B p053_r1 | I.4.2 : Etablissement des spécifications de contrôle
+     331.2   88.9 12.0  p053_r1 | Les spécifications de contrôle ou les fiches techniques complémentaires permettant à la
+     351.9   70.8 12.0  p053_r1 | construction de "réussir" en fabrication, la conformité des articles avec les "besoins" des clients,
+     372.6   70.8 12.0  p053_r1 | doivent être établies par éléments de produits ou par grandes catégories d'articles (plusieurs
+     393.3   70.8 12.0  p053_r1 | taille de veste…), les planches de contrôle permettant de réaliser le contrôle en cours et le
+     414.1   70.8 12.0  p053_r1 | contrôle final, et servant de référence aux spécifications de données dans les dossiers techniques
+     434.7   70.8 12.0  p053_r1 | de chaque modèle de la collection saisonnière.
+     467.8   70.3 14.0B p053_r1 | . I.4.2.1 : Normes de qualité avec spécification de la construction
+     491.7   88.5 12.0  p053_r1 | Les critères de qualité accompagnés de schémas et des tolérances, permettent de définir
+     512.5   70.8 12.0  p053_r1 | correctement les caractéristiques à examiner et permettent de juger ce qui est acceptable de ce
+     533.1   70.8 12.0  p053_r1 | qui ne l'est pas.
+     554.3   70.3 12.0  p053_r1 | Ainsi il faut fixer sur chaque catégorie d'article, tous les points importants :
+     581.2  124.8 12.0  p053_r1 |  De point de vue aspect
+     602.0  124.8 12.0  p053_r1 |  Du point de vue dimension ;
+     643.4   70.3 12.0  p053_r1 | Sur chaque point important il faut préciser les spécifications avec :
+     670.2  124.8 12.0  p053_r1 |  La représentation graphique
+     691.0  124.8 12.0  p053_r1 |  Les tolérances
+     711.6  124.8 12.0  p053_r1 |  La façon de priser la mesure
+     805.0  292.4 10.0  p053_r1 | 52
+
+=== PDF p54 ===
+  [img] p054_r1 tab 595x841pt @(0,0) lignes=34
+  [printed] 53   [lines] 34   [regions] 1
+      46.1   70.8 12.0B p054_r1 | CHAPITRE I :
+      46.1  179.5 12.0B p054_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      92.5   70.8 12.0  p054_r1 | Pour certains critères de qualité et d'aspect (niveau de grignage, froissement, régularité des
+     113.3   70.8 12.0  p054_r1 | bords et des coutures, défauts d'étoffe) il est conseillé d'utiliser des échantillons ou photos
+     134.0   70.8 12.0  p054_r1 | montrant les niveaux acceptables et refusés.
+     154.9   70.8 12.0B p054_r1 | Exemple de norme de qualité (voir tableau I.08).
+     176.8   97.9 10.0B p054_r1 | Catégorie d'article :
+     176.8  303.8 10.0B p054_r1 | Normes de qualité
+     198.1   69.6 10.0  p054_r1 | No.
+     198.1  129.0 10.0  p054_r1 | Spécification et points à surveiller
+     198.1  367.4 10.0  p054_r1 | Illustrations et tolérances
+     278.8   97.9 10.0  p054_r1 | Largeur tiret de poche1,8cm.
+     296.0   97.9 10.0  p054_r1 | Longueur tiret 6cm.
+     307.1   77.4 10.0  p054_r1 | 1
+     313.5   97.9 10.0  p054_r1 | Longueur bride 0.8 cm.
+     330.8   97.9 10.0  p054_r1 | Placement à 0,3 cm des bords de tiret.
+     347.8   97.9 10.0  p054_r1 | Tolérances +/- 1mm
+     512.4   97.9 10.0  p054_r1 | Poche passepoilée devant dans la doublure du
+     529.5   97.9 10.0  p054_r1 | veston.
+     547.0   97.9 10.0  p054_r1 | Longueur 13,5 cm
+     564.3   97.9 10.0  p054_r1 | Largeur 1,2 cm
+     581.5   97.9 10.0  p054_r1 | Placement des brides de blocage des capucins des
+     587.1   77.4 10.0  p054_r1 | 2
+     598.8   97.9 10.0  p054_r1 | ouvertures de la poche à 0,2 cm en extérieur des
+     616.1   97.9 10.0  p054_r1 | bords du passepoil et parallèle avec. Tolérances :
+     634.4   97.5 11.9  p054_r1 | •
+     636.3  133.3 10.0  p054_r1 | Longueur +/- 3mm
+     652.1   97.5 11.9  p054_r1 | •
+     654.1  133.3 10.0  p054_r1 | Largeur +/- 1mm
+     670.1   97.5 11.9  p054_r1 | •
+     672.1  133.3 10.0  p054_r1 | Position des brides +/- 0mm
+     745.8  166.2 12.0B p054_r1 | Tableau I.08 : Norme de qualité
+     747.6  346.9 10.0  p054_r1 | PDFm.t. Q
+     804.2  292.4 10.0  p054_r1 | 53
+
+=== PDF p55 ===
+  [img] p055_r1 tab 595x841pt @(0,0) lignes=55
+  [printed] 54   [lines] 55   [regions] 1
+      46.1   70.8 12.0B p055_r1 | CHAPITRE I :
+      46.1  179.5 12.0B p055_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      89.6   70.8 14.0B p055_r1 | I.4.2.2 : norme de qualité avec tolérance de construction
+     121.4   85.5 12.0  p055_r1 | Le régime des tolérances des critères de qualité est en général établi par les méthodes en
+     142.1   70.8 12.0  p055_r1 | coopération avec la Conception, la Fabrication et l'Inspection (contrôle de qualité) à partir :
+     163.0   88.8 12.0  p055_r1 |  Des valeurs désirées par les clients ou utilisées par leur contrôle réception,
+     183.6   88.8 12.0  p055_r1 |  De la politique qualité ou du niveau qualité fixé par l'entreprise, client.
+     204.3   88.8 12.0  p055_r1 |  De l'expérience acquise,
+     224.8   88.8 12.0  p055_r1 |  Des imprécisions faites sur chaque mesure,
+     245.7   88.8 12.0  p055_r1 |  Des tolérances des différentes étapes de fabrication, des contraintes et de la variabilité
+     266.6  106.8 12.0B p055_r1 | de la fabrication (voir tableau I.09).
+     306.8  124.3 12.0B p055_r1 |  Dépendances de contrôle de qualité
+     344.9  445.3 10.0B p055_r1 | Tolérances
+     356.9  100.7 10.0B p055_r1 | Secteur
+     356.9  274.1 10.0B p055_r1 | Tolérances
+     368.8  429.9 10.0B p055_r1 | Précises
+     368.8  483.3 10.0B p055_r1 | Moyennes
+     390.3  429.9 10.0  p055_r1 | +/- 1mm
+     390.3  486.6 10.0  p055_r1 | +/- 3mm
+     402.0   71.9 10.0  p055_r1 | Réalisation des patrons
+     401.5  211.0 10.0  p055_r1 | Tolérances de positionnement des crantages
+     413.5  101.8 10.0  p055_r1 | et tracés
+     432.9  105.5 10.0  p055_r1 | Coupe
+     432.9  213.6 10.0  p055_r1 | Tolérances de coupe des pièces du matelas
+     432.9  429.9 10.0  p055_r1 | +/-1mm
+     432.9  486.5 10.0  p055_r1 | +/- 3mm
+     454.6  184.9 10.0  p055_r1 | Tolérances d'ajustement de deux   bords
+     454.8  429.9 10.0  p055_r1 | +/-1mm
+     454.8  486.5 10.0  p055_r1 | +/- 3mm
+     471.9  190.0 10.0  p055_r1 | Tolérance d'ajustement de deux crans
+     471.8  429.9 10.0  p055_r1 | +/-1mm
+     471.8  487.8 10.0  p055_r1 | +/-3mm
+     488.0  102.5 10.0  p055_r1 | Piquage
+     489.2  173.4 10.0  p055_r1 | Tolérance d'engagement sous le pied presseur
+     489.0  429.9 10.0  p055_r1 | +/-1mm
+     489.0  487.8 10.0  p055_r1 | +/-3mm
+     506.5  193.6 10.0  p055_r1 | Tolérances de régularité de piquage
+     506.1  429.9 10.0  p055_r1 | +/-1mm
+     506.1  487.8 10.0  p055_r1 | +/-3mm
+     555.7  172.1 10.0  p055_r1 | Tolérances de positionnement (symétrie, parallélisme,
+     555.6  429.9 10.0  p055_r1 | +/-1mm
+     555.6  486.3 10.0  p055_r1 | +/- 5mm
+     573.0  172.1 10.0  p055_r1 | distance…)
+     572.9  429.9 10.0  p055_r1 | +/-1mm
+     572.9  487.8 10.0  p055_r1 | +/-3mm
+     591.0  172.1 10.0  p055_r1 | Tolérances d'aspect de coutures et d'éléments
+     594.1   81.9 10.0  p055_r1 | Qualité du produit
+     607.4  429.9 10.0  p055_r1 | +/-3mm
+     608.0  172.1 10.0  p055_r1 | (Surpiqûres, ourlet, manche, …) Tolérances des tailles
+     607.5  491.9 10.0  p055_r1 | -0mm
+     619.5  172.1 10.0  p055_r1 | et dimensions correspondantes
+     624.7  488.3 10.0  p055_r1 | +20mm
+     687.6  164.8 12.0B p055_r1 | Tableau I.09 : Norme de tolérance
+     689.6  363.8 10.0  p055_r1 | PDFm.t. Q
+     804.5  292.2 10.0  p055_r1 | 54
+
+=== PDF p56 ===
+  [img] p056_r1 mixed 595x841pt @(0,0) lignes=28
+  [printed] 55   [lines] 28   [regions] 1
+      46.1   70.8 12.0B p056_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p056_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      92.2   88.8 12.0B p056_r1 |  Exemple
+     113.9   88.3 12.0  p056_r1 | Si un gabarit, sort de la dimension du tableau mais reste dans la tolérance admise positive,
+     134.6   70.8 12.0  p056_r1 | est placé et tracé avec une erreur, admissible positive, puis les pièces sont coupées plus grandes,
+     155.3   70.8 12.0  p056_r1 | en tolérance admissible, coupe, et ensuite piqués avec un écart cette fois négatif mais, lui aussi
+     176.0   70.8 12.0  p056_r1 | entrant en limites admissibles pour le piquage, le produit une fois finis, peut avoir les valeurs
+     196.7   70.8 12.0  p056_r1 | d'une taille supérieure à celle envisagée au départ par la conception.
+     218.0   91.5 12.0  p056_r1 | Les tolérances des critères de qualité des produits finis sont donc d'autant plus élevées qu'il
+     238.7   70.8 12.0  p056_r1 | y a des éléments et des opérations avec tolérances qui entrent en jeu dans l'obtention du critère.
+     271.7  111.4 14.0B p056_r1 | I.4.2.3 : tolérance de coupe
+     303.4   88.5 12.0  p056_r1 | La découpe des différentes pièces de l'article est faite avec plus ou moins de précision
+     324.4   70.8 12.0  p056_r1 | suivant la technique et le matériel employés pour la découpe :
+     346.1   88.8 12.0  p056_r1 |  Coupeuse a lame verticale
+     367.3   88.8 12.0  p056_r1 |  Coupeuse à lame verticale avec potence
+     388.4   88.8 12.0  p056_r1 |  Scie à ruban
+     409.7   88.8 12.0  p056_r1 |  Emporte pièce
+     430.9   88.8 12.0  p056_r1 |  L’habilité du personnel
+     459.4   85.5 12.0  p056_r1 | Les écarts de dimension dans les pièces d'un même paquet sont aussi les conséquences
+     480.1   70.8 12.0  p056_r1 | indirectes d'un mauvais matelassage (faux plis, glissement des couches…) ou d'une matière
+     500.8   70.8 12.0  p056_r1 | défectueuse (lisière tirant) ou encore du matériel mal approprié ou mal entretenu.
+     554.0  111.4 14.0B p056_r1 | I.4.2.4 : tolérance de l’imprécision sur mesure
+     593.8   91.9 12.0  p056_r1 | La tolérance de qualité doit également tenir compte du niveau précision de la mesure qui
+     614.5   70.8 12.0  p056_r1 | dépend :
+     646.1   88.8 14.0  p056_r1 |  Des erreurs au niveau de la prise de mesure
+     684.3   70.8 12.0  p056_r1 | Celles-ci doivent être résolues par des schémas suffisamment précis et par une formation, si
+     704.8   70.8 12.0B p056_r1 | nécessaire, du contrôleur.
+     808.0  293.3 10.0  p056_r1 | 55
+
+=== PDF p57 ===
+  [img] p057_r1 mixed 595x841pt @(0,0) lignes=18
+  [printed] 56   [lines] 18   [regions] 1
+      46.1   70.8 12.0B p057_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p057_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      85.1   88.8 14.0  p057_r1 |  De la précision du matériel de prise de mesure
+     133.9   91.9 12.0  p057_r1 | Les articles sont mesurés en principe avec des mètres à rubans souples ou métalliques ou
+     154.6   70.8 12.0  p057_r1 | encore avec des règles graduées. Il est important de contrôler si tous les mètres utilisés
+     175.3   70.8 12.0  p057_r1 | donnent les mêmes valeurs, s’ils ne sont pas déformés, abîmés au niveau des graduations. Les
+     196.0   70.8 12.0  p057_r1 | graduations doivent indiquées tous les millimètres, la mesure pouvant ainsi être lue au 1/2mm
+     216.7   70.8 12.0  p057_r1 | près.
+     257.4   88.8 14.0  p057_r1 |  De la façon d’enregistrer les résultats
+     306.8   85.8 12.0  p057_r1 | Une des erreurs les plus fréquentes est d'arrondir le résultat. Parfois, le contrôleur qui,
+     327.5   70.8 12.0  p057_r1 | lisant bien la valeur au mm près, la donne au 1/2cm près. Une autre erreur est d'infléchir le
+     348.3   70.8 12.0  p057_r1 | résultat dans un sens ou un autre lorsque la mesure est tout près des limites spécifiées. Même
+     368.9   70.8 12.0  p057_r1 | en évitant toutes ces erreurs par de nombreux conseils, il reste qu'il existe encore des écarts
+     389.7   70.8 12.0  p057_r1 | entre les mesures effectuées par différents contrôleurs (certains tirent davantage le tissu que
+     410.3   70.8 12.0  p057_r1 | d'autres, l'emplacement de la mesure peut être interprété différemment…).
+     431.3   70.8 12.0  p057_r1 | Aussi, pour connaître l'écart entre contrôleurs, il est intéressant de faire mesurer par plusieurs
+     452.0   70.8 12.0  p057_r1 | personnes les mêmes articles ou encore des longueurs d'étalons préparés à cet effet.
+     800.3  289.6 10.0  p057_r1 | 56
+
+=== PDF p58 ===
+  [img] p058_r1 mixed 595x841pt @(0,0) lignes=14
+  [printed] 57   [lines] 14   [regions] 1
+      46.1   70.8 12.0B p058_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p058_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      88.2   70.8 14.0B p058_r1 | I.4.3 : EXERCICE D’APPLICATION
+     129.7  108.6 12.0B p058_r1 | EXERCICE : 01
+     159.4   70.8 12.0  p058_r1 | Répondez aux questions suivantes :
+     185.3   70.8 12.0  p058_r1 | 1-Quel est le but du contrôle ?
+     211.9   70.8 12.0B p058_r1 | ………………………………………………………………………………………………
+     237.1   70.8 12.0  p058_r1 | 2- Quels sont les différentes étapes de contrôle de qualité ?
+     263.7   70.8 12.0B p058_r1 | ………………………………………………………………………………………………
+     288.7   70.8 12.0  p058_r1 | 3- Le contrôle se fait à quel niveau ?
+     315.4   70.8 12.0B p058_r1 | ………………………………………………………………………………………………
+     340.6   70.8 12.0  p058_r1 | 4-Comment assurer la qualité ?
+     367.0   70.8 12.0B p058_r1 | ………………………………………………………………………………………………
+     799.3  290.8 13.0  p058_r1 | 57
+
+=== PDF p59 ===
+  [img] p059_r1 mixed 596x841pt @(0,0) lignes=15
+  [printed] 58   [lines] 15   [regions] 1
+      68.1  105.6 12.0B p059_r1 | EXERCICE : 02
+     109.2   70.8 12.0B p059_r1 | Durée : 6 H
+     136.4   70.8 12.0B p059_r1 | But de l’exercice : Contrôle les défauts de la matière première.
+     179.3   73.8 12.0B p059_r1 | Matériels requis : Règle, équerre, craie tailleur.
+     220.7   70.8 12.0B p059_r1 | Outils : Différents. Échantillon de matière première.
+     248.7   70.8 12.0B p059_r1 | Mise en situation :
+     296.4   83.1 12.0B p059_r1 |  Détecter les différents défauts de la matière sur les échantillons donnés   .
+     318.0   83.1 12.0  p059_r1 |  Appliquer les techniques de contrôle de la matière.
+     339.5   83.1 12.0  p059_r1 |  Corriger les défauts c’est si possible.
+     392.2   70.8 12.0B p059_r1 | Marche à suivre :
+     433.9   79.2 12.0  p059_r1 |  Les stagiaires, partagés par équipes, vont contrôler différents rouleaux de tissus.
+     455.5   79.2 12.0  p059_r1 |  Ils doivent classer les défauts identifiés.
+     477.1   79.2 12.0  p059_r1 |  Ils doivent présenter au formateur la fiche des travaux pratiques contenant les méthodes
+     499.1   97.2 12.0  p059_r1 | appliquées (les calculs, si c’est le cas) pour l’identification et la mesure du défaut.
+     796.9  279.2 11.0  p059_r1 | 58
+
+=== PDF p60 ===
+  [img] p060_r1 mixed 595x841pt @(0,1) lignes=15
+  [printed] 59   [lines] 15   [regions] 1
+      46.1   70.8 12.0B p060_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p060_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      96.4   70.8 14.0B p060_r1 | I. 5 : RESUME
+     231.2  173.1 12.0  p060_r1 | A travers ce chapitre le stagiaire peut accéder à plusieurs
+     265.8  173.1 12.0  p060_r1 | opérations qui lui permis d’acquérir des connaissances :
+     300.3  173.1 12.0  p060_r1 | Caractéristiques des différentes étoffes (tissu, doublure, triplure)
+     334.8  173.1 12.0  p060_r1 | Les éléments qui constituent la veste :
+     369.3  173.1 12.0  p060_r1 | L’identification des formes des patrons à partir du (traçage).
+     403.7   65.1 12.0  p060_r1 | L’Economie maximum du tissu à travers, le calcul du
+     438.3   65.1 12.0  p060_r1 | Métrage et le rendement de la matière
+     472.7  173.1 12.0  p060_r1 | La disposition de la matière utilisée dans l’ordre logique et
+     507.3  173.1 12.0  p060_r1 | chronologique du matelassage pour le découpage.
+     541.7  173.1 12.0  p060_r1 | Réalisation des opérations de contrôle durant toutes les
+     576.3  173.1 12.0  p060_r1 | étapes de la construction.
+     805.3  293.3 10.0  p060_r1 | 59
+
+=== PDF p61 ===
+  [img] p061_r1 mixed 595x841pt @(0,0) lignes=22
+  [printed] 60   [lines] 22   [regions] 1
+      46.1   70.8 12.0B p061_r1 | CHAPITRE I :
+      46.1  179.7 12.0B p061_r1 | LES SPECIFICATIONS DE LA PREPARATION DU VESTON
+      88.2   70.8 14.0B p061_r1 | I. 6 : EXERCICE DE SYNTHESE
+     132.2   70.8 12.0B p061_r1 | Fiche d’exercice de synthèse fin chapitre I
+     152.8   74.5 12.0B p061_r1 | Spécialité : tailleur homme
+     174.2   74.5 12.0B p061_r1 | Module : fabrication du prototype veste
+     220.1   74.5 12.0B p061_r1 | Durée : 07h
+     266.1   68.8 12.0B p061_r1 | But : Déterminer la longueur de matelas et faire le placement de veston homme T 44(tissu,
+     282.0   68.8 12.0  p061_r1 | doublure et triplure à l’échelle 1/7) et calculer le rendement de matière.
+     328.7   74.5 12.0B p061_r1 | Matériel requis Table de coupe, balance de poids de bijouterie.
+     374.7   74.5 12.0B p061_r1 | Outils : Tissu, doublure, toile collante, crayons, taille crayon, gomme, règle de 60 cm,
+     395.4   74.5 12.0  p061_r1 | équerre, papier, craie tailleur, patrons.
+     426.3   74.5 12.0B p061_r1 | Accessoires : mètre a ruban, ciseau.
+     472.3   74.5 12.0B p061_r1 | Mise en situation : les stagiaires reçoivent le matériel, outils et accessoires à fin d’établir la :
+     517.7  128.2 12.0  p061_r1 |  La recherche du métrage.
+     546.0  128.2 12.0  p061_r1 |  Calcul de perte.
+     574.6  128.2 12.0  p061_r1 |  Calcul du rendement.
+     621.7   74.5 12.0B p061_r1 | Marche à suivre : à l’aide des patrons composants le veston :
+     667.2  128.5 12.0  p061_r1 |  Faite la recherche de métrage sur une laize de 0,90 cm.
+     695.7  128.5 12.0  p061_r1 |  Calculer le pourcentage de la perte avec le rendement suivant la méthode de
+     717.7  146.5 12.0  p061_r1 | pesage.
+     807.4  291.3 11.0  p061_r1 | 60

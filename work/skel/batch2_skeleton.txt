@@ -1,0 +1,1036 @@
+
+=== PDF p62 ===
+  [img] p062_r1 mixed 596x842pt @(0,0) lignes=12
+  [printed] 61   [lines] 12   [regions] 1
+      44.9  101.7 12.0B p062_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p062_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      94.4   70.8 14.0B p062_r1 | INTRODUCTION
+     142.2   94.8 12.0  p062_r1 | Pour l’élaboration d’un prototype dans la fabrication. On doit s’assurer d’une découpe de
+     163.0   70.8 12.0  p062_r1 | vêtements et d’un prix acceptable afin de mettre en place des étapes supplémentaires de
+     183.6   70.8 12.0B p062_r1 | fabrication pour optimiser : la main d’œuvre, le matériel et le personnel (voir figure II.01).
+     204.6   94.9 12.0  p062_r1 | Il est indispensable de procéder à deux étapes distinctes pour avoir les meilleurs
+     225.4   70.8 12.0  p062_r1 | avantages des secteurs – clé de la fabrication :
+     246.1   88.8 12.0  p062_r1 |  La construction (la coupe).
+     266.9   88.8 12.0  p062_r1 |  La fabrication (le piquage).
+     653.6  189.1 12.0B p062_r1 | Figure II.1: Prototype veste tailleur
+     796.9  279.2 11.0  p062_r1 | 61
+
+=== PDF p63 ===
+  [img] p063_r1 mixed 595x840pt @(0,0) lignes=25
+  [printed] 62   [lines] 25   [regions] 1
+      44.9  101.7 12.0B p063_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p063_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      94.8   70.8 16.0B p063_r1 | II.1 : THERMOCOLAGE
+     122.0   97.8 12.0  p063_r1 | Un thermocollant se compose d’un support textile sur laquelle est applique un adhésif
+     142.8   70.8 12.0  p063_r1 | thermo fusible qui peut être fixé sur un autre tissu à l’aide de la pression et de la chaleur
+     163.4   70.8 12.0  p063_r1 | (voir figure II.02 et II.03)
+     184.3  100.9 12.0  p063_r1 | Le renforcement par thermocollant est une technique couramment utilisée pour la
+     205.1   70.8 12.0  p063_r1 | confection d’une grande variété de produits (voir tableau II.01)
+     225.8   97.9 12.0  p063_r1 | Le thermocollage se compose en deux mots :
+     246.0  145.5 12.0  p063_r1 |  Thermo : relatif à la température.
+     267.6  145.5 12.0  p063_r1 |  Coller : faire adhérer ou fixer.
+     324.3  332.1 12.0B p063_r1 |  Différents thermos
+     354.0  311.1 12.0  p063_r1 | Peuvent intégrer un renfort endroit fil,
+     374.7  311.1 12.0  p063_r1 | pour conserver l’élasticité du tissu en
+     395.4  311.1 12.0  p063_r1 | réduisant les risques de déformation
+     416.2  311.1 12.0B p063_r1 | (Voir figure II. 02).
+     480.2   81.9 12.0B p063_r1 | Figure II.2: Différents thermos
+     482.0  261.3 10.0  p063_r1 | source Pinterest
+     545.6  110.8 12.0B p063_r1 |  Thermocollants non tisses
+     576.3   82.3 12.0  p063_r1 | Ils existent en différentes épaisseurs et
+     597.0   79.2 12.0  p063_r1 | conviennent à toutes les étoffes tissées.
+     617.7   79.2 12.0  p063_r1 | Exemple : la Viseline est la première
+     638.4   79.2 12.0B p063_r1 | étoffe de ce type (voir figure 03).
+     669.3  312.6 12.0B p063_r1 | Figure II.03 : les thermocollants non tissés
+     803.4  292.4 10.0  p063_r1 | 62
+
+=== PDF p64 ===
+  [img] p064_r1 tab 595x840pt @(0,0) lignes=34
+  [printed] 63   [lines] 34   [regions] 1
+      44.9  101.7 12.0B p064_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p064_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+     102.4   50.4 12.0  p064_r1 | N
+     111.7  100.6 10.0  p064_r1 | NOMS
+     111.7  248.8 10.0  p064_r1 | IMAGES
+     111.7  429.5 10.0  p064_r1 | UTILISATIONS
+     186.0  392.8 10.0  p064_r1 | C’est une marque de thermocollant
+     192.8   48.7 12.0  p064_r1 | 01
+     197.5   98.4 10.0  p064_r1 | Viseline
+     197.5  417.2 10.0  p064_r1 | allemande (non tissée).
+     287.1   85.7 10.0  p064_r1 | Thermocollant
+     287.1  387.3 10.0  p064_r1 | Elle est utilisée dans la confection des
+     293.9   48.7 12.0  p064_r1 | 02
+     298.5  100.3 10.0  p064_r1 | ouatiné
+     298.5  446.0 10.0  p064_r1 | couettes.
+     389.6  402.3 10.0  p064_r1 | Étoffe faite de poils d'animaux
+     396.4   48.7 12.0  p064_r1 | 03
+     401.0   98.3 10.0  p064_r1 | Feutrine
+     401.1  390.1 10.0  p064_r1 | agglomérés ensemble par pression et
+     412.6  435.4 10.0  p064_r1 | ébouillantage.
+     504.1  394.5 10.0  p064_r1 | L'épaulette est un rembourrage sur
+     510.9   48.7 12.0  p064_r1 | 04
+     515.6   86.7 10.0  p064_r1 | Les épaulettes
+     515.6  381.5 10.0  p064_r1 | l'épaule, qui sert à rehausser un vêtement
+     527.1  393.1 10.0  p064_r1 | pour lui donner de l'aplomb et pour
+     538.6  423.0 10.0  p064_r1 | accentuer la carrure.
+     607.2  384.2 10.0  p064_r1 | L'assemblage est réalisé par un voile ou
+     618.6  389.1 10.0  p064_r1 | une grille thermocollante très ajourés
+     630.1  390.3 10.0  p064_r1 | laissant librement passer l'air et l'eau
+     639.2   48.7 12.0  p064_r1 | 05
+     640.1   85.9 10.0  p064_r1 | Toile Collante
+     641.6  406.4 10.0  p064_r1 | tout en résistant à la friction.
+     718.3  157.5 12.0B p064_r1 | Tableau II.01 : les différents thermocollants tissés et non tissés
+     803.9  292.2 10.0  p064_r1 | 63
+
+=== PDF p65 ===
+  [img] p065_r1 mixed 595x840pt @(0,0) lignes=16
+  [printed] 64   [lines] 16   [regions] 1
+      44.9  101.7 12.0B p065_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p065_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      86.3   70.8 14.0B p065_r1 | II.1.1 : Définition des triplures
+     115.9   88.8 12.0  p065_r1 | C’est un : tissu, armure, toile tissée, proche d’un drap de lit avec une base collante, qui
+     136.6   70.8 12.0  p065_r1 | réagit à la chaleur du fer, elle est (triplée), plus épaisse qu’un thermocollant classique, elle est
+     157.3   70.8 12.0  p065_r1 | souvent utilisée pour donner de la raideur comme sur un poignet de chemise ou un col, sa
+     178.0   70.8 12.0B p065_r1 | couleur est blanche parfois noir (voir figure II.04).
+     219.6   91.8 12.0  p065_r1 | Entoilage, thermocollant, viseline, boutonnage, tous ces termes reviennent à un même type
+     240.3   70.8 12.0  p065_r1 | de produit, leurs principes résident dans les cols, poignets, boutonnages, pattes …etc.
+     470.3  125.8 12.0B p065_r1 | Figure II.04 : différents thermo (triplures) source Pinterest
+     578.8   76.2 12.0B p065_r1 | Viseline :
+     609.2   76.2 12.0  p065_r1 | C’est une marque de
+     629.8   58.2 12.0  p065_r1 | thermocollant allemande non tissé
+     650.6   58.2 12.0B p065_r1 | (voir figure II.05).
+     698.4  289.6 12.0B p065_r1 | Figure II. 05: thermo-viseline source Pinterest
+     804.0  292.2 10.0  p065_r1 | 64
+
+=== PDF p66 ===
+  [img] p066_r1 mixed 595x840pt @(0,0) lignes=22
+  [printed] 65   [lines] 22   [regions] 1
+      44.9  101.7 12.0B p066_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p066_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      94.5   70.8 14.0B p066_r1 | II.1.1.1 : Thermocollant
+     131.2  341.1 12.0  p066_r1 | C’est une toile tissée ou non tissée
+     151.9  332.1 12.0  p066_r1 | sur laquelle est posée une base
+     172.7  332.1 12.0  p066_r1 | collante, réagit à la chaleur de fer avec
+     193.3  332.1 12.0  p066_r1 | des épaisseurs et couleur différentes
+     214.1  332.1 12.0  p066_r1 | blanche, noire, parfois grise et suivant
+     234.8  332.1 12.0B p066_r1 | les matières (voir figure II.06).
+     265.6  341.1 12.0  p066_r1 | Plus le tissu est fin, plus il sera bien
+     286.6  332.1 12.0  p066_r1 | thermocollant.
+     307.9   81.0 11.0B p066_r1 | Entoilage : semi 01, complet 02, thermocolle 03
+     363.5   81.9 12.0B p066_r1 | Figure II.06: Thermocollant
+     365.3  243.9 10.0  p066_r1 | source Pinterest
+     431.0   70.8 14.0B p066_r1 | II.1.1.2 : L’entoilage du devant
+     476.8   93.0 12.0  p066_r1 | C’est un terme général, qui définit les
+     497.8   78.0 12.0  p066_r1 | différentes sortes de tissus ou matières, et
+     518.7   78.0 12.0  p066_r1 | renforce un morceau ou une zone d’un
+     539.7   78.0 12.0B p066_r1 | produit (voir figure II.07).
+     682.3  305.0 12.0B p066_r1 | Figure II.07 : L’entoilage du devant
+     695.7  455.0 10.0  p066_r1 | source Pinterest
+     806.9  292.4 10.0  p066_r1 | 65
+
+=== PDF p67 ===
+  [img] p067_r1 mixed 595x840pt @(0,0) lignes=20
+  [printed] 66   [lines] 20   [regions] 1
+      44.9  101.7 12.0B p067_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p067_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      88.8   70.8 16.0B p067_r1 | II.1.1.3 : Les différents thermocollants
+     142.0  289.4 12.0B p067_r1 |  Thermocollants sorte de papier
+     171.6  265.4 12.0  p067_r1 | C’est une sorte de papier plus ou moins fin à une face
+     192.4  262.4 12.0  p067_r1 | collante, garde l’aspect du tissu, ajoute un léger effet,
+     213.0  262.4 12.0  p067_r1 | on distingue trois thermocollants fin moyen et épais
+     233.8  262.4 12.0B p067_r1 | (voir figure II.08).
+     300.0   85.9 12.0B p067_r1 | Figure II.08 : thermo sorte de papier
+     301.9  286.0 10.0  p067_r1 | source Pinterest
+     348.8   96.0 12.0B p067_r1 |  Thermocollant sorte de tissu fin
+     378.4   96.0 12.0  p067_r1 | C’est une Sorte de tissu fin qui a
+     399.2   78.0 12.0  p067_r1 | Toujours une face collante, est plus mou
+     419.8   78.0 12.0  p067_r1 | que le non tissé.
+     450.8   93.1 12.0  p067_r1 | Il a l’avantage de garder la légèreté et
+     471.4   78.0 12.0  p067_r1 | le mouvement naturel du tissu, a trois
+     492.2   78.0 12.0  p067_r1 | épaisseurs, est très utile pour les
+     512.8   78.0 12.0B p067_r1 | vêtements (voir figure II.09).
+     632.1  241.6 12.0B p067_r1 | Figure II.09 : Thermo sorte de tissu fin source Pinterest
+     806.2  292.2 10.0  p067_r1 | 66
+
+=== PDF p68 ===
+  [img] p068_r1 mixed 595x840pt @(0,0) lignes=11
+  [printed] 67   [lines] 11   [regions] 1
+      44.9  101.7 12.0B p068_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p068_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+     114.2  305.5 12.0B p068_r1 |  Thermocollant de deux tissus
+     145.8  290.5 12.0  p068_r1 | Permet de coller deux tissus l’un sur
+     166.6  287.5 12.0  p068_r1 | l’autre à l’aide de la colle sur les deux
+     187.2  287.5 12.0B p068_r1 | faces (voir figure II .10).
+     259.8   81.9 12.0B p068_r1 | Figure II.10 : thermo de deux tissu source Pinterest
+     311.6   88.8 12.0B p068_r1 |  Thermocollant imperméable
+     335.9   70.8 12.0B p068_r1 | Il rend le tissu imperméable (voir figure II.11).
+     613.2  157.9 12.0B p068_r1 | Figure II.11: thermos imperméable source Pinterest
+     803.1  292.4 10.0  p068_r1 | 67
+
+=== PDF p69 ===
+  [img] p069_r1 mixed 595x840pt @(0,0) lignes=20
+  [printed] 68   [lines] 20   [regions] 1
+      44.9  101.7 12.0B p069_r1 | CHAPITRE II :
+      44.9  214.4 12.0B p069_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+     115.0  119.7 12.0B p069_r1 |  Thermocollant ouatine
+     144.7  128.5 12.0  p069_r1 | C’est mou pour ouatiner, plus
+     165.4  123.0 12.0  p069_r1 | besoins de coudre et matelasser
+     186.1  153.4 12.0B p069_r1 | (Voir figure II.12).
+     303.6  295.6 12.0B p069_r1 | FIG II.12: Thermos ouatiné source Pinterest
+     330.8   70.8 16.0B p069_r1 | II.1.1.4 : Utilisation
+     392.9  299.7 12.0  p069_r1 | Respect de quelques étapes.
+     413.7  278.7 12.0  p069_r1 | Thermocollé un carré ou un rectangle de la taille
+     434.3  278.7 12.0  p069_r1 | des pièces que vous aurez coupée, Il faut un
+     455.1  278.7 12.0  p069_r1 | morceau de tissu en coton sur votre table de
+     475.7  278.7 12.0  p069_r1 | repassage pour le protéger, puis poser votre pièce
+     496.4  278.7 12.0  p069_r1 | endroit contre la table, et poser maintenant le
+     517.1  278.7 12.0  p069_r1 | thermocollant.
+     538.0  298.9 12.0  p069_r1 | (Attention poser le fer sur elle 30 secondes
+     558.8  296.7 12.0  p069_r1 | seulement) toujours vérifier laisser refroidir
+     579.6  357.8 12.0  p069_r1 | (Voir figure II.13)
+     664.9   77.7 12.0B p069_r1 | Figure II.13: Utilisation thermos source Pinterest
+     803.2  292.2 10.0  p069_r1 | 68
+
+=== PDF p70 ===
+  [img] p070_r1 mixed 595x840pt @(0,0) lignes=14
+  [printed] 69   [lines] 14   [regions] 1
+      44.9  101.7 12.0B p070_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p070_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+     102.3   74.4 14.0B p070_r1 | II.1.2 : Les différents types d’entoilage et d’indication
+     134.0   73.9 12.0  p070_r1 | Le vêtement a besoin d’entoilage, quel que soit la qualité du tissu, le poids ou le modèle
+     165.1   95.4 12.0  p070_r1 | L’entoilage sert à :
+     196.6   88.8 12.0  p070_r1 |  Structurer et donner la forme au vêtement.
+     217.4   88.8 12.0  p070_r1 |  Éviter la déformation au porté et après le lavage.
+     237.9   88.8 12.0  p070_r1 |  Laisser le vêtement mieux adapté et plus confortable.
+     258.7   88.8 12.0  p070_r1 |  Faciliter les assemblages pendant la fabrication.
+     282.6   70.3 12.0  p070_r1 | L’entoilage thermocollant a simplifié de manière significative les procédés de fabrication.
+     303.3   70.8 12.0  p070_r1 | Notamment l’économie du temps et la réduction des coûts de production (main d’œuvre).
+     324.0   70.8 12.0B p070_r1 | Grâce à l’enduction par points, l’entoilage est fixé durablement au tissu (voir figure II.14).
+     621.3  136.9 12.0B p070_r1 | Figure II.14 : Présentation du Thermocollage -Kupffer France
+     804.1  292.2 10.0  p070_r1 | 69
+
+=== PDF p71 ===
+  [img] p071_r1 mixed 595x840pt @(0,0) lignes=16
+  [printed] 70   [lines] 16   [regions] 1
+      44.9  101.7 12.0B p071_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p071_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      96.0   70.8 14.0B p071_r1 | II.1.2.1 : composition
+     142.0   88.8 12.0  p071_r1 |  Le support de l’entoilage peut être une étoffe tissée, tricotée ou non tissée.
+     162.7   88.8 12.0  p071_r1 |  L’enduction est composée soit du nylon, du polyester, du polyamide ou encore du
+     183.6  106.8 12.0B p071_r1 | polyuréthane (voir figure II.15).
+     373.7  130.9 12.0B p071_r1 | Figure II.15 : présentation du Thermocollage -Kupffer France
+     449.6   70.8 14.0B p071_r1 | II.1.2.2 : LES ENDUCTIONS
+     489.8   70.8 12.0  p071_r1 | Les enductions sont des matières thermoplastiques dont les températures de fusion sont
+     510.4   70.8 12.0  p071_r1 | déterminées en fonction des applications et des supports utilisés.
+     531.4   70.8 12.0  p071_r1 | Les principales matières utilisées sont :
+     551.8  110.1 12.0  p071_r1 |  Les polyamides.
+     572.6  110.1 12.0  p071_r1 |  Les polyesters.
+     593.2  110.1 12.0  p071_r1 |  Les polyéthylènes.
+     613.8  110.1 12.0  p071_r1 |  Le polychlorure de vinyle (PVC).
+     804.3  292.4 10.0  p071_r1 | 70
+
+=== PDF p72 ===
+  [img] p072_r1 tab 595x840pt @(0,0) lignes=26
+  [printed] 71   [lines] 26   [regions] 1
+      44.9  101.7 12.0B p072_r1 | CHAPITRE II :
+      44.9  214.4 12.0B p072_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      86.5   78.0 14.0B p072_r1 |  types de points de colle
+     121.7  126.7 10.0B p072_r1 | Formes
+     121.7  262.4 10.0B p072_r1 | Caractéristiques
+     121.7  452.1 10.0B p072_r1 | Illustrations
+     147.9  236.4 10.0B p072_r1 | Adhérence élevée sensible à la
+     154.0  127.3 10.0B p072_r1 | Poudre
+     160.3  282.8 10.0B p072_r1 | pression
+     189.4  254.3 10.0B p072_r1 | Adhérence moyenne
+     195.6  113.8 10.0B p072_r1 | Pâte adhésive
+     201.9  252.4 10.0B p072_r1 | Sensible à la pression
+     234.5  246.1 10.0B p072_r1 | Adhérence élevée pas de
+     240.7  113.3 10.0B p072_r1 | Double points
+     247.0  260.7 10.0B p072_r1 | remontée de colle
+     281.3  269.2 10.0B p072_r1 | Pour triplure
+     287.6  102.6 10.0B p072_r1 | Enduction spéciale
+     293.8  259.0 10.0B p072_r1 | Points compressés
+     353.4  127.9 12.0B p072_r1 | Tableau II.05 : types de points de colle
+     355.3  339.4 10.0  p072_r1 | source Kupffer France
+     416.6   83.8 14.0B p072_r1 |  Nombre de MeSH
+     440.2   70.8 12.0  p072_r1 | Les entoilages présentent différentes répartitions de colle. Les MeSH indiquent la qualité de
+     459.9   70.8 12.0B p072_r1 | points de colle sur la diagonale d’1cm2.   (Voir figure II.16).
+     660.9  137.8 12.0B p072_r1 | Figure II.16 : Présentation du thermocollage
+     662.7  378.1 10.0  p072_r1 | -Kupffer France
+     807.3  292.4 10.0  p072_r1 | 71
+
+=== PDF p73 ===
+  [img] p073_r1 tab 595x840pt @(0,0) lignes=20
+  [printed] 72   [lines] 20   [regions] 1
+      44.9  101.7 12.0B p073_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p073_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      70.0   70.8 14.0B p073_r1 | II.1.2.3 : choix d’un entoilage (thermocollant)
+     114.7   70.8 12.0  p073_r1 | Le choix du thermocollage est fait en fonction de :
+     142.2   88.8 12.0  p073_r1 |  Destination du produit.
+     169.8   88.8 12.0  p073_r1 |  Composition, armure de l’étoffe.
+     197.2   88.8 12.0  p073_r1 |  Comportement de l’étoffe au pressage.
+     224.8   88.8 12.0  p073_r1 |  Conditions d’entretien souhaitées.
+     252.5   88.8 12.0  p073_r1 |  Matériel de thermocollage dont on dispose.
+     294.3   88.8 14.0B p073_r1 |   les supports
+     338.6   70.8 12.0  p073_r1 | Il existe 4 grandes catégories de supports.
+     379.9  253.7 12.0  p073_r1 | •
+     380.1  271.7 12.0  p073_r1 | La chaine et trame (tissé).
+     407.5  253.7 12.0  p073_r1 | •
+     407.7  271.7 12.0  p073_r1 | Les mailles simples
+     435.0  253.7 12.0  p073_r1 | •
+     435.2  271.7 12.0  p073_r1 | Les mailles tramées
+     462.6  253.7 12.0  p073_r1 | •
+     462.8  271.7 12.0  p073_r1 | Les non-tissés.
+     804.5   97.9 10.0  p073_r1 | 72
+
+=== PDF p74 ===
+  [img] p074_r1 mixed 594x840pt @(0,0) lignes=20
+  [printed] 73   [lines] 20   [regions] 1
+      44.9  101.7 12.0B p074_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p074_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+     118.4   70.8 14.0B p074_r1 | II.1.2.4 : EXERCICE D’APPLICATION
+     150.7  116.8 12.0B p074_r1 | EXERCICE : 01
+     184.9   70.8 12.0  p074_r1 | Complétez le vide par les mots qui conviennent :
+     219.5   70.8 12.0  p074_r1 | Chaleur, support, composé, adhésif, fixé, tissu, appliqué, pression
+     254.0   70.8 12.0B p074_r1 | Un thermocollant………………d’un………………textile, sur laquelle est………….
+     288.5   70.8 12.0B p074_r1 | Un…………………thermofusible, que peut être………………sur un autre………….
+     323.0   70.8 12.0B p074_r1 | A l’aide de la……………et de la……………….
+     357.8  101.7 12.0B p074_r1 | EXERCICE : 02
+     392.0   70.8 12.0  p074_r1 | Répondrez aux questions suivantes :
+     426.4   70.8 12.0B p074_r1 | 1- Est-ce que l’entoilage nécessite de la vapeur ?
+     461.0   80.9 12.0  p074_r1 | …………………………………………………………………………………………
+     495.4   70.8 12.0B p074_r1 | 2- Comment reconnaitre l’envers et l’endroit d’un thermocollant ?
+     530.0   80.9 12.0  p074_r1 | ………………………………………………………………………………………….
+     564.4   70.8 12.0B p074_r1 | 3- Donnez le but de l’entoilage ?
+     599.0   80.9 12.0  p074_r1 | ………………………………………………………………………………………….
+     633.3   70.8 12.0B p074_r1 | 4- Comment couper le thermocollant ?
+     668.0   65.1 12.0  p074_r1 | ………………………………………………………………………………………………
+     798.9  274.9 12.0  p074_r1 | 73
+
+=== PDF p75 ===
+  [img] p075_r1 mixed 596x842pt @(0,0) lignes=13
+  [printed] 74   [lines] 13   [regions] 1
+      82.8   72.1 12.0B p075_r1 | EXERCICE : 03
+     128.0   70.8 12.0B p075_r1 | Durée : 02 heures
+     164.6   70.8 12.0B p075_r1 | But : Exécuter le thermocollage des matières proposées.
+     200.5   70.8 12.0B p075_r1 | Matériel : Fer à repasser.
+     237.0   70.8 12.0B p075_r1 | Outil :  Echantillons des divers types de thermocollants.
+     271.7   65.1 11.0B p075_r1 | Mise en situation :
+     315.8   65.1 12.0B p075_r1 | - Choisir les thermocollants qui convient à la matière
+     343.4   65.1 12.0  p075_r1 | - Déterminer les paramètres de réglage de fer à repasser
+     371.0   65.1 12.0  p075_r1 | - Réaliser l’entoilage.
+     431.0   65.1 11.0B p075_r1 | Marche à suivre :
+     473.3   65.1 12.0  p075_r1 | Les stagiaires vont recevoir des échantillons de tissu et les échantillons de
+     514.7   65.1 12.0  p075_r1 | thermocollants pour faciliter l’entoilage.
+     808.9  291.2 11.0  p075_r1 | 74
+
+=== PDF p76 ===
+  [img] p076_r1 mixed 595x840pt @(0,0) lignes=15
+  [printed] 75   [lines] 15   [regions] 1
+      44.9  101.7 12.0B p076_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p076_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      86.0   70.8 14.0B p076_r1 | II.2 : ASSEMBLAGE PROVISOIRE DU VESTON
+     115.7   88.8 12.0  p076_r1 | Pour finir la gamme de montage définitif. Il faut d’abord exécuter l’assemblage provisoire
+     136.3   70.8 12.0  p076_r1 | du prototype pour corriger les anomalies liées au veston - aplomb – des ampleurs- d’aisance-
+     157.1   70.8 12.0  p076_r1 | des formes …etc. (voir figure II.17 et II.18)
+     177.8   97.9 12.0  p076_r1 | L’assemblage préparatoire des différents éléments essentiel du veston.
+     476.2  157.3 12.0B p076_r1 | Figure II.17-II.18 : L’essayage provisoire source Pinterest
+     553.9   70.8 14.0B p076_r1 | II.2.1 : préparation de Prototype d’après une gamme provisoire
+     593.8   73.9 12.0  p076_r1 | Les parties concernées par la construction intérieure de la veste se basent en premier
+     615.4   70.8 12.0  p076_r1 | Lieus surs :
+     637.2   85.0 12.0  p076_r1 |  Le devant
+     661.1   85.0 12.0  p076_r1 |  L’épaule
+     685.0   85.0 12.0  p076_r1 |  Tète de manche
+     807.0  291.3 10.0  p076_r1 | 75
+
+=== PDF p77 ===
+  [img] p077_r1 mixed 595x832pt @(0,0) lignes=17
+  [printed] 76   [lines] 17   [regions] 1
+      44.9  101.7 12.0B p077_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p077_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      94.1   70.8 14.0B p077_r1 | II.2.2 : Epaisseur et Rigidité des épaulettes
+     124.9   88.8 12.0  p077_r1 | En fonction du style que l’on souhaite donner à la tête de manche, on utilisera des renforts
+     145.7   70.8 12.0  p077_r1 | différents.
+     174.4   92.1 12.0  p077_r1 |  La plus commune est la coupe italienne, caractérisée par une épaule d’aspect très
+     195.4  110.1 12.0  p077_r1 | naturel suivant la ligne d’épaule du corps.
+     224.0   92.1 12.0  p077_r1 |  La coupe anglaise quant à elle, présente une pente d’épaule assez faible avec une
+     245.1  110.1 12.0  p077_r1 | manche dont le roulé est très manqué.
+     274.0   91.8 12.0  p077_r1 | Ces différentes lignes sont obtenues en modifiant l’épaisseur et la rigidité des épaulettes,
+     294.8   70.8 12.0  p077_r1 | ce qui influe sur la pente d’épaule et en utilisant des cigarettes de tête en(forçant) le tissu à
+     315.4   70.8 12.0  p077_r1 | faire un retour par-dessus l’épaule.
+     344.3   70.8 12.0  p077_r1 | Ci dessous2 vestes (voir figure II.19)
+     372.6   88.8 12.0  p077_r1 |  Gauche montée avec une ligne anglaise.
+     401.3   88.8 12.0  p077_r1 |  Droite montée avec une ligne italienne.
+     717.4   92.1 12.0B p077_r1 | Figure II.19 :  différence montage de tête de manche entre deux école source Pinterest
+     799.9  292.7 10.0  p077_r1 | 76
+
+=== PDF p78 ===
+  [img] p078_r1 mixed 595x840pt @(0,0) lignes=18
+  [printed] 77   [lines] 18   [regions] 1
+      44.9  102.0 12.0B p078_r1 | CHAPITRE II :
+      44.9  214.7 12.0B p078_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      69.9   70.8 14.0B p078_r1 | II.2.3 : le devant de la veste tailleur
+      94.0   70.8 12.0  p078_r1 | Comme Vous l’avez remarqué entre la doublure de la veste et le tissu extérieure, il y’a des
+     114.6   70.8 12.0  p078_r1 | renforts à l’intérieur. Ces renforts destinés à offrir une tombée nette, épousant parfaitement la
+     135.4   70.8 12.0  p078_r1 | silhouette mais aussi assurer dans le temps la longévité du vêtement.
+     156.2   85.8 12.0  p078_r1 | On pose un plastron sur la partie haute du devant de la veste afin d’assurer un bon
+     177.0   70.8 12.0  p078_r1 | développement de la poitrine (voir figure II.20)
+     197.9   88.9 12.0  p078_r1 | Le plastron donne une poitrine lisse et bombée ainsi que le ressort au-devant de veste.
+     458.5  166.2 12.0B p078_r1 | Figure II.20 : différence d’entoilage source Pinterest
+     508.6   70.8 14.0B p078_r1 | II.2.3.1 : Méthodes de montage du devant de la veste
+     553.3   73.8 12.0  p078_r1 | Trois méthodes différentes sont utilisées pour monter le devant de la veste a discrétion elle
+     574.0   70.8 12.0  p078_r1 | peut varier :
+     619.5   88.8 14.0B p078_r1 |  Le montage thermocollé
+     664.0   70.8 12.0  p078_r1 | Comme son nom le laisse à penser, il fait largement appel aux thermocollants, le devant de la
+     684.7   70.8 12.0  p078_r1 | veste, l’épaule, le bas de la veste est en effet recouvert d’un thermocollant posé à haute
+     705.4   70.8 12.0  p078_r1 | température de plus, l’ensemble des renforts entre les pièces et aux poches sont thermocollés.
+     804.9  292.2 10.0  p078_r1 | 77
+
+=== PDF p79 ===
+  [img] p079_r1 mixed 595x840pt @(0,0) lignes=23
+  [printed] 78   [lines] 23   [regions] 1
+      44.9  101.7 12.0B p079_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p079_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      94.4   88.8 14.0B p079_r1 |  Le montage semi-traditionnel
+     163.0  136.1 12.0  p079_r1 | Proche du montage thermocollé, il
+     183.7  115.1 12.0  p079_r1 | présente un plastron plus large qui
+     204.4  115.1 12.0  p079_r1 | vient doubler le revers du col car ce
+     225.1  115.1 12.0  p079_r1 | montage emprunte au montage du
+     245.8  115.1 12.0  p079_r1 | revers qui est piqué (voir figure II.21)
+     338.0  295.4 12.0B p079_r1 | Figure II.21 : semi traditionnel
+     339.8  465.5 10.0  p079_r1 | source Pinterest
+     401.6   88.8 14.0B p079_r1 |  Le montage traditionnel
+     422.5  218.3 12.0  p079_r1 | C’est la méthode de montage utilisée par les artisans tailleurs.
+     443.2  212.3 12.0  p079_r1 | Elle a été aussi adaptée pour les ateliers de confection.
+     464.1  212.3 12.0  p079_r1 | Le devant de la veste est totalement entoilé.
+     484.9  212.3 12.0  p079_r1 | La toile est conçue à l’épaule et vient finir au bas de la veste.
+     505.6  212.3 12.0  p079_r1 | Le revers de la veste est piqué.
+     526.5  215.4 12.0  p079_r1 | Le montage traditionnel présente une méthode d’assemblage
+     547.3  212.3 12.0  p079_r1 | des renforts d’exception.
+     568.3  215.4 12.0  p079_r1 | Ils sont en effets assembles au tissu principal par des couture.
+     589.0  212.3 12.0  p079_r1 | Plus de souplesse entre chaque pièce qui compose la veste
+     609.7  212.3 12.0  p079_r1 | (voir figure II.22)
+     692.5   82.2 12.0B p079_r1 | Figure II.22 :  traditionnel source Pinterest
+     803.0  292.4 10.0  p079_r1 | 78
+
+=== PDF p80 ===
+  [img] p080_r1 mixed 595x835pt @(0,0) lignes=21
+  [printed] 79   [lines] 21   [regions] 1
+      44.9  101.7 12.0B p080_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p080_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      90.5   73.9 12.0  p080_r1 | Le montage traditionnel offre un confort bien supérieur et une tenue dans le temps hors du
+     111.2   70.8 12.0  p080_r1 | commun, car le thermocollant pendant sa rigidité avec le temps a tendance à se désolidariser
+     132.0   70.8 12.0  p080_r1 | par endroit du tissu créant des petites bulles sur le devant de veste.
+     152.8   70.8 12.0  p080_r1 | Malgré que l’industrie du prêt à porter ait permise des avancées spectaculaires dans la qualité
+     173.5   70.8 12.0  p080_r1 | des montages thermocollés, il n’en reste pas moins que les thermocollants dénaturent la
+     194.3   70.8 12.0  p080_r1 | touche du tissu. Les thermocollants sont en matière synthétique modifiant les qualités
+     214.9   70.8 12.0  p080_r1 | Thermorégulatrices de la laine.
+     235.8   70.8 12.0  p080_r1 | A partir d’un certain niveau de noblesse des étoffes, il est recommandé d’opter pour une
+     256.6   70.8 12.0  p080_r1 | fabrication rationnelle.
+     301.9   70.8 14.0B p080_r1 | II-2-4 : Exécution de la gamme provisoire.
+     375.9  102.6 12.0B p080_r1 |  Placement du patron
+     407.5   84.6 12.0  p080_r1 | Placement des pièces de patron sur
+     428.3   84.6 12.0  p080_r1 | le tissu (voir figure II.23)
+     488.6  266.2 12.0B p080_r1 | Figure II.23 : placement du patron source Pinterest
+     556.8  323.5 12.0B p080_r1 |  Traçage du patron
+     588.3  305.5 12.0  p080_r1 | Tracé le patron sur le tissu sans oublier le
+     609.1  305.5 12.0  p080_r1 | droit fil, et les crans (voir figure II.24)
+     650.2   81.0 12.0B p080_r1 | Figure II.24 : Traçage du patron source Pinterest
+     803.0  292.2 10.0  p080_r1 | 79
+
+=== PDF p81 ===
+  [img] p081_r1 mixed 595x840pt @(0,0) lignes=22
+  [printed] 80   [lines] 22   [regions] 1
+      44.9  101.7 12.0B p081_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p081_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      96.8   83.4 12.0B p081_r1 |  Points bouclettes
+     128.4   83.4 12.0  p081_r1 | On marque toute les ligne
+     149.0   83.4 12.0  p081_r1 | horizontal ou vertical avec un
+     169.8   83.4 12.0  p081_r1 | point bouclettes pour garder
+     190.4   83.4 12.0  p081_r1 | les lignes de construction
+     211.2   83.4 12.0  p081_r1 | (voir figure II.25)
+     236.0  263.0 12.0B p081_r1 | Figure II.25 : points bouclettes source Pinterest
+     308.6  302.8 12.0B p081_r1 |  Thermocollage des pièces de la veste
+     340.1  284.8 12.0  p081_r1 | Thermocollage des pièces qui conviennent
+     360.9  284.8 12.0  p081_r1 | le dos, le devant, le petit côté, la manche
+     381.8  284.8 12.0  p081_r1 | remplis. Et renfort d’épaule et
+     402.5  284.8 12.0  p081_r1 | d’emmanchure (voir figure II.26)
+     445.5   73.8 12.0B p081_r1 | Figure II.26 : thermocollé des pièces source Pinterest
+     558.6   77.1 12.0B p081_r1 |  Assemblage des pièces de la veste
+     590.2   88.2 12.0  p081_r1 | Assemblage des différentes pièces
+     610.9   88.2 12.0  p081_r1 | du veston en tenant compte des
+     631.6   88.2 12.0  p081_r1 | valeurs de couture de Crans et
+     652.3   88.2 12.0  p081_r1 | Remplis (voir figure II.27)
+     718.5  255.4 12.0B p081_r1 | Figure II.27 : assemblage des pièces source Pinterest
+     807.8  292.2 10.0  p081_r1 | 80
+
+=== PDF p82 ===
+  [img] p082_r1 mixed 595x840pt @(0,0) lignes=21
+  [printed] 81   [lines] 21   [regions] 1
+      44.9  101.7 12.0B p082_r1 | CHAPITRE II :
+      44.9  214.4 12.0B p082_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      89.5  345.7 12.0B p082_r1 |  Point chevron revers du col
+     121.1  345.7 12.0  p082_r1 | A l’aide du point de chevron,
+     141.8  345.7 12.0  p082_r1 | bâtir le revers du col de la veste
+     162.5  345.7 12.0  p082_r1 | a la main avec une aiguille
+     183.2  345.7 12.0  p082_r1 | (voir figure II.28)
+     235.9  106.2 11.0B p082_r1 | Figure II.28 : points chevron (revers) source Pinterest
+     311.0  118.9 12.0B p082_r1 |  Premier Aspect du veston
+     342.6  100.9 12.0  p082_r1 | Montage du devant et du dos du veston
+     363.3  100.9 12.0  p082_r1 | et premier essayage sur le mannequin.
+     384.0  100.9 12.0  p082_r1 | Pour voir l’aspect général, boutonnage,
+     404.7  100.9 12.0  p082_r1 | revers, et l’emplacement des poches
+     425.5  100.9 12.0  p082_r1 | (voir figure II.29).
+     474.2  261.6 12.0B p082_r1 | Figure II.29: premier aspect (veston) source Pinterest
+     522.5  326.2 12.0B p082_r1 |  Emplacement du col tailleur
+     554.1  326.2 12.0  p082_r1 | L’emplacement du col sur le veston en
+     574.9  326.2 12.0  p082_r1 | respectant : le revers, crans, longueur
+     595.5  326.2 12.0  p082_r1 | du col (voir figure II.30)
+     682.9   83.1 12.0B p082_r1 | Figure II.30 : endroit (col) source Pinterest
+     809.2  292.4 10.0  p082_r1 | 81
+
+=== PDF p83 ===
+  [img] p083_r1 mixed 595x840pt @(0,0) lignes=21
+  [printed] 82   [lines] 21   [regions] 1
+      44.9  101.7 12.0B p083_r1 | CHAPITRE II :
+      44.9  214.4 12.0B p083_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+     103.8   96.0 12.0B p083_r1 |  Rembourrage de l’épaulette
+     135.4   96.0 12.0  p083_r1 | Rembourrage de l’épaulette en
+     156.1   96.0 12.0  p083_r1 | respectant la carrure dos, milieu de la
+     176.8   96.0 12.0B p083_r1 | ligne d’épaule (voir figure II.31).
+     239.6  251.2 12.0B p083_r1 | Figure II.31 : rembourrage l’épaulette source Pinterest
+     310.3  329.0 12.0B p083_r1 |  Emplacement de la cigarette
+     341.9  329.0 12.0  p083_r1 | L’emplacement de la cigarette dans
+     362.6  329.0 12.0  p083_r1 | la couture de tété de la manche
+     383.3  329.0 12.0B p083_r1 | (voir figure II.32).
+     458.6   80.4 12.0B p083_r1 | Figure II.32 : coudre cigarette manche source Pinterest
+     561.5   91.2 12.0B p083_r1 |  Montage de la manche tailleur
+     593.1   91.2 12.0  p083_r1 | Montage d’une seule manche du
+     613.9   91.2 12.0  p083_r1 | veston deuxième essayage sur le
+     634.5   91.2 12.0  p083_r1 | mannequin. Ou mannequin
+     655.2   91.2 12.0  p083_r1 | vivante. Pour voir l’aspect général,
+     675.9   91.2 12.0  p083_r1 | manche, revers, l’emplacement des
+     696.6   91.2 12.0B p083_r1 | poches (voir figure II.33).
+     712.8  282.6 12.0B p083_r1 | Figure II.33: montage (manche) source Pinterest
+     805.3  292.2 10.0  p083_r1 | 82
+
+=== PDF p84 ===
+  [img] p084_r1 mixed 595x840pt @(0,0) lignes=17
+  [printed] 83   [lines] 17   [regions] 1
+      44.9  101.7 12.0B p084_r1 | CHAPITRE II :
+      44.9  214.4 12.0B p084_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+     155.5  329.7 12.0B p084_r1 |  Feutrine du col
+     187.1  329.7 12.0  p084_r1 | Concorde né feutrine du col
+     207.8  329.7 12.0  p084_r1 | points zig-zag
+     228.6  329.7 12.0B p084_r1 | (Voir figure II.34).
+     271.4   78.0 12.0B p084_r1 | Figure II.34: feutrine (col) source Pinterest
+     386.6   67.0 12.0B p084_r1 | Montage du col tailleur
+     416.8   80.8 12.0  p084_r1 | Montage du col avec revers en
+     437.6   80.8 12.0  p084_r1 | respectant le cran de placement avec
+     494.1  300.6 12.0B p084_r1 | Figure II.35: montage (Col) source Pinterest
+     580.2  351.5 12.0B p084_r1 |  Aspect final de la veste tailleur
+     611.8  351.5 12.0  p084_r1 | L’aspect provisoire final du
+     632.6  351.5 12.0  p084_r1 | veston pour voir les défauts a
+     653.2  351.5 12.0B p084_r1 | corrigée (voir figure. II.36).
+     728.1  105.4 12.0B p084_r1 | Figure II.36: l’ aspect final source Pinterest
+     808.9  292.2 10.0  p084_r1 | 83
+
+=== PDF p85 ===
+  [img] p085_r1 mixed 595x840pt @(0,0) lignes=8
+  [printed] 84   [lines] 8   [regions] 1
+      44.9  101.7 12.0B p085_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p085_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      94.8   74.8 16.0B p085_r1 | II.2.2 :
+      95.0  141.6 16.0B p085_r1 | Vérification de l’aspect du veston
+     131.2   70.8 12.0  p085_r1 | Cet essayage permet d’effectuer les dernières retouches, il est indispensable dans le cas où
+     151.8   70.8 12.0B p085_r1 | nous trouvons des défauts suivants (voir tableau II.6).
+     745.5  141.4 12.0B p085_r1 | Tableau II.6 : divers défauts du veston source Pinterest
+     804.5  292.4 10.0  p085_r1 | 84
+
+=== PDF p86 ===
+  [img] p086_r1 tab 595x840pt @(0,0) lignes=16
+  [printed] 85   [lines] 16   [regions] 1
+      44.9  101.7 12.0B p086_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p086_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+     102.3   70.8 14.0B p086_r1 | II.2.3 : Divers défauts du veston
+     193.8  363.7 12.0  p086_r1 | Epaulette trop serrée,
+     214.6  363.7 12.0  p086_r1 | épaulette très grande
+     235.2  363.7 12.0B p086_r1 | (voir figure II.38).
+     323.3   96.0 12.0B p086_r1 | Figure II.38 : défauts d’épaulette
+     325.1  276.8 10.0  p086_r1 | source Pinterest
+     432.8   78.0 12.0  p086_r1 | Devant large, devant serrée
+     447.5   78.0 12.0B p086_r1 | (Voir figure II.39).
+     554.7  282.6 12.0B p086_r1 | Figure II.39 : défauts devant
+     556.5  443.7 10.0  p086_r1 | source Pinterest
+     621.6  326.1 12.0  p086_r1 | Profondeur d’emmanchure
+     642.2  326.1 12.0B p086_r1 | (voir figure II.40).
+     751.2   80.4 12.0B p086_r1 | Figure II.40 : défauts manche source Pinterest
+     808.0  292.2 10.0  p086_r1 | 85
+
+=== PDF p87 ===
+  [img] p087_r1 tab 593x840pt @(0,2) lignes=12
+  [printed] 86   [lines] 12   [regions] 1
+      44.9  101.7 12.0B p087_r1 | CHAPITRE II :
+      44.9  214.4 12.0B p087_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+     164.5  327.5 12.0  p087_r1 | Défauts de la longueur de la
+     185.3  327.5 12.0  p087_r1 | manche par rapport à la
+     205.9  327.5 12.0  p087_r1 | longueur de la taille
+     226.8  327.5 12.0  p087_r1 | (Voir figure II.41)
+     353.9   81.6 12.0B p087_r1 | Figure II.41 : défauts longueur manche source Pinterest
+     423.9   96.0 12.0  p087_r1 | Défauts de fermeture
+     444.7   96.0 12.0  p087_r1 | boutonnage
+     465.4   96.0 12.0B p087_r1 | (Voir figure II.42).
+     596.8  282.6 12.0B p087_r1 | Figure II.42 : défauts bouton source Pinterest
+     808.8  292.2 10.0  p087_r1 | 86
+
+=== PDF p88 ===
+  [img] p088_r1 tab 596x842pt @(0,0) lignes=20
+  [printed] 87   [lines] 20   [regions] 1
+      44.9  101.7 12.0B p088_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p088_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+     295.4   73.2 12.0  p088_r1 | Style du défauts de
+     316.0   73.2 12.0  p088_r1 | la largeur du revers
+     336.8   73.2 12.0  p088_r1 | relié avec défauts de la
+     357.4   73.2 12.0  p088_r1 | largeur de la cravate
+     378.2   73.2 12.0  p088_r1 | (voir figure II.43)
+     569.0  255.2 12.0B p088_r1 | Figure II.43 : défauts style
+     570.8  401.8 10.0  p088_r1 | source Pinterest
+     594.4   70.8 14.0B p088_r1 | II.2.4 : EXERCICE D’APPLICATION
+     624.7  158.8 14.0B p088_r1 | EXERCICE : 01
+     658.4   70.8 12.0  p088_r1 | Complétez les définitions suivantes par les mots qui convient :
+     674.2   70.8 12.0  p088_r1 | Presse finale, pré-expédition, fabrication, élaboration.
+     705.8   70.8 12.0B p088_r1 | 1-La gamme de montage c’est une suite d’opérations aboutissant à l’…………produit.
+     721.6   70.8 12.0B p088_r1 | 2-La gamme de montage concerne l’atelier de ………………….
+     737.3   70.8 12.0B p088_r1 | 3- La gamme de pressage concerne l’atelier d’……………… (Notamment en confection
+     753.5   70.8 12.0  p088_r1 | masculine.
+     769.1   70.8 12.0  p088_r1 | 4- La gamme d’empaquetage qui concerne l’atelier de ……………… (Étiquetage, pliage,
+     785.1   70.8 12.0  p088_r1 | emballage).
+     808.1  291.4 11.0  p088_r1 | 87
+
+=== PDF p89 ===
+  [img] p089_r1 mixed 595x840pt @(0,0) lignes=20
+  [printed] 88   [lines] 20   [regions] 1
+      54.6   97.7 12.0B p089_r1 | CHAPITRE II :
+      54.6  210.4 12.0B p089_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+     110.0  116.4 12.0B p089_r1 | EXERCICE : 02
+     181.0   83.1 12.0  p089_r1 |  Quelle est la longueur parfaite
+     202.8  101.1 12.0  p089_r1 | 01 ;02 ;03 ; et correcte du bas de la
+     223.2  101.1 12.0  p089_r1 | manche tailleur justifier votre
+     243.6  101.1 12.0  p089_r1 | réponse.
+     287.0   65.1 12.0  p089_r1 | L’ouverture de revers se positionne par rapport à quoi ?
+     294.2  392.7 11.0  p089_r1 | N :01     N : 02      N : 03
+     385.9  332.1 12.0  p089_r1 |  Justifiez chaque réponse
+     402.4  350.1 12.0  p089_r1 | correctement ?
+     530.3   98.8 12.0  p089_r1 |  Indiquez la veste la
+     546.8  116.8 12.0  p089_r1 | plus parfaite par
+     561.8  116.8 12.0  p089_r1 | rapport aux 5 veste ?
+     620.4  286.2 11.0  p089_r1 | V 01           V02            V 03         V 04        V 05
+     671.2  306.6 12.0  p089_r1 |  Où est la veste la plus élégante par
+     687.3  324.7 12.0  p089_r1 | rapport aux 3 vestes dans cette
+     702.1  324.7 12.0  p089_r1 | période ?
+     760.8   81.5 11.0  p089_r1 | V 01                    V 02                  V 03
+     804.2  275.3 10.0  p089_r1 | 88
+
+=== PDF p90 ===
+  [img] p090_r1 mixed 595x840pt @(0,1) lignes=29
+  [printed] 89   [lines] 29   [regions] 1
+      44.9   97.7 12.0B p090_r1 | CHAPITRE II :
+      44.9  210.4 12.0B p090_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      94.1   70.8 14.0B p090_r1 | II.3 : DETERMINATION DES CORRECTIONS DU VESTON
+     128.4   85.9 12.0  p090_r1 | Il est préférable d’interpréter le modèle avec les réserves nécessaires pour cliche de
+     149.2   70.8 12.0  p090_r1 | placement pour fabrication.
+     170.0   85.9 12.0  p090_r1 | Les traces de la veste comportent toutes les coutures exception faite pour le milieu du
+     190.8   70.8 12.0  p090_r1 | dos, l’encolure du dos et du devant, les bords du devant, remplis en bas.
+     211.8   85.8 12.0  p090_r1 | Pour notre prototype il convient d’ajouter 0.8cm ou milieu du dos à l’encolure du dos et du
+     232.4   70.8 12.0  p090_r1 | devant, aux bords du devant et du revers, dans le bas de la veste.
+     253.5   85.9 12.0  p090_r1 | Il convient de laisser 4 à 5 cm pour remplis.
+     274.3   70.8 14.0B p090_r1 | II.3.1 : conformité du produit dans la construction du patron
+     306.4   85.8 12.0  p090_r1 | Chaque Procédure de la correction dans la construction est présente en ligne interrompue
+     327.2   70.8 12.0  p090_r1 | dans le patron.
+     348.2   70.8 14.0B p090_r1 | II.3.1.1 : le dos de la veste tailleur
+     399.7  279.2 12.0  p090_r1 | La hauteur de l’ouverture dans le milieu du dos
+     420.5  279.2 12.0  p090_r1 | peut varier selon :
+     441.4  317.5 12.0  p090_r1 | -
+     441.5  335.5 12.0  p090_r1 | Le critère de la clientèle.
+     461.6  317.5 12.0  p090_r1 | -
+     461.8  335.5 12.0  p090_r1 | Le critère de la mode.
+     482.0  317.5 12.0  p090_r1 | -
+     482.2  335.5 12.0  p090_r1 | Le critère de morphologie de la
+     501.7  335.5 12.0  p090_r1 | personne.
+     532.6  315.2 12.0  p090_r1 | Pour notre tracé
+     553.4  318.3 12.0  p090_r1 | La hauteur est égale à 25cm et la largeur
+     584.1  315.2 12.0B p090_r1 | Égale à 4 cm (voir figure II.44).
+     716.6  131.3 10.0B p090_r1 | Figure II.44 : dos de la veste
+     728.0  175.9 10.0B p090_r1 | tailleur
+     807.1  271.9 10.0B p090_r1 | 89
+
+=== PDF p91 ===
+  [img] p091_r1 mixed 595x840pt @(0,0) lignes=29
+  [printed] 90   [lines] 29   [regions] 1
+      44.9  101.7 12.0B p091_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p091_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      70.0   70.8 14.0B p091_r1 | II.3.1.2 : Le devant et le petit côté de la veste tailleur
+     122.0  383.1 12.0  p091_r1 | Positionner les boutonnières.
+     152.8  383.1 12.0  p091_r1 | Chaque boutonnière doit
+     173.5  383.1 12.0  p091_r1 | être éloignée entre elle de 10
+     194.3  383.1 12.0  p091_r1 | cm.
+     225.1  383.1 12.0  p091_r1 | Celle du milieu est située à
+     245.9  383.1 12.0  p091_r1 | la ligne de taille si la veste
+     266.7  383.1 12.0  p091_r1 | de trois boutons.
+     297.5  383.1 12.0  p091_r1 | La poche poitrine sa largeur
+     318.3  383.1 12.0  p091_r1 | de 10 cm et sa hauteur de 2.5
+     339.0  383.1 12.0  p091_r1 | cm. (voir figure II.45).
+     369.8  383.1 12.0  p091_r1 | Poche du côté avec rabat est
+     390.5  383.1 12.0  p091_r1 | positionnée dans la place
+     411.2  383.1 12.0  p091_r1 | d’ouverture de la pince sa
+     431.9  383.1 12.0  p091_r1 | largeur15 cm du rabat 5 cm
+     439.0  100.1 10.0B p091_r1 | Figure II. 45 : positionner des Boutonnières
+     483.0   70.8 14.0B p091_r1 | II.3.1.3 : positionnement des poches
+     533.0  128.7 12.0  p091_r1 | Positionnement des poches.
+     558.8  128.7 12.0  p091_r1 | La poche poitrine sa largeur est de
+     579.6  128.7 12.0  p091_r1 | 12 cm et sa profendeur12 a13 cm.
+     610.4  128.7 12.0  p091_r1 | Poche plaque est positionnée de 5 a7
+     631.2  128.7 12.0  p091_r1 | cm au-dessous de la ligne de taille sa
+     651.8  128.7 12.0  p091_r1 | largeur 17 a18 cm et sa profondeur
+     672.6  128.7 12.0  p091_r1 | 20 à 21 cm
+     693.3  128.7 12.0B p091_r1 | (Voir figure II.46).
+     748.6  333.9 11.0B p091_r1 | Figure II.46: positionnement des poches
+     805.0  292.4 10.0  p091_r1 | 90
+
+=== PDF p92 ===
+  [img] p092_r1 mixed 595x840pt @(0,0) lignes=27
+  [printed] 91   [lines] 27   [regions] 1
+      44.9  101.7 12.0B p092_r1 | CHAPITRE II :
+      44.9  214.4 12.0B p092_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      94.5   79.8 14.0B p092_r1 | II.3.1.4 :la manche tailleur
+     143.2  331.3 12.0  p092_r1 | La manche de la veste droite.
+     173.9  331.3 12.0  p092_r1 | Il suffira seulement d’ajouter des
+     194.6  331.3 12.0  p092_r1 | rélargies pour ouverture de la manche
+     215.3  331.3 12.0  p092_r1 | dans la couture de coude et les
+     236.1  331.3 12.0  p092_r1 | remplis.
+     266.9  331.3 12.0  p092_r1 | . La longueur de l’ouverture est 10 cm
+     287.7  331.3 12.0  p092_r1 | et la largeur – 3 cm.
+     318.4  331.3 12.0  p092_r1 | Procéder de la même manière pour le
+     339.2  331.3 12.0  p092_r1 | dessus et le dessous de manche
+     360.0  331.3 12.0B p092_r1 | (Voir figure II.47).
+     410.6   91.8 12.0B p092_r1 | Figure II.47 : Manche tailleur
+     464.5   69.1 14.0B p092_r1 | II.3.1.5 : La parementure du devant
+     503.2  118.6 12.0  p092_r1 | La parementure de ce modèle portant
+     524.0  118.6 12.0  p092_r1 | le devant de la veste comme support.
+     554.8  118.6 12.0  p092_r1 | IL est préférable de tracer la
+     575.6  118.6 12.0  p092_r1 | parmenture sur le patron industriel
+     596.4  118.6 12.0  p092_r1 | avec les réserves et les crans.
+     627.1  118.6 12.0  p092_r1 | Laisser autour des réserves et du bas
+     647.8  118.6 12.0  p092_r1 | devant une valeur de développement
+     668.6  118.6 12.0  p092_r1 | de la parmenture variant de0.2 a0.5
+     689.2  118.6 12.0  p092_r1 | cm suivant l’épaisseur du tissu
+     710.1  118.6 12.0B p092_r1 | (Voir figure 48).
+     756.4  355.1 10.0B p092_r1 | Figure II.48 : parementure du devant
+     803.9  292.2 10.0  p092_r1 | 91
+
+=== PDF p93 ===
+  [img] p093_r1 mixed 595x840pt @(0,0) lignes=11
+  [printed] 92   [lines] 11   [regions] 1
+      44.9  101.7 12.0B p093_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p093_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      94.5   70.8 14.0B p093_r1 | II.3.1.6 : La doublure de la veste tailleur
+     126.4   70.8 12.0  p093_r1 | La doublure se trace en prenant, le dos, le devant et le petit côté comme support.
+     147.1   70.8 12.0  p093_r1 | Il est préférable de tracer la doublure sur les patrons avec les réserves et les crans.
+     167.8   70.8 12.0  p093_r1 | Le traçage de la doublure est présenté avec la ligne interrompue
+     188.8   95.9 12.0  p093_r1 | La position de la poche intérieure et de la poche ticket de la doublure sont située à
+     209.4   95.9 12.0B p093_r1 | l’endroit indiqué (voir figure II.49).
+     536.3   70.8 14.0B p093_r1 | II.3.1.6.1 : La doublFureIG48de: dlaoumbluanchere dos, devant, petit coté
+     754.9  163.6 12.0B p093_r1 | Figure II.49 : doublure de la veste tailleur
+     804.3  292.4 10.0  p093_r1 | 92
+
+=== PDF p94 ===
+  [img] p094_r1 mixed 595x840pt @(0,0) lignes=5
+  [printed] 93   [lines] 5   [regions] 1
+      44.9  101.7 12.0B p094_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p094_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      85.8   88.8 12.0B p094_r1 |  Doublure de la manche tailleur
+     567.6  128.4 12.0B p094_r1 | Figure II.50 : Doublure de la manche tailleur
+     803.6  292.2 10.0  p094_r1 | 93
+
+=== PDF p95 ===
+  [img] p095_r1 mixed 595x840pt @(0,0) lignes=5
+  [printed] 94   [lines] 5   [regions] 1
+      44.9  101.7 12.0B p095_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p095_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      69.4   88.8 12.0  p095_r1 |  Les éléments thermocollants du devant, dos, petit cote (voir figure II.51).
+     641.5  172.3 11.0B p095_r1 | Figure II.51 : thermocollant dos, devant, petit coté
+     804.0  292.4 10.0  p095_r1 | 94
+
+=== PDF p96 ===
+  [img] p096_r1 mixed 595x840pt @(0,0) lignes=5
+  [printed] 95   [lines] 5   [regions] 1
+      44.9  101.7 12.0B p096_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p096_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      86.5   88.8 14.0B p096_r1 |  thermocollé de la manche tailleur
+     657.2  170.4 12.0B p096_r1 | Figure II.52 : thermocollé de la manche tailleur
+     803.9  292.4 10.0  p096_r1 | 95
+
+=== PDF p97 ===
+  [img] p097_r1 mixed 595x840pt @(0,0) lignes=5
+  [printed] 96   [lines] 5   [regions] 1
+      44.9  101.7 12.0B p097_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p097_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      70.2   88.8 14.0B p097_r1 |  renforts de thermocollée du devant (emmanchure, épaule)
+     692.5  187.9 11.0B p097_r1 | Figure II.53 : renfort d’épaule, d’emmanchure
+     803.9  292.4 10.0  p097_r1 | 96
+
+=== PDF p98 ===
+  [img] p098_r1 mixed 595x840pt @(0,0) lignes=23
+  [printed] 97   [lines] 23   [regions] 1
+      44.9  101.7 12.0B p098_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p098_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      70.0   70.8 14.0B p098_r1 | II.3.2 : Les corrections apportées sur le prototype dans la confection
+     106.4   70.8 12.0  p098_r1 | On a confectionné le prototype d’après une gamme de montage provisoire.
+     127.0   52.8 12.0  p098_r1 |  Essayer l’article.
+     147.7   52.8 12.0  p098_r1 |  Présenter le veston sur le mannequin.
+     168.4   52.8 12.0  p098_r1 |  Analyser l’aplomb, le volume, les proportions.
+     213.6   70.8 14.0B p098_r1 | II.3.2.1 : Plis horizontal
+     298.5  275.3 12.0  p098_r1 | Plis horizontaux dans l’emmanchure du dos
+     312.5  359.4 12.0  p098_r1 | La cause 
+     337.8  303.6 12.0  p098_r1 | Le dos est étroit dans la ligne de sous- bras
+     354.0  325.0 12.0B p098_r1 | (vit figure II.54).
+     449.1   89.8 11.0B p098_r1 | Figure II.54 : Plis horizontal emmanchure dos
+     514.0  104.5 12.0  p098_r1 |  Pli horizontal dans la partie du dos au-
+     530.0  122.5 12.0  p098_r1 | dessous du col
+     554.8   86.5 12.0  p098_r1 | La cause
+     568.9  118.7 12.0  p098_r1 | La position du début de la ligne
+     589.5  118.7 12.0  p098_r1 | d’épaule est déplacée.
+     620.4  118.7 12.0  p098_r1 | La partie du dos au-dessous de la ligne
+     641.1  118.7 12.0  p098_r1 | du Sous- bras est plus longue que le
+     661.9  118.7 12.0B p098_r1 | nécessaire (voir figure II.55).
+     710.1  280.6 12.0B p098_r1 | Figure II.55 : Pli horizontal du dos au-dessous du col
+     808.8  292.4 10.0  p098_r1 | 97
+
+=== PDF p99 ===
+  [img] p099_r1 mixed 595x840pt @(0,0) lignes=24
+  [printed] 98   [lines] 24   [regions] 1
+      44.9  101.7 12.0B p099_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p099_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      73.3  306.5 12.0  p099_r1 |  Pli horizontal dans la partie du dos
+      94.8  324.5 12.0  p099_r1 | au-dessous de la ligne de sous -bras
+     125.6  273.8 12.0  p099_r1 | La cause
+     146.4  302.7 12.0  p099_r1 | Le dos est très long.
+     177.0  302.7 12.0  p099_r1 | La ligne d’épaule est très inclinée
+     197.8  302.7 12.0  p099_r1 | (voir figure II.56)
+     240.7   93.4 11.0B p099_r1 | Figure II.56 : Pli horizontal du dos au-dessous de la ligne sous bras
+     307.3  114.6 12.0  p099_r1 |  Pli horizontal dans la manche
+     334.5   78.6 12.0  p099_r1 | La cause
+     348.5  116.8 12.0  p099_r1 | La profondeur d’emmanchure de la
+     369.2  116.8 12.0  p099_r1 | manche et la longueur de l’arc de tété
+     389.9  116.8 12.0  p099_r1 | de la manche sont extravagant
+     410.7  116.8 12.0  p099_r1 | (Voir figure II.57)
+     471.0   70.8 14.0B p099_r1 | II.3.2.2 : Plis vertical
+     484.5  299.2 11.0B p099_r1 | Figure II.57 : Pli horizontal dans la manche
+     546.3  303.5 12.0  p099_r1 | Pli vertical dans le dos
+     576.9  288.8 12.0  p099_r1 | La cause
+     597.5  303.5 12.0  p099_r1 |  La longueur du dos est plus grande.
+     628.4  303.5 12.0  p099_r1 |  La longueur du dos n’est pas
+     646.3   90.4 11.0B p099_r1 | Figure II.58 : Plis vertical
+     649.2  321.5 12.0  p099_r1 | suffisante (voir figure II.58)
+     803.7  292.2 10.0  p099_r1 | 98
+
+=== PDF p100 ===
+  [img] p100_r1 tab 595x841pt @(0,0) lignes=16
+  [printed] 86   [lines] 16   [regions] 1
+      44.9  101.7 12.0B p100_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p100_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+     144.9  346.6 12.0  p100_r1 |  Pli vertical dans le devant
+     176.9  328.6 12.0  p100_r1 | La cause
+     197.6  364.6 12.0  p100_r1 | Largeur inutile du devant
+     218.4  364.6 12.0  p100_r1 | (voir figure II.59)
+     330.8   81.0 11.0B p100_r1 | Figure II.59 : Plis vertical dans le devant
+     395.4   70.8 14.0B p100_r1 | II.3.2.3 : plis inclinés
+     436.6   96.0 12.0  p100_r1 |  Plis inclinés dans l’emmanche du dos
+     467.2   78.0 12.0  p100_r1 | La cause 
+     488.9  114.0 12.0  p100_r1 | La ponte d’épaule est petite.
+     519.5  114.0 12.0  p100_r1 | La position d’épaule n’est pas correcte
+     540.3  114.0 12.0B p100_r1 | (voir figure II.60).
+     646.1  255.5 11.0B p100_r1 | Figure II.60 : Plis inclinées dans l’emmanche du dos
+     806.0  292.4 10.0  p100_r1 | 86
+     808.1  300.4 11.0  p100_r1 | 99
+
+=== PDF p101 ===
+  [img] p101_r1 mixed 595x840pt @(0,0) lignes=15
+  [printed] 100   [lines] 15   [regions] 1
+      44.9  101.7 12.0B p101_r1 | CHAPITRE II :
+      44.9  214.4 12.0B p101_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+     104.5  284.2 12.0  p101_r1 | Plis inclinés dans la couture cotée de dos
+     135.2  290.5 12.0  p101_r1 | La cause
+     156.0  284.2 12.0  p101_r1 | Longueur excessive dans la partie de la couture
+     176.6  284.2 12.0  p101_r1 | coté du dos et du petit côté
+     197.4  281.7 12.0B p101_r1 | (Voir figure II.61).
+     422.3   81.0 12.0B p101_r1 | Figure II.61 : Plis inclinées (couture cotée devant)
+     508.9   96.0 12.0  p101_r1 |  Plis inclinés dans l’épaule du devant :
+     540.9   78.0 12.0  p101_r1 | La cause
+     561.8  114.0 12.0  p101_r1 | Longueur insuffisante dans l’épaule et
+     582.4  114.0 12.0  p101_r1 | l’encolure du devant
+     613.4  114.0 12.0  p101_r1 | (Voir figure II.62)
+     681.8  285.6 12.0B p101_r1 | Figure II.62 : Plis inclinées (épaule devant)
+     802.9  289.6 10.0  p101_r1 | 100
+
+=== PDF p102 ===
+  [img] p102_r1 mixed 595x840pt @(0,0) lignes=22
+  [printed] 101   [lines] 22   [regions] 1
+      44.9  101.7 12.0B p102_r1 | CHAPITRE II :
+      44.9  214.4 12.0B p102_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      91.8  285.0 12.0  p102_r1 |  Plis inclinés dans l’emmanchure du devant
+     123.7  270.3 12.0  p102_r1 | La cause
+     144.6  306.4 12.0  p102_r1 | Profondeur d’emmanche insuffisante
+     165.2  306.4 12.0  p102_r1 | (voir figure II.63)
+     251.7   58.8 12.0B p102_r1 | Figure II.63 : Plis inclinées (l’emmanchure devant)
+     295.0  118.2 12.0  p102_r1 | Plis inclinés du devant vers le milieu
+     295.7  100.2  9.9  p102_r1 | 
+     325.7   82.2 12.0  p102_r1 | La cause
+     346.5  118.2 12.0  p102_r1 | Largueur insuffisante dans la partie entre
+     367.1  118.2 12.0  p102_r1 | la ligne de sous -bras et la ligne du bassin.
+     398.0  118.2 12.0  p102_r1 | Déplacement de la ligne d’épaule
+     429.2  118.2 12.0B p102_r1 | (voir figure II.64).
+     493.9  335.5 11.0B p102_r1 | Figure II.64 : Plis inclinées du devant
+     556.2  310.6 12.0  p102_r1 |  Plis inclinés dans la tête de la manche
+     588.2  296.0 12.0  p102_r1 | La cause
+     609.0  328.6 12.0  p102_r1 | Largeur débridée dans la tête de la
+     629.7  328.6 12.0  p102_r1 | manche
+     660.6  310.6 12.0  p102_r1 | (Voir figure II.65)
+     737.8   81.0 11.0B p102_r1 | Figure II.65 : Plis inclinées inclinés dans la tête de la manche
+     803.9  289.7 10.0  p102_r1 | 101
+
+=== PDF p103 ===
+  [img] p103_r1 mixed 595x827pt @(0,0) lignes=24
+  [printed] 102   [lines] 24   [regions] 1
+      44.9  101.7 12.0B p103_r1 | CHAPITRE II :
+      44.9  214.4 12.0B p103_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      86.3   70.8 14.0B p103_r1 | II.3.2.4 : Défauts dans l’équilibre entre le dos et le devant de la veste tailleur
+     117.0  275.7 12.0  p103_r1 | Cette correction est la plus difficile de
+     137.8  275.7 12.0  p103_r1 | préciser et de supprimer.
+     158.2  293.7 12.0  p103_r1 |  Longueur de dos insuffisante dans la
+     165.9   70.8 12.0B p103_r1 | .
+     179.6  311.7 12.0  p103_r1 | Ligne en dessus de sous bras :
+     198.9  303.0 12.0  p103_r1 | La cause 
+     231.0  311.7 12.0  p103_r1 | Le col est à l’écart du dos.
+     261.8  311.7 12.0  p103_r1 | Le bas du dos à l’écart du bassin.
+     292.4  311.7 12.0  p103_r1 | Le devant est vissé ver le dos
+     313.1  311.7 12.0  p103_r1 | (voir figure II.66)
+     345.7   76.2 11.0B p103_r1 | Figure II.66 : Longueur de dos insuffisante dans la ligne en dessus de sous bras
+     380.7   96.0 12.0  p103_r1 |  Longueur de dos insuffisante dans la
+     402.2  114.0 12.0  p103_r1 | ligne en dessus de sous bras.
+     431.3   78.0 12.0  p103_r1 | Longueur du dos abusif dans la ligne au-dessous
+     452.1   78.0 12.0  p103_r1 | de sous -bras :
+     473.0   78.0 12.0  p103_r1 | La cause :
+     493.6  114.0 12.0  p103_r1 | Pli horizontal sous le col.
+     524.2  114.0 12.0  p103_r1 | Le bas du dos est très près du bassin.
+     554.9  114.0 12.0  p103_r1 | Les devants sont vissés (voir figure II.67)
+     634.8  230.0 12.0B p103_r1 | Figure II.67 : longueur dos insuffisant (ligne dessus de sous bras)
+     790.7   61.0 10.0  p103_r1 | 102
+
+=== PDF p104 ===
+  [img] p104_r1 mixed 595x840pt @(0,0) lignes=24
+  [printed] 103   [lines] 24   [regions] 1
+      44.9  101.7 12.0B p104_r1 | CHAPITRE II :
+      44.9  214.4 12.0B p104_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      91.3  306.9 12.0B p104_r1 |  Le devant court de la veste tailleur
+     126.4  308.1 12.0  p104_r1 | La cause
+     148.1  288.9 12.0  p104_r1 | Le virage spiral du devant et le pli inclinés
+     168.2  288.9 12.0  p104_r1 | d’emmanchure ver les revers (voir figure
+     189.6  288.9 12.0B p104_r1 | II.68).
+     239.7   85.3 10.0B p104_r1 | Figure II.68 : Le devant court de la
+     253.2  131.4 10.0B p104_r1 | veste tailleur
+     303.0  111.5 12.0B p104_r1 |  Le devant long de la veste tailleur
+     334.5   93.5 12.0  p104_r1 | La cause
+     355.2  129.5 12.0  p104_r1 | Plis inclinés d’emmanchure devant
+     376.0  129.5 12.0  p104_r1 | ver le bord du devant (voir figure
+     396.6  129.5 12.0  p104_r1 | II.69)
+     458.5  362.2 10.0B p104_r1 | Figure II.69 : Le devant long de la
+     471.9  406.3 10.0B p104_r1 | veste tailleur
+     505.8  279.6 12.0B p104_r1 |  Virage spiral de la manche tailleur
+     537.3  306.0 12.0  p104_r1 | La cause
+     558.2  261.6 12.0  p104_r1 | Crans de la couture de coudre ne coïncident pas. C’est
+     578.8  261.6 12.0  p104_r1 | une fausse technique, Il faut exécuter la couture de
+     599.6  261.6 12.0  p104_r1 | nouveau (voit figure II.70)
+     692.9   90.1 12.0B p104_r1 | Figure II.70 : virage spiral de la manche
+     708.1  166.6 11.0B p104_r1 | tailleur
+     806.7  257.2 10.0  p104_r1 | 103
+
+=== PDF p105 ===
+  [img] p105_r1 mixed 595x840pt @(0,0) lignes=15
+  [printed] 104   [lines] 15   [regions] 1
+      44.9   91.1 12.0B p105_r1 | CHAPITRE II :
+      44.9  214.4 12.0B p105_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      78.6  283.0 12.0  p105_r1 | L’aplomb de la manche est déplacé :
+      99.4  283.0 12.0  p105_r1 | A-L ’aplomb est déplacée ver le dos :
+     120.1  283.0 12.0  p105_r1 | La cause
+     141.0  283.0 12.0  p105_r1 | Il y’a de plis dans le devant de la tête de
+     161.8  283.0 12.0  p105_r1 | manche.IL Faut corriger les places des crans-les
+     182.4  283.0 12.0  p105_r1 | nouveaux crans sont présentes avec*
+     203.3  283.0 12.0  p105_r1 | B-L ’aplomb est déplacée ver le devant :
+     224.0  283.0 12.0  p105_r1 | il y’a des plis dans le dos de la tête de la
+     244.8  283.0 12.0  p105_r1 | 777manche il faut corriger les places des
+     265.7  283.0 12.0  p105_r1 | crans-les nouveau crans sont présentes avec*
+     286.7  227.9 12.0  p105_r1 | (Voir figure II.71)
+     355.2  109.6 12.0B p105_r1 | Figure II.71 : L’aplomb de la manche est déplacé
+     804.8  289.7 10.0  p105_r1 | 104
+
+=== PDF p106 ===
+  [img] p106_r1 tab 595x840pt @(0,0) lignes=10
+  [printed] 105   [lines] 10   [regions] 1
+      44.9  101.7 12.0B p106_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p106_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      88.5   70.8 14.0B p106_r1 | II.3.3 : EXERCICE D’APPLICATION
+     120.7  151.8 12.0B p106_r1 | EXERCICE :01
+     145.8   83.1 11.9  p106_r1 | -
+     145.9  101.1 12.0  p106_r1 | Détecter les défauts après le montage de prototype en vue de l’essayage sur la
+     161.9  101.1 12.0  p106_r1 | manche et le col ?
+     177.6   83.1 11.9  p106_r1 | -
+     177.7  101.1 12.0  p106_r1 | Corriger sur le patron manche et col ?
+     806.6   65.1 10.0  p106_r1 | 105
+
+=== PDF p107 ===
+  [img] p107_r1 mixed 595x839pt @(0,0) lignes=13
+  [printed] 106   [lines] 13   [regions] 1
+      44.9  101.7 12.0B p107_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p107_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      98.1   70.8 14.0B p107_r1 | II.3.4 : Résume
+     248.7  178.7 12.0  p107_r1 | En vue d’apporter les corrections éventuelles à la veste, Ce
+     290.1  178.7 12.0  p107_r1 | chapitre permet aux apprenants de réaliser les déroulements de
+     331.5  178.7 12.0  p107_r1 | la préparation à l’essayage, il a été consacré aux :
+     372.9  178.7 12.0  p107_r1 | Techniques d’entoilage et les corrections du prototype en
+     414.3  178.7 12.0  p107_r1 | fonction
+     455.7  178.7 12.0  p107_r1 | Des aplombs, des ampleurs, d’aisance, et le volume du
+     497.1  178.7 12.0  p107_r1 | vêtement.
+     538.4  178.7 12.0  p107_r1 | De la conformité du prototype avec le patron avant d’obtenir la
+     579.8  178.7 12.0  p107_r1 | gamme de montage définitif.
+     805.3  273.3 10.0  p107_r1 | 106
+
+=== PDF p108 ===
+  [img] p108_r1 mixed 595x840pt @(0,0) lignes=26
+  [printed] 107   [lines] 26   [regions] 1
+      44.9  101.7 12.0B p108_r1 | CHAPITRE II :
+      44.9  214.5 12.0B p108_r1 | DEROULEMENT DES ETAPES DE FABRICATION
+      87.4   70.8 14.0B p108_r1 | II.3.5: EXERCICE DE SYNTHESE
+     122.9   70.8 12.0B p108_r1 | Spécialité : tailleur homme
+     162.7   74.5 12.0B p108_r1 | Module : fabrication prototype veste.
+     193.4   74.5 12.0B p108_r1 | Durée : 7h
+     224.6   74.5 12.0B p108_r1 | But : Réaliser la manche tailleur avec doublure.
+     249.0   74.5 12.0B p108_r1 | Matériel requis : Table de coupe, fer à repasser, machine droite, boutonnière
+     279.8   68.8 12.0B p108_r1 | Outils : Tissu, doublure, toile collante, fil, règle de 60 cm, équerre, craie tailleur, patrons.
+     305.8   74.5 12.0B p108_r1 | Accessoires : mettre ruban, ciseau, boutons
+     343.8   68.8 12.0B p108_r1 | Mise en situation :
+     371.2   68.8 12.0B p108_r1 | Les stagiaires reçoivent le matériel, outils et accessoires à fin d’établir la :
+     398.4  109.6 12.0  p108_r1 |  La gamme de montage
+     426.8  109.6 12.0  p108_r1 |  Les étapes de la préparation
+     455.4  109.6 12.0  p108_r1 |  Assemblage de la manche
+     483.8  109.6 12.0  p108_r1 |  Exécuter la finition de la manche
+     513.3   68.8 12.0B p108_r1 | Marche à suivre : à l’aide des patrons composants le veston :
+     541.8  119.1 14.0B p108_r1 |  Placer les patrons et découper la manche avec doublure
+     571.7  119.1 12.0B p108_r1 |  Entoiler le bas de la manche
+     601.7  119.1 12.0B p108_r1 |  Assembler le dessous de la manche avec dessus
+     631.6  119.1 12.0B p108_r1 |  Assembler le coin onglet avec doublure
+     661.6  119.1 12.0B p108_r1 |  Exécuter les boutonnières
+     691.5  119.1 12.0B p108_r1 |  Repasser
+     721.5  119.1 12.0B p108_r1 |  Fixer les boutons.
+     759.6   74.5 12.0  p108_r1 | :
+     807.2   65.1 10.0  p108_r1 | 107
