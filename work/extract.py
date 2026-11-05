@@ -104,8 +104,8 @@ for pno in range(P0 - 1, min(P1, doc.page_count)):
             continue
         rects.append(r)
 
-    # --- aires dessinées (tableaux vectoriels, cartes, traits) ---
-    dr = []
+    # --- aires dessinées (tableaux vectoriels) : uniquement des « cellules » ---
+    cells = []
     for item in page.get_drawings():
         try:
             r = fitz.Rect(item["rect"])
@@ -113,18 +113,22 @@ for pno in range(P0 - 1, min(P1, doc.page_count)):
             continue
         if r.is_empty:
             continue
+        # filets pleine largeur / pleine hauteur : ne jamais les faire cluster
+        if (r.width > 0.55 * prec.width and r.height < 14) or (r.height > 0.55 * prec.height and r.width < 14):
+            continue
+        if r.get_area() > 0.45 * prec.get_area():
+            continue
         if r.width < 6 and r.height < 6:
             continue
-        dr.append(r)
+        cells.append(r)
     vec = []
-    for c in cluster(dr, gap=2.0):
-        if c.width < 40 or c.height < 24:
+    for c in cluster(cells, gap=1.5):
+        if c.width < 60 or c.height < 40:
             continue
-        if c.get_area() < 0.012 * prec.get_area():
+        if c.get_area() > 0.72 * prec.get_area():
             continue
         vec.append(c)
     rects.extend(vec)
-
     def decorative(r):
         """bandeau latéral / filets : pleine hauteur mais très étroits, ou minuscules."""
         full_h = r.height > 0.95 * prec.height
@@ -141,6 +145,20 @@ for pno in range(P0 - 1, min(P1, doc.page_count)):
     for c in cluster(kept, gap=4.0):
         c = c & prec
         if c.width > 18 and c.height > 18:
+            clusters.append(c)
+    # un cluster qui avalerait la page entière est un artefact de cadre : on le remplace par ses images
+    fixed = []
+    for c in clusters:
+        if c.get_area() > 0.78 * prec.get_area():
+            parts = [r & prec for r in kept if c.contains(r) or overlap(c, r).get_area() > 0.4 * max(r.get_area(), 1)]
+            parts = [p for p in parts if p.width > 18 and p.height > 18 and p.get_area() <= 0.78 * prec.get_area()]
+            fixed.extend(parts if parts else [])
+        else:
+            fixed.append(c)
+    # dédoublonnage
+    clusters = []
+    for c in fixed:
+        if not any(overlap(c, d).get_area() > 0.85 * min(c.get_area(), d.get_area()) for d in clusters):
             clusters.append(c)
     clusters.sort(key=lambda c: (round(c.y0), c.x0))
 

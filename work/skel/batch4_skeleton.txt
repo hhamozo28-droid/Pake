@@ -1277,14 +1277,14 @@
 
 === PDF p229 ===
   [img] p229_r1 mixed 416x51pt @(88,45) lignes=1
-  [img] p229_r2 fig 425x646pt @(71,111) lignes=0
+  [img] p229_r2 fig 389x610pt @(89,128) lignes=0
   [printed] 40   [lines] 2   [regions] 2
       61.5  135.5 18.0B p229_r1 | LA GAMME DE COLORES DES TISSU
      786.2  286.1 10.0      | XL
 
 === PDF p230 ===
   [img] p230_r1 mixed 443x47pt @(83,69) lignes=1
-  [img] p230_r2 fig 446x597pt @(82,133) lignes=0
+  [img] p230_r2 fig 410x562pt @(100,151) lignes=0
   [printed] 41   [lines] 2   [regions] 2
       83.2  114.5 18.0B p230_r1 | MATIERE SECONDAIRES ET ACCESSOIRES
      786.2  286.1 10.0      | XLI
