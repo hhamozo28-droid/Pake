@@ -261,6 +261,8 @@ def build(doc, blocks, LINEBY, FIGDIR, REG, P, add_table, add_picture, shade, rt
     for p in pages:
         for r in p["regions"]:
             if r["id"] in extra_ids: continue
+            if not r.get("has_image", True): continue      # منطقة رسم متّجهي لا صورة فيها
+            if r["w_pt"] * r["h_pt"] > 0.70 * 595 * 841: continue
             lines=[l["text"].strip() for l in p["lines"] if l["reg"]==r["id"] and l["text"].strip()]
             if not lines: continue
             fr=" — ".join(lines)

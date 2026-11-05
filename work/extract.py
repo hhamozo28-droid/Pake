@@ -94,6 +94,7 @@ for pno in range(P0 - 1, min(P1, doc.page_count)):
             break
 
     # ---------- images ----------
+    imgs = []
     rects = []
     for info in page.get_image_info(xrefs=True):
         try:
@@ -102,7 +103,7 @@ for pno in range(P0 - 1, min(P1, doc.page_count)):
             continue
         if r.is_empty or r.width < 4 or r.height < 4:
             continue
-        rects.append(r)
+        rects.append(r); imgs.append(r)
 
     # --- aires dessinées (tableaux vectoriels) : uniquement des « cellules » ---
     cells = []
@@ -181,7 +182,8 @@ for pno in range(P0 - 1, min(P1, doc.page_count)):
         if inside:
             short = sum(1 for L in inside if len(L["text"]) < 26)
             kind = "tab" if (len(inside) >= 6 and short >= 0.5 * len(inside)) else "mixed"
-        regions.append({"id": rid, "kind": kind,
+        has_img = any(overlap(c, r).get_area() > 0.45 * max(r.get_area(), 1) for r in imgs)
+        regions.append({"id": rid, "kind": kind, "has_image": bool(has_img),
                         "x0": round(c.x0, 1), "y0": round(c.y0, 1),
                         "x1": round(c.x1, 1), "y1": round(c.y1, 1),
                         "w_pt": round(c.width, 1), "h_pt": round(c.height, 1),
