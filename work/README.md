@@ -1,27 +1,54 @@
-# إعادة إنتاج ترجمة الدليل (AR)
+# ترجمة دليل «Fabrication prototype veston» — حالة العمل
 
-الملفات:
-- `source-VC-2019-veston.pdf` — ملف المصدر (243 صفحة) — مرجع وحيد، لا يُعدَّل.
-- `extract.py` — الاستخراج: `python work/extract.py P0 P1 batchN`
-  ينتج `work/batchN_blocks.json` (نص + مناطق)، `work/batchN_extra.json` (صور صغيرة/منسيّة)،
-  `work/batchN_figs/*.jpg` (قصاصات بالحجم الأصلي — مُتجاهَلة في git، تُعاد توليدَها)،
-  `work/skel/batchN_skeleton.txt` (سكلتون للقراءة).
-- `ar/ ar2/ ar3/ ar4/` — نصّ الترجمة العربيّة بوسوم بسيطة (انظر الترويسة في `build.py`).
-- `build.py` — بناء ملف دفعة واحدة، و`build_all.py` — الملف الكامل.
-- `companion2.py` — ملف الملاحق المستقلّ لكل دفعة.
-- `annex_batchN.py` / `annex_all.py` — نصوص الصور + ملاحظات المترجم + المسرد.
-- `pdf_preview.py` — معاينة PDF.
+## الحالة (2026-11-05)
+| الدفعة | صفحات الأصل | نصّ عربي | docx مُسلَّم | ملاحق الدفعة |
+|---|---|---|---|---|
+| 1 | 1–61 | ✅ `work/ar/*.md` | ✅ `traduction/out-batch1.docx` | ⏳ `annex_batch1.py` |
+| 2 | 62–108 | ✅ `work/ar2/*.md` | ✅ `traduction/out-batch2.docx` | ⏳ `annex_batch2.py` |
+| 3 | 109–188 | ✅ `work/ar3/*.md` | ✅ `traduction/out-batch3.docx` | ⏳ `annex_batch3.py` |
+| 4 | 189–243 | ✅ `work/ar4/*.md` | ✅ `traduction/out-batch4.docx` (مع الملاحق) | ✅ `annex_batch4.py` |
 
-الأمر الكامل لكل دفعة (من جذر المستودع):
+روابط التحميل (فرع الجلسة `arena/de0f036b-pake`):
+`https://github.com/hhamozo28-droid/Pake/raw/arena/de0f036b-pake/traduction/out-batch1.docx` (وكذلك 2، 3، 4).
 
+## البيئة
+```sh
+sh work/setup.sh        # .venv + pymupdf + python-docx + pillow
 ```
-python work/extract.py    1 61   batch1
-python work/extract.py   62 108  batch2
-python work/extract.py  109 188  batch3
-python work/extract.py  189 243  batch4
-TAG=batch4 ARDIR=work/ar4 ANNEX=annex_batch4 OUT=out4.docx python work/build.py
-CTITLE="ملحق نصوص الصور والملاحظات — الدفعة 4" COMP=out4-annex.docx ANNEX=annex_batch4 python work/companion2.py
-```
+كلّ ما هو خارج المستودع يُفقد عند إعادة تهيئة البيئة؛ القصاصات (`work/*_figs/`) مُستثناة من git وتُولَّد عند الاستخراج.
 
-المدفوعات: 1 = ص1–61 · 2 = ص62–108 · 3 = ص109–188 · 4 = ص189–243.
-المسرد مُثبَّت (4 نوفمبر 2026) ولا يتغيّر المصطلح في أي موضع.
+## الأوامر
+```sh
+# (اختياري) إعادة الاستخراج من PDF
+.venv/bin/python work/extract.py 1 61 batch1      # 62 108 batch2 | 109 188 batch3 | 189 243 batch4
+
+# بناء دفعة
+TAG=batch1 ARDIR=work/ar  ANNEX=none OUT=out-batch1.docx .venv/bin/python work/build.py
+TAG=batch2 ARDIR=work/ar2 ANNEX=none OUT=out-batch2.docx .venv/bin/python work/build.py
+TAG=batch3 ARDIR=work/ar3 ANNEX=none OUT=out-batch3.docx .venv/bin/python work/build.py
+TAG=batch4 ARDIR=work/ar4 ANNEX=annex_batch4 OUT=out-batch4.docx .venv/bin/python work/build.py
+```
+`ANNEX=none` للتجربة السريعة (بلا ملاحق)؛ و`OUT` اسم ملف مجرّد يوضع في `traduction/`.
+
+## فحص سريع بعد كلّ بناء
+```sh
+.venv/bin/python - <<'PY'
+from docx import Document; import os
+f='traduction/out-batch3.docx'; d=Document(f); x=d.element.body.xml
+t="\n".join(p.text for p in d.paragraphs)
+print(round(os.path.getsize(f)/1e6,3),'MB | فقرة',len(d.paragraphs),'| جدول',len(d.tables),
+      '| صورة',len(d.inline_shapes),'| فاصل',x.count('w:type="page"'),
+      '| بالٍ',t.count('وسم غير معروف')+t.count('صورة مفقودة'))
+PY
+```
+الفواصل = عدد الصفحات − 1. الوسم المجهول يظهر فقرةً حمراء في الملفّ.
+
+## الملفات
+- `work/extract.py` — استخراج `blocks.json` (صفحات/مناطق/أسطر + `has_image`)، و`*_figs/*.jpg`، و`skel/*_skeleton.txt` (قراءة بشرية).
+- `work/build.py` — بنّاء docx من وسوم `@` في `work/ar*/`.
+- `work/annex_batch4.py` — واجهة الملحقات (CONFIRM، CONFIRM_NOTE، MANUAL، NOTES، GLOSS_EXTRA)؛ مرجع لأي ملحق دفعة.
+- `work/source-VC-2019-veston.pdf` — المصدر (243 ص).
+
+## المتبقّي
+1. `annex_batch{1,2,3}.py` (ملاحظات المترجم + نصوص الصور + مسرد لكل دفعة) ثمّ إعادة بناء الدفعات بها.
+2. الملفّ الموحَّد 1–243 بثلاثة مقاطع ترقيم (بلا ترقيم 1–12، ثمّ `decimal start=12`، ثمّ `upperRoman start=1`) + معاينة PDF + `تعليمات_التعديل.txt`.
