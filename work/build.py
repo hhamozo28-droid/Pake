@@ -4,6 +4,11 @@
     TAG=batch4 ARDIR=work/ar4 ANNEX=annex_batch4 OUT=out.docx python work/build.py
 """
 import json, os, re, sys, glob
+try:
+    import pymupdf as fitz
+except ImportError:
+    import fitz
+SRC=os.environ.get("SRC","work/source-VC-2019-veston.pdf")
 from docx import Document
 from docx.shared import Pt, Cm, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
@@ -179,8 +184,9 @@ def parse(files):
             s=raw.strip()
             if not s: continue
             if s.startswith("@TABEND"): flush(); continue
-            if intab and s.startswith("@TABROW"):
-                tabrows.append([c.strip() for c in s[len("@TABROW"):].split("||")]); continue
+            if intab and (s.startswith("@TABROW") or s.startswith("@ROW")):
+                t = "@TABROW" if s.startswith("@TABROW") else "@ROW"
+                tabrows.append([c.strip() for c in s[len(t):].split("||")]); continue
             if s.startswith("#PAGE"):
                 pg=int(s.split()[1])
                 if cur_page is not None:
@@ -194,6 +200,25 @@ def parse(files):
             if s=="@TOC":
                 P("جدول المحتويات (يُحدَّث آلياً في Word: زر F9)", align=WD_ALIGN_PARAGRAPH.CENTER, size=12, italic=True, color="808080")
                 p=doc.add_paragraph(); rtl_paragraph(p); add_field(p, r'TOC \o "1-3" \h \z \u')
+                continue
+            if s.startswith("@FULLPAGE"):
+                flush()
+                parts=s.split()
+                pg=int(parts[1]); box=None
+                if len(parts)>=7: box=fitz.Rect(*[float(v) for v in parts[2:6]]); w=float(parts[6])
+                else: w=float(parts[2]) if len(parts)>2 else 17.0
+                fn=f"{FIGDIR}/full_p{pg:03d}.jpg"
+                if not os.path.exists(fn):
+                    os.makedirs(FIGDIR,exist_ok=True)
+                    dd=fitz.open(SRC); pa=dd[pg-1]
+                    clip=(box & pa.rect) if box else pa.rect
+                    pix=pa.get_pixmap(matrix=fitz.Matrix(200/72,200/72), clip=clip, alpha=False)
+                    png=fn[:-4]+".png"; pix.save(png)
+                    from PIL import Image
+                    Image.open(png).convert("RGB").save(fn, quality=88, optimize=True); os.remove(png)
+                    dd.close()
+                pp=doc.add_paragraph(); pp.alignment=WD_ALIGN_PARAGRAPH.CENTER; rtl_paragraph(pp)
+                pp.add_run().add_picture(fn, width=Cm(min(w,18.0)))
                 continue
             if s.startswith("@IMG") or s.startswith("@CROP"):
                 flush()
@@ -240,9 +265,13 @@ def parse(files):
                     m=NUM_RE.match(s); lvl=int(m.group(1)); txt=m.group(2)
                     ncounter[lvl]=ncounter.get(lvl,0)+1
                     P(f"{ncounter[lvl]}- {txt}", style='List Number' if lvl==1 else 'List Number 2', size=14)
+                elif s.startswith("@P4"): P(s[3:], size=13, bold=True, color="002060", ind=0.8)
+                elif s.startswith("@P3"): P(s[3:], size=14, bold=True, color="7030A0")
                 elif s.startswith("@P2"): P(s[3:], size=14, bold=True)
                 elif s.startswith("@B"): P(s[2:], size=14, bold=True, color="C00000")
                 elif s.startswith("@P"): P(s[2:], size=14)
+                elif s.startswith("@"):
+                    P(f"[وسم غير معروف: {s[:40]}]", color="FF0000", size=11)
                 elif s.startswith("@CENTERHEAD"): pass
     flush()
 
