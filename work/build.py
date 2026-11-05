@@ -279,9 +279,10 @@ parse(sorted(glob.glob(ARDIR+"/*.md")))
 
 # ---------- annexes ----------
 sys.path.insert(0,"work")
-AN=__import__(ANNEX)
-AN.build(doc, blocks, LINEBY, FIGDIR, REG, P, add_table, add_picture, shade, rtl_paragraph,
-         WD_ALIGN_PARAGRAPH, Pt, Cm, RGBColor, WD_BREAK)
+AN=__import__(ANNEX) if ANNEX and ANNEX!="none" else None
+if AN is not None:
+    AN.build(doc, blocks, LINEBY, FIGDIR, REG, P, add_table, add_picture, shade, rtl_paragraph,
+             WD_ALIGN_PARAGRAPH, Pt, Cm, RGBColor, WD_BREAK)
 
 os.makedirs("traduction",exist_ok=True)
 out="traduction/"+OUT
