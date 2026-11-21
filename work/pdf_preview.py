@@ -7,12 +7,12 @@
 الاستعمال:  .venv/bin/python work/pdf_preview.py            # كامل 1–243
             .venv/bin/python work/pdf_preview.py 100 140    # نطاق صفحات الأصل
 """
-import os, re, glob, html, sys
+import os, re, glob, html, sys, json
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 os.chdir(ROOT)
-ARDIRS = ["work/ar", "work/ar2", "work/ar3", "work/ar4"]
-FIGS = "work/all_figs"
+ARDIRS = [d for d in os.environ.get("ARDIRS","work/ar,work/ar2,work/ar3,work/ar4").split(",")]
+FIGS = os.environ.get("FIGS","work/all_figs")
 OUTPDF = os.environ.get("OUTPDF", "traduction/معاينة-كامل-1-243.pdf")
 P0 = int(sys.argv[1]) if len(sys.argv) > 1 else 1
 P1 = int(sys.argv[2]) if len(sys.argv) > 2 else 243
@@ -75,7 +75,7 @@ def img_tag(fid, w_cm=None):
 
 def render(md_files):
     """Retourne une liste de fragments HTML, un par page d'origine."""
-    pages, cur = [], None
+    pages, cur, prev = [], None, None
     tbl = None
     for fn in md_files:
         for raw in open(fn, encoding="utf-8").read().split("\n"):
@@ -166,6 +166,13 @@ def main():
     os.makedirs(os.path.dirname(OUTPDF), exist_ok=True)
     writer = pymupdf.DocumentWriter(OUTPDF)
     a4 = pymupdf.paper_rect("a4")
+    A4L = pymupdf.Rect(0, 0, 842, 595)
+    land = set()
+    _fcb = os.environ.get("FCBLOCKS", "")
+    if _fcb and os.path.exists(_fcb):
+        for _pg in json.load(open(_fcb)):
+            if _pg["landscape"]:
+                land.add(_pg["page"])
 
     IDENT = getattr(pymupdf, "Identity", None) or pymupdf.Matrix(1, 1)
 
@@ -175,7 +182,11 @@ def main():
         hdr = "<h1 class='pg'>صفحة %d من الأصل</h1>" % pg if pg else ""
         st = pymupdf.Story(html="<html><head><style>%s</style></head><body>%s<div>%s</div></body></html>" % (CSS, hdr, body),
                            archive=pymupdf.Archive("."))
-        st.write(writer, rectfn)
+        _lc = [pg in land]
+        def rf(pno, filled, _l=_lc):
+            r = A4L if _l[0] else a4
+            return r, r + (34, 30, -34, -30), IDENT
+        st.write(writer, rf)
     writer.close()
     d = pymupdf.open(OUTPDF)
     print("pages PDF:", d.page_count, "->", OUTPDF, round(os.path.getsize(OUTPDF) / 1e6, 3), "MB")
