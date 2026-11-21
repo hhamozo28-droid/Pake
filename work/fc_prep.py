@@ -141,6 +141,7 @@ def blocks_from_lines(lines, gap=9.0):
     return out
 
 
+GRID_L={}
 def grid_from_image(path, W, H):
     """Détecte les traits de tableau dans l'image de fond : rendues binaires puis
     moyennées par ligne / par colonne (redimensionnement 1xN)."""
@@ -167,6 +168,7 @@ def grid_from_image(path, W, H):
     vl = peaks(cx, 0.28, 4)          # traits verticaux
     sc = (W / w, H / h)
     hl = [y * sc[1] for y in hl]; vl = [x * sc[0] for x in vl]
+    GRID_L["h"]=hl; GRID_L["v"]=vl
     if len(hl) < 2 or len(vl) < 2:
         return []
     cells = []
@@ -195,6 +197,19 @@ for pno in range(doc.page_count):
     if not os.path.exists(rdj):
         pix = p.get_pixmap(dpi=DPI)
         pix.pil_save(rdj, quality=82, optimize=True)
+    allchars = []
+    for b in p.get_text("rawdict")["blocks"]:
+        if b["type"] != 0:
+            continue
+        for ln in b["lines"]:
+            for sp in ln["spans"]:
+                for ch in sp["chars"]:
+                    bb = ch["bbox"]
+                    if ch["c"] == "\n":
+                        continue
+                    allchars.append({"x0": round(bb[0], 1), "x1": round(bb[2], 1), "y0": round(bb[1], 1),
+                                     "y1": round(bb[3], 1), "c": ch["c"], "sz": round(sp["size"], 1)})
+    CUR_CHARS = allchars
     lines = page_chars(p)
     # on exclut le pied d'une ligne d'eau « Machine Translated by Google »
     lines = [l for l in lines if "Translated" not in "".join(c for _, _, c in l["chars"])]
@@ -211,10 +226,11 @@ for pno in range(doc.page_count):
     for c in cells:
         c.setdefault("text", "")
     out.append({"page": pno + 1, "w": round(W, 1), "h": round(H, 1), "landscape": W > H,
+                "hlines": [round(v, 1) for v in GRID_L.get("h", [])], "vlines": [round(v, 1) for v in GRID_L.get("v", [])],
                 "blocks": [{"x0": round(b["x0"], 1), "y0": round(b["y0"], 1), "x1": round(b["x1"], 1),
                             "y1": round(b["y1"], 1), "size": round(b["size"], 1), "cell": b["cell"],
                             "text": b["text"]} for b in blks],
-                "grid": cells, "nrows": (max(c["r"] for c in cells) + 1) if cells else 0,
+                "chars": CUR_CHARS, "grid": cells, "nrows": (max(c["r"] for c in cells) + 1) if cells else 0,
                 "ncols": (max(c["c"] for c in cells) + 1) if cells else 0})
 
 json.dump(out, open("work/fc_blocks.json", "w"), ensure_ascii=False, indent=1)
